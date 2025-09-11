@@ -110,8 +110,14 @@ var countriesData = {
 var map = L.map('map', { center: [20, 0], zoom: 2, minZoom:1, maxZoom:5 });
 var countryFillColor = "#ffc0cb";
 
-fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
+fetch('https://stagiaire94260.github.io/-alimentation-monde/countriesData.json')
 .then(res => res.json())
+   .then(res => res.json())
+  .then(data => {
+    countriesData = data;
+    console.log("Données des pays chargées", countriesData);
+  })
+  .catch(err => console.error("Erreur lors du chargement du fichier JSON", err));
 .then(geojson => {
   L.geoJSON(geojson, {
     style: f=>({ fillColor: countryFillColor, color:"#fff", weight:1, fillOpacity:0.7 }),
