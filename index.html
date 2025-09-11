@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Menus par Pays</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<style>
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#fff; color:#333; }
+h2 { text-align:center; color:#ff1a75; margin:20px 0; }
+#map { width:100%; height:400px; border-radius:15px; margin-bottom:15px; }
+#menu { max-width:800px; margin:auto; }
+select, button { padding:8px 12px; border-radius:10px; margin-right:10px; border:1px solid #ff1a75; background:#fff0f6; color:#ff1a75; font-weight:bold; cursor:pointer; }
+</style>
+</head>
+<body>
+
+<h2>Choisis ton alimentation en fonction de ton pays / préférences</h2>
+<div style="text-align:center; margin-bottom:15px;">
+<select id="continent" onchange="afficherPays()">
+<option value="">-- Choisis ton continent --</option>
+<option value="Afrique">Afrique</option>
+<option value="Europe">Europe</option>
+<option value="Amérique">Amérique</option>
+</select>
+<select id="pays" style="display:none;" onchange="zoomPays()">
+<option value="">-- Choisis ton pays --</option>
+</select>
+<button onclick="genererMenu()">Voir mon menu</button>
+</div>
+
+<div id="map"></div>
+<div id="menu"></div>
+
+<script>
+let countriesData = {};
+fetch('countriesData.json')
+  .then(res=>res.json())
+  .then(data=>{ countriesData = data; console.log("Menus chargés", countriesData); })
+  .catch(err=>console.error("Erreur chargement JSON", err));
+
+let map = L.map('map', {center:[20,0], zoom:2, minZoom:1, maxZoom:5});
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap'}).addTo(map);
+
+function afficherPays(){
+  let cont = document.getElementById("continent").value;
+  let paysSelect = document.getElementById("pays");
+  paysSelect.style.display = cont?"inline-block":"none";
+  paysSelect.innerHTML = "<option value=''>-- Choisis ton pays --</option>";
+  if(cont){
+    Object.keys(countriesData[cont]).forEach(p=>{
+      let o = document.createElement("option"); o.value=p; o.textContent=p;
+      paysSelect.appendChild(o);
+    });
+  }
+}
+
+function zoomPays(){
+  let cont = document.getElementById("continent").value;
+  let p = document.getElementById("pays").value;
+  if(cont && p){
+    map.setView(countriesData[cont][p].coords,5);
+  }
+}
+
+function genererMenu(){
+  let cont = document.getElementById("continent").value;
+  let p = document.getElementById("pays").value;
+  if(!cont || !p){ alert("Choisis ton continent et ton pays"); return; }
+  let menuDiv = document.getElementById("menu"); menuDiv.innerHTML="";
+  let menu = countriesData[cont][p].plats;
+  menu.forEach(day=>{
+    let dayCard = document.createElement("div");
+    dayCard.style.margin="10px"; dayCard.style.padding="10px"; dayCard.style.background="#fbc4e3"; dayCard.style.borderRadius="10px";
+    let header = document.createElement("div"); header.style.fontWeight="bold"; header.textContent = day.jour;
+    let mealsDiv = document.createElement("div"); mealsDiv.style.marginTop="5px";
+    ["petitdej","dej","collation","diner"].forEach(meal=>{
+      let div = document.createElement("div"); div.style.marginBottom="5px";
+      let mealTitle = meal==="petitdej"?"Petit-déjeuner":meal==="dej"?"Déjeuner":meal==="collation"?"Collation":"Dîner";
+      div.innerHTML = `<strong>${mealTitle}</strong>: ${day[meal].plat} <em style="color:#555;">(Alt: ${day[meal].alt})</em>`;
+      mealsDiv.appendChild(div);
+    });
+    dayCard.appendChild(header); dayCard.appendChild(mealsDiv); menuDiv.appendChild(dayCard);
+  });
+}
+</script>
+</body>
+</html>
