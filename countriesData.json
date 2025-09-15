@@ -1,0 +1,54 @@
+{
+  "Afrique": {
+    "Sénégal": {
+      "coords": [14.4974, -14.4524],
+      "feculents": "Riz, attiéké, igname, fonio",
+      "proteines": "Poisson, poulet, niébé",
+      "legumes": "Gombo, bissap, épinards",
+      "fruits": "Mangue, papaye",
+      "plats": [
+        {
+          "jour": "Lundi",
+          "petitdej": { "plat": "Bouillie de mil", "alt": "Bouillie avoine + fruits" },
+          "dej": { "plat": "Thiéboudienne riz + poisson", "alt": "Thiéboudienne + légumes vapeur" },
+          "collation": { "plat": "Beignets de banane", "alt": "Plantain poêlé ou au four" },
+          "diner": { "plat": "Poulet Yassa + attiéké", "alt": "Poulet Yassa + légumes" }
+        }
+      ]
+    },
+    "Maroc": {
+      "coords": [31.7917, -7.0926],
+      "feculents": "Couscous, pain, riz",
+      "proteines": "Agneau, poulet, poisson",
+      "legumes": "Carottes, courgettes, pois chiches",
+      "fruits": "Oranges, figues",
+      "plats": [
+        {
+          "jour": "Lundi",
+          "petitdej": { "plat": "Baghrir", "alt": "Smoothie bowl" },
+          "dej": { "plat": "Couscous aux légumes et poulet", "alt": "Couscous complet + légumes" },
+          "collation": { "plat": "Dattes", "alt": "Fruits frais" },
+          "diner": { "plat": "Tajine d’agneau aux pruneaux", "alt": "Tajine léger légumes" }
+        }
+      ]
+    }
+  },
+  "Europe": {
+    "France": {
+      "coords": [46.603354, 1.888334],
+      "feculents": "Pain, pâtes, riz",
+      "proteines": "Poulet, bœuf, poisson",
+      "legumes": "Haricots verts, carottes, salade",
+      "fruits": "Pommes, poires",
+      "plats": [
+        {
+          "jour": "Lundi",
+          "petitdej": { "plat": "Tartine beurre-confiture", "alt": "Pain complet + fruits" },
+          "dej": { "plat": "Bœuf bourguignon + riz", "alt": "Poisson + quinoa" },
+          "collation": { "plat": "Croissant", "alt": "Yaourt nature" },
+          "diner": { "plat": "Soupe à l’oignon", "alt": "Soupe légumes variés" }
+        }
+      ]
+    }
+  }
+}
