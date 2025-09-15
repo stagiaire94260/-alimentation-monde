@@ -1,0 +1,49 @@
+{
+  "Afrique": {
+    "Sénégal": {
+      "coords": [14.4974, -14.4524],
+      "feculents": "Riz, attiéké, igname, fonio",
+      "proteines": "Poisson, poulet, niébé",
+      "legumes": "Gombo, bissap, épinards",
+      "fruits": "Mangue, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Bouillie avoine + fruits"},"dej":{"plat":"Thiéboudienne riz + poisson","alt":"Thiéboudienne + légumes vapeur"},"collation":{"plat":"Beignets de banane","alt":"Plantain poêlé"},"diner":{"plat":"Poulet Yassa + attiéké","alt":"Poulet Yassa + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain de manioc + confiture","alt":"Pain complet + fruits"},"dej":{"plat":"Mafé + riz","alt":"Mafé + légumes vapeur"},"collation":{"plat":"Noix de cajou","alt":"Amandes grillées"},"diner":{"plat":"Poisson braisé + riz","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bouillie de fonio","alt":"Porridge avoine + fruits"},"dej":{"plat":"Yassa poulet + riz","alt":"Yassa poulet + quinoa"},"collation":{"plat":"Beignets de manioc","alt":"Carottes + houmous"},"diner":{"plat":"Soupe kandja","alt":"Soupe légumes + poulet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pain complet + beurre de cacahuète","alt":"Smoothie bowl"},"dej":{"plat":"Couscous sénégalais aux légumes","alt":"Couscous complet + légumes"},"collation":{"plat":"Bananes séchées","alt":"Fruits frais"},"diner":{"plat":"Tiep bou dienn","alt":"Poisson + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Crêpes de mil","alt":"Pancakes avoine + fruits"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Noix de karité","alt":"Noix ou amandes"},"diner":{"plat":"Poulet DG","alt":"Poulet grillé + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie de sorgho","alt":"Porridge + fruits"},"dej":{"plat":"Soupe kandia + riz","alt":"Soupe légumes + riz complet"},"collation":{"plat":"Beignets de banane","alt":"Fruit frais"},"diner":{"plat":"Yassa poisson + attiéké","alt":"Poisson + quinoa"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain de manioc","alt":"Smoothie bowl"},"dej":{"plat":"Mafé + riz","alt":"Mafé + légumes vapeur"},"collation":{"plat":"Noix de cajou","alt":"Fruits frais"},"diner":{"plat":"Thiéboudienne","alt":"Poisson vapeur + légumes"}}
+      ]
+    },
+    "Maroc": {
+      "coords": [31.7917, -7.0926],
+      "feculents": "Couscous, pain, riz",
+      "proteines": "Agneau, poulet, poisson",
+      "legumes": "Carottes, courgettes, pois chiches",
+      "fruits": "Oranges, figues",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Couscous aux légumes et poulet","alt":"Couscous complet + légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine d’agneau aux pruneaux","alt":"Tajine léger légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Msemmen","alt":"Porridge + fruits"},"dej":{"plat":"Tajine de poulet aux olives","alt":"Tajine légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Harira","alt":"Harira légère"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Baghrir + miel","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous végétarien"},"collation":{"plat":"Amandes grillées","alt":"Fruits frais"},"diner":{"plat":"Tajine de kefta","alt":"Tajine légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Msemen + confiture","alt":"Pancakes avoine"},"dej":{"plat":"Pastilla au poulet","alt":"Pastilla légère légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Couscous aux légumes","alt":"Couscous complet"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Baghrir + beurre","alt":"Smoothie bowl"},"dej":{"plat":"Tajine de poisson","alt":"Tajine légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Rfissa","alt":"Rfissa légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Msemen + miel","alt":"Porridge"},"dej":{"plat":"Couscous aux légumes","alt":"Couscous complet"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tajine d’agneau","alt":"Tajine légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous végétarien"},"collation":{"plat":"Amandes","alt":"Fruits frais"},"diner":{"plat":"Harira","alt":"Soupe légumes"}}
+      ]
+    }
+  },
+  "Europe": {
+    "France": {
+      "coords": [46.2276, 2.2137],
+      "feculents": "Pain, pâtes, riz",
+      "proteines": "Poulet, poisson, œufs",
+      "legumes": "Carottes, épinards, brocolis",
+      "fruits": "Pommes, poires",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Croissant","alt":"Smoothie bowl"},"dej":{"plat":"Poulet rôti + riz","alt":"Poulet + quinoa"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Soupe de légumes","alt":"Soupe légumes + légumineuses"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain + confiture","alt":"Porridge"},"dej":{"plat":"Salade Niçoise","alt":"Salade légumes + œufs"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Quiche","alt":"Quiche légumes"}}
+      ]
+    }
+  }
+}
