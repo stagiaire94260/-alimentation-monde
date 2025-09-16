@@ -145,7 +145,7 @@
     {"jour":"Samedi","petitdej":{"plat":"Café + beignets","alt":"Fruits + thé"},"dej":{"plat":"Poulet braisé","alt":"Poulet grillé"},"collation":{"plat":"Bissap","alt":"Infusion sans sucre"},"diner":{"plat":"Couscous mil","alt":"Couscous complet"}},
     {"jour":"Dimanche","petitdej":{"plat":"Pain + lait","alt":"Pain complet + fruits"},"dej":{"plat":"Thiéboudienne","alt":"Thiéboudienne légumes"},"collation":{"plat":"Papaye","alt":"Mangue"},"diner":{"plat":"Brochettes","alt":"Brochettes maigres + salade"}}
   ]
-}
+},
     "Maroc": {
   "coords": [31.7917, -7.0926],
   "feculents": "Semoule, pain, couscous",
@@ -161,7 +161,7 @@
     {"jour":"Samedi","petitdej":{"plat":"Msemen","alt":"Pain complet + fruit"},"dej":{"plat":"Tajine légumes","alt":"Tajine vapeur"},"collation":{"plat":"Biscuits","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur"}},
     {"jour":"Dimanche","petitdej":{"plat":"Thé + gâteaux","alt":"Thé vert + amandes"},"dej":{"plat":"Méchoi (agneau rôti)","alt":"Agneau maigre grillé"},"collation":{"plat":"Fruits","alt":"Yaourt nature"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe allégée"}}
   ]
-}
+},
     "Cap Vert": {
       "coords": [16.5388, -23.0418],
       "feculents": "Milho (maïs), riz, farine de manioc",
