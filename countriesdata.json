@@ -1,89 +1,619 @@
 {
-  "Afrique": {
-    "Sénégal": {
-      "coords":[14.4974,-14.4524],
-      "feculents":"Riz, attiéké, igname, fonio",
-      "proteines":"Poisson, poulet, niébé",
-      "legumes":"Gombo, bissap, épinards",
-      "fruits":"Mangue, papaye",
-      "plats":[
-        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Bouillie avoine + fruits"},"dej":{"plat":"Thiéboudienne riz + poisson","alt":"Thiéboudienne + légumes vapeur"},"collation":{"plat":"Beignets de banane","alt":"Plantain poêlé ou au four"},"diner":{"plat":"Poulet Yassa + attiéké","alt":"Poulet Yassa + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pain de manioc + confiture","alt":"Pain complet + fruits"},"dej":{"plat":"Mafé + riz","alt":"Mafé + légumes vapeur"},"collation":{"plat":"Noix de cajou","alt":"Amandes grillées"},"diner":{"plat":"Poisson braisé + riz","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bouillie de fonio","alt":"Porridge avoine + fruits"},"dej":{"plat":"Yassa poulet + riz","alt":"Yassa poulet + quinoa"},"collation":{"plat":"Beignets de manioc","alt":"Carottes + houmous"},"diner":{"plat":"Soupe kandja","alt":"Soupe légumes + poulet"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pain complet + beurre de cacahuète","alt":"Smoothie bowl"},"dej":{"plat":"Couscous sénégalais aux légumes","alt":"Couscous complet + légumes"},"collation":{"plat":"Bananes séchées","alt":"Fruits frais"},"diner":{"plat":"Tiep bou dienn","alt":"Poisson + légumes vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Crêpes de mil","alt":"Pancakes avoine + fruits"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Noix de karité","alt":"Noix ou amandes"},"diner":{"plat":"Poulet DG","alt":"Poulet grillé + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bouillie de sorgho","alt":"Porridge + fruits"},"dej":{"plat":"Soupe kandia + riz","alt":"Soupe légumes + riz complet"},"collation":{"plat":"Beignets de banane","alt":"Fruit frais"},"diner":{"plat":"Yassa poisson + attiéké","alt":"Poisson + quinoa"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pain de manioc","alt":"Smoothie bowl"},"dej":{"plat":"Mafé + riz","alt":"Mafé + légumes vapeur"},"collation":{"plat":"Noix de cajou","alt":"Fruits frais"},"diner":{"plat":"Thiéboudienne","alt":"Poisson vapeur + légumes"}}
+  "Amérique": {
+    "Martinique": {
+      "coords": [14.6415, -61.0242],
+      "feculents": "Riz, manioc, banane plantain",
+      "proteines": "Poisson, poulet, porc",
+      "legumes": "Cristophine, igname, giraumon",
+      "fruits": "Banane, mangue, goyave",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Boudin créole","alt":"Yaourt + fruits"},"dej":{"plat":"Colombo de poulet + riz","alt":"Colombo léger + riz complet"},"collation":{"plat":"Accras","alt":"Légumes crus + houmous"},"diner":{"plat":"Poisson grillé + bananes plantain","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain au beurre local","alt":"Pain complet + miel"},"dej":{"plat":"Poulet boucané + riz","alt":"Poulet grillé + quinoa"},"collation":{"plat":"Fruits tropicaux","alt":"Fruits frais"},"diner":{"plat":"Blanc-manger salé","alt":"Soupe de légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bannann péyi (banane plantain)","alt":"Smoothie bowl"},"dej":{"plat":"Cabri massalé + riz","alt":"Cabri maigre + légumes vapeur"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Soupe de giraumon","alt":"Soupe + pain complet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe banane","alt":"Porridge avoine + fruits"},"dej":{"plat":"Accras + salade","alt":"Poisson grillé + salade"},"collation":{"plat":"Noix de cajou","alt":"Amandes"},"diner":{"plat":"Crustacés en sauce","alt":"Crustacés vapeur + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain perdu local","alt":"Pancakes avoine"},"dej":{"plat":"Riz collé + poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Fruits confits","alt":"Fruits frais"},"diner":{"plat":"Poulet au coco","alt":"Poulet au lait de coco léger + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouchons","alt":"Porridge"},"dej":{"plat":"Grillade mixte + légumes","alt":"Grillade + salade"},"collation":{"plat":"Bananes séchées","alt":"Fruit frais"},"diner":{"plat":"Ragoût de poisson","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture locale","alt":"Pain complet + avocat"},"dej":{"plat":"Colombo végétarien","alt":"Colombo légumes"},"collation":{"plat":"Açai bowl local","alt":"Yaourt nature"},"diner":{"plat":"Soupe de poisson","alt":"Soupe légumes + protéines"}}
       ]
     },
-    "Maroc": {
-      "coords":[31.7917,-7.0926],
-      "feculents":"Couscous, pain, riz",
-      "proteines":"Agneau, poulet, poisson",
-      "legumes":"Carottes, courgettes, pois chiches",
-      "fruits":"Oranges, figues",
-      "plats":[
-        {"jour":"Lundi","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Couscous aux légumes et poulet","alt":"Couscous complet + légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine d’agneau aux pruneaux","alt":"Tajine léger légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Msemmen (crêpe feuilletée)","alt":"Porridge + fruits"},"dej":{"plat":"Tajine de poulet aux olives","alt":"Tajine légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Harira (soupe traditionnelle)","alt":"Harira légère"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Baghrir + miel","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous végétarien"},"collation":{"plat":"Amandes grillées","alt":"Fruits frais"},"diner":{"plat":"Tajine de kefta","alt":"Tajine légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Msemen + confiture","alt":"Pancakes avoine"},"dej":{"plat":"Pastilla au poulet","alt":"Pastilla légère légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Couscous aux légumes","alt":"Couscous complet"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Baghrir + beurre","alt":"Smoothie bowl"},"dej":{"plat":"Tajine de poisson","alt":"Tajine légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Rfissa (poulet + lentilles)","alt":"Rfissa légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Msemen + miel","alt":"Porridge"},"dej":{"plat":"Couscous aux légumes","alt":"Couscous complet"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tajine d’agneau","alt":"Tajine légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous végétarien"},"collation":{"plat":"Amandes","alt":"Fruits frais"},"diner":{"plat":"Harira","alt":"Soupe légumes"}}
+    "Guadeloupe": {
+      "coords": [16.2650, -61.5510],
+      "feculents": "Riz, manioc, igname",
+      "proteines": "Poisson, poulet, chèvre",
+      "legumes": "Christophine, giraumon, pois",
+      "fruits": "Banane, goyave, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bananes plantain grillées","alt":"Smoothie bowl"},"dej":{"plat":"Colombo de poulet","alt":"Colombo + riz complet"},"collation":{"plat":"Accras de morue","alt":"Carottes + houmous"},"diner":{"plat":"Blaff de poisson","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain coco","alt":"Pain complet"},"dej":{"plat":"Poulet boucané","alt":"Poulet grillé"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Ragoût de cabri","alt":"Ragoût légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Creole pâté","alt":"Porridge"},"dej":{"plat":"Colombo végétarien","alt":"Colombo légumes"},"collation":{"plat":"Noix de cajou","alt":"Amandes"},"diner":{"plat":"Poisson mariné","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe banane","alt":"Pancakes avoine"},"dej":{"plat":"Lambi en sauce","alt":"Lambi grillé + salade"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Soupe de giraumon","alt":"Soupe + protéines maigres"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Brioche locale","alt":"Porridge"},"dej":{"plat":"Riz au fruit de mer","alt":"Riz complet + salade"},"collation":{"plat":"Fruits confits","alt":"Fruits frais"},"diner":{"plat":"Grillade mixte","alt":"Grillade + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain chocolat local","alt":"Smoothie bowl"},"dej":{"plat":"Poisson grillé + riz","alt":"Poisson vapeur + quinoa"},"collation":{"plat":"Açaí bowl","alt":"Yaourt + fruits"},"diner":{"plat":"Poulet rôti","alt":"Poulet + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture","alt":"Pain complet + avocat"},"dej":{"plat":"Blaff de poisson","alt":"Poisson vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe légumes + protéines"}} 
+      ]
+    },
+    "Guyane": {
+      "coords": [4.8604, -52.3350],
+      "feculents": "Riz, manioc, farine",
+      "proteines": "Poisson d'eau douce, poulet",
+      "legumes": "Ignames, bananes plantain, manioc",
+      "fruits": "Papaye, melon, fruit de la passion",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de farine de manioc","alt":"Porridge"},"dej":{"plat":"Calou (ragoût)","alt":"Ragoût légumes"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Poisson grillé + riz","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain manioc","alt":"Pain complet"},"dej":{"plat":"Poulet boucané","alt":"Poulet grillé"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Crêpe banane","alt":"Smoothie bowl"},"dej":{"plat":"Ragoût de viande","alt":"Ragoût léger + légumes"},"collation":{"plat":"Noix locales","alt":"Amandes"},"diner":{"plat":"Poisson en sauce","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Tartine locale","alt":"Porridge"},"dej":{"plat":"Fricassée de cabri","alt":"Cabri + légumes vapeur"},"collation":{"plat":"Fruits secs","alt":"Fruits frais"},"diner":{"plat":"Ragoût de légumes","alt":"Soupe + protéines"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Riz aux légumes et poisson","alt":"Riz complet + poisson"},"collation":{"plat":"Beignets","alt":"Fruit frais"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie sucrée","alt":"Porridge avoine"},"dej":{"plat":"Ragoût local","alt":"Ragoût légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe poisson","alt":"Poisson + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain chocolat local","alt":"Pancakes avoine"},"dej":{"plat":"Plat familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}} 
+      ]
+    },
+    "Brésil": {
+      "coords": [-14.2350, -51.9253],
+      "feculents": "Riz, manioc, farine",
+      "proteines": "Bœuf, poulet, poisson",
+      "legumes": "Haricots, manioc, poivrons",
+      "fruits": "Papaye, ananas, maracujá",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Pão de queijo","alt":"Smoothie bowl"},"dej":{"plat":"Feijoada + riz","alt":"Feijoada végétarienne + riz complet"},"collation":{"plat":"Açaí bowl","alt":"Fruits frais"},"diner":{"plat":"Moqueca (poisson)","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tapioca","alt":"Porridge"},"dej":{"plat":"Churrasco + accompagnements","alt":"Viande maigre + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Bobo de camarão","alt":"Crevettes + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pão francês + confiture","alt":"Pain complet"},"dej":{"plat":"Moqueca de peixe","alt":"Poisson vapeur"},"collation":{"plat":"Açaí","alt":"Fruits frais"},"diner":{"plat":"Salade composée","alt":"Salade + protéines"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Cuscuz nordestino","alt":"Porridge"},"dej":{"plat":"Feijão tropeiro","alt":"Haricots + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Peixe grelhado","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pão de queijo","alt":"Smoothie bowl"},"dej":{"plat":"Riz + haricots + viande","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Moqueca de peixe","alt":"Poisson + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tapioca sucrée","alt":"Pancakes avoine"},"dej":{"plat":"Feijoada légère","alt":"Haricots + légumes"},"collation":{"plat":"Açaí bowl","alt":"Fruits frais"},"diner":{"plat":"Grillade mixte","alt":"Grillade + salade"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pão francês + beurre","alt":"Pain complet"},"dej":{"plat":"Riz + poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Soupe locale","alt":"Soupe légumes + protéines"}} 
+      ]
+    },
+    "Mexique": {
+      "coords": [23.6345, -102.5528],
+      "feculents": "Maïs, riz, tortillas",
+      "proteines": "Poulet, bœuf, haricots",
+      "legumes": "Tomate, avocat, piment",
+      "fruits": "Mangue, papaye, citron vert",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Chilaquiles","alt":"Omelette + légumes"},"dej":{"plat":"Tacos al pastor","alt":"Tacos légumes + poulet"},"collation":{"plat":"Elote (maïs)","alt":"Légumes grillés"},"diner":{"plat":"Pozole","alt":"Pozole léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tamales","alt":"Porridge"},"dej":{"plat":"Enchiladas","alt":"Enchiladas légumes"},"collation":{"plat":"Guacamole + chips","alt":"Guacamole + bâtonnets de légumes"},"diner":{"plat":"Fajitas","alt":"Fajitas légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Huevos rancheros","alt":"Oeufs + avocat"},"dej":{"plat":"Quesadillas","alt":"Quesadillas légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Mole poblano","alt":"Poulet + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pan dulce","alt":"Porridge"},"dej":{"plat":"Barbacoa","alt":"Barbacoa + salade"},"collation":{"plat":"Fruta fresca","alt":"Noix"},"diner":{"plat":"Tostadas","alt":"Tostadas légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Atole","alt":"Smoothie bowl"},"dej":{"plat":"Tamales + soupe","alt":"Tamales légers"},"collation":{"plat":"Elote","alt":"Légumes grillés"},"diner":{"plat":"Carnitas","alt":"Carnitas maigres + salade"}},
+        {"jour":"Samedi","petitdej":{"plat":"Molletes","alt":"Pain complet + avocat"},"dej":{"plat":"Tacos de pescado","alt":"Tacos poisson grillé"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Sopa de lima","alt":"Soupe légère"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Churros","alt":"Pancakes avoine"},"dej":{"plat":"Feast familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Salade complète","alt":"Salade + protéines"}} 
+      ]
+    },
+    "Chili": {
+      "coords": [-35.6751, -71.5430],
+      "feculents": "Pommes de terre, riz, pain",
+      "proteines": "Poisson, bœuf, poulet",
+      "legumes": "Maïs, tomates, haricots",
+      "fruits": "Raisins, pommes, avocats",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Marraqueta + confiture","alt":"Pain complet"},"dej":{"plat":"Empanadas","alt":"Empanadas légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Cazuela","alt":"Cazuela légère"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pan con palta","alt":"Pain complet + avocat"},"dej":{"plat":"Pastel de choclo","alt":"Pastel légumes"},"collation":{"plat":"Yogurt","alt":"Fruits frais"},"diner":{"plat":"Asado","alt":"Viande maigre + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Tostadas","alt":"Porridge"},"dej":{"plat":"Caldillo de congrio","alt":"Poisson vapeur"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Porotos con riendas","alt":"Haricots + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pan dulce","alt":"Smoothie bowl"},"dej":{"plat":"Completo (hot-dog)","alt":"Sandwich complet"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ensalada chilena","alt":"Salade complète"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Marraqueta","alt":"Porridge"},"dej":{"plat":"Asado","alt":"Viande maigre + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Cazuela de ave","alt":"Soupe + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tostadas","alt":"Smoothie bowl"},"dej":{"plat":"Completo","alt":"Sandwich complet"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Pescado frito","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pan con palta","alt":"Pain complet + avocat"},"dej":{"plat":"Feast familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ensalada","alt":"Salade + protéines"}} 
+      ]
+    },
+    "Colombie": {
+      "coords": [4.5709, -74.2973],
+      "feculents": "Riz, arepa, manioc",
+      "proteines": "Poisson, poulet, bœuf",
+      "legumes": "Haricots, yucca, plantain",
+      "fruits": "Mangue, lulo, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Arepa con queso","alt":"Smoothie bowl"},"dej":{"plat":"Bandeja paisa","alt":"Version légère + riz complet"},"collation":{"plat":"Patacones","alt":"Plantain grillé"},"diner":{"plat":"Sancocho","alt":"Sancocho léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tamal","alt":"Porridge"},"dej":{"plat":"Ajiaco","alt":"Soupe légère"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Pescado frito","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pan con queso","alt":"Pain complet"},"dej":{"plat":"Empanadas","alt":"Empanadas légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Arroz con pollo","alt":"Arroz integral + pollo"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Changua","alt":"Porridge"},"dej":{"plat":"Sancocho de gallina","alt":"Soupe légère"},"collation":{"plat":"Patacones","alt":"Fruit frais"},"diner":{"plat":"Cazuela","alt":"Cazuela légère"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Arepa","alt":"Smoothie bowl"},"dej":{"plat":"Bandeja ligera","alt":"Version allégée"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Pescado","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pandebono","alt":"Porridge"},"dej":{"plat":"Sancocho mixto","alt":"Soupe légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Calentao","alt":"Pain complet"},"dej":{"plat":"Feast familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}} 
+      ]
+    },
+    "Canada": {
+      "coords": [56.1304, -106.3468],
+      "feculents": "Pain, pommes de terre, riz",
+      "proteines": "Poulet, bœuf, poisson",
+      "legumes": "Pois, carottes, brocoli",
+      "fruits": "Pommes, bleuets",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bagel + fromage","alt":"Porridge"},"dej":{"plat":"Poutine","alt":"Pommes de terre au four + salade"},"collation":{"plat":"Barres granola","alt":"Fruits frais"},"diner":{"plat":"Saumon grillé","alt":"Saumon vapeur + quinoa"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Sandwich","alt":"Sandwich complet"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Poulet rôti","alt":"Poulet grillé + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Céréales","alt":"Porridge"},"dej":{"plat":"Soupe + sandwich","alt":"Soupe + salade"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Bœuf braisé","alt":"Bœuf maigre + quinoa"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Toast avocat","alt":"Pain complet"},"dej":{"plat":"Salade composée","alt":"Salade complète"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson + pommes de terre","alt":"Poisson + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Muffin","alt":"Porridge"},"dej":{"plat":"Burger","alt":"Burger maison + salade"},"collation":{"plat":"Barres de céréales","alt":"Fruits"},"diner":{"plat":"Soupe maison","alt":"Soupe + pain complet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Crêpes","alt":"Smoothie bowl"},"dej":{"plat":"Poutine revisitée","alt":"Pommes de terre au four"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain grillé","alt":"Porridge"},"dej":{"plat":"Rôti + accompagnements","alt":"Rôti + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Salade","alt":"Salade + protéines"}} 
+      ]
+    }
+  },
+  "Afrique": {
+    "Cap Vert": {
+      "coords": [16.5388, -23.0418],
+      "feculents": "Milho (maïs), riz, farine de manioc",
+      "proteines": "Poisson, fruits de mer, poulet",
+      "legumes": "Légumes locaux, manioc",
+      "fruits": "Papaye, mangue, goyave",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Cachupa (petit déjeuner)","alt":"Porridge"},"dej":{"plat":"Cachupa riche","alt":"Cachupa légère"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mardi","petitdej":{"plat":"Bolo de milho","alt":"Porridge"},"dej":{"plat":"Caldo de peixe","alt":"Soupe poisson légère"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Poulet grillé","alt":"Poulet + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pão caseiro","alt":"Pain complet"},"dej":{"plat":"Arroz doce local","alt":"Riz complet"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Stew de poisson","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bolo de banana","alt":"Smoothie bowl"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Soupe locale","alt":"Soupe légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Torrada","alt":"Pain complet"},"dej":{"plat":"Arroz + peixe","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Caldeirada","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bolo","alt":"Porridge"},"dej":{"plat":"Cachupa vegetariana","alt":"Cachupa légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Peixe ao molho","alt":"Poisson + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pão + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Plat familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}} 
+      ]
+    },
+    "Côte d'Ivoire": {
+      "coords": [7.539989, -5.547080],
+      "feculents": "Attiéké, riz, manioc",
+      "proteines": "Poisson, poulet, gombo",
+      "legumes": "Gombo, igname, légumes feuilles",
+      "fruits": "Mangue, banane, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Foutou","alt":"Porridge"},"dej":{"plat":"Attiéké + poisson","alt":"Attiéké + poisson vapeur"},"collation":{"plat":"Boulettes","alt":"Carottes + houmous"},"diner":{"plat":"Kedjenou","alt":"Kedjenou léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain manioc","alt":"Pain complet"},"dej":{"plat":"Garba (attiéké + poisson)","alt":"Garba + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Sauce graine","alt":"Sauce graine + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Boulettes de manioc","alt":"Porridge"},"dej":{"plat":"Aloco + poisson","alt":"Plantain grillé + poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Riz sauce","alt":"Riz complet + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Beignet","alt":"Smoothie bowl"},"dej":{"plat":"Foufou","alt":"Foufou léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Sauce arachide","alt":"Sauce légère + riz"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bouillie de mil","alt":"Porridge"},"dej":{"plat":"Poisson braisé + attiéké","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Kedjenou de poulet","alt":"Kedjenou léger"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tô","alt":"Porridge"},"dej":{"plat":"Riz gras","alt":"Riz complet + légumes"},"collation":{"plat":"Beignets","alt":"Fruit frais"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines maigres"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Riz + sauce","alt":"Riz complet + légumes"}} 
+      ]
+    },
+    "Togo": {
+      "coords": [8.6195, 0.8248],
+      "feculents": "Ignames, manioc, riz",
+      "proteines": "Poisson, poulet, légumineuses",
+      "legumes": "Gombo, aubergine africaine, feuilles",
+      "fruits": "Mangue, banane, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Akpan","alt":"Porridge"},"dej":{"plat":"Fufu + sauce","alt":"Fufu léger + légumes"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + riz"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Pain complet"},"dej":{"plat":"Riz + sauce d'arachide","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Gboma dessi (feuilles)","alt":"Salade + protéines"},"collation":{"plat":"Beignets","alt":"Carottes"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Tô","alt":"Porridge"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe de légumes","alt":"Soupe + protéines maigres"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Poulet grillé + légumes","alt":"Poulet grillé + quinoa"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie de maïs","alt":"Porridge"},"dej":{"plat":"Fufu + sauce tomate","alt":"Fufu léger"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version allégée"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}} 
+      ]
+    },
+    "Bénin": {
+      "coords": [9.3077, 2.3158],
+      "feculents": "Ignames, manioc, riz",
+      "proteines": "Poisson, poulet, bœuf",
+      "legumes": "Aubergine africaine, feuilles, gombo",
+      "fruits": "Ananas, mangue, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Amiwo","alt":"Porridge"},"dej":{"plat":"Amiwo + poisson","alt":"Amiwo + poisson vapeur"},"collation":{"plat":"Beignet","alt":"Fruit frais"},"diner":{"plat":"Ragoût de viande","alt":"Ragoût légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Fufu + sauce","alt":"Fufu léger"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain manioc","alt":"Smoothie bowl"},"dej":{"plat":"Riz + sauce arachide","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Beignet de maïs","alt":"Porridge"},"dej":{"plat":"Poulet grillé","alt":"Poulet + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Riz gras","alt":"Riz complet + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bouillie de millet","alt":"Porridge"},"dej":{"plat":"Poisson en sauce","alt":"Poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tô","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version allégée"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}} 
+      ]
+    },
+    "Mali": {
+      "coords": [17.5707, -3.9962],
+      "feculents": "Mil, riz, sorgho",
+      "proteines": "Poisson, poulet, viande séchée",
+      "legumes": "Oignons, tomate, feuilles",
+      "fruits": "Mangue, banane, dattes",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Porridge avoine"},"dej":{"plat":"Tô + sauce","alt":"Tô léger + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Riz + poisson","alt":"Riz complet + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Poulet yassa local","alt":"Poulet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Ragoût de viande","alt":"Ragoût léger"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Poisson grille","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bouillie sucrée","alt":"Porridge"},"dej":{"plat":"Riz gras","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture","alt":"Porridge"},"dej":{"plat":"Fufu local","alt":"Fufu léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût poisson","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Samedi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tarte locale","alt":"Pancakes avoine"},"dej":{"plat":"Feast familial","alt":"Version allégée"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Algérie": {
+      "coords": [28.0339, 1.6596],
+      "feculents": "Couscous, pain, riz",
+      "proteines": "Agneau, poulet, poisson",
+      "legumes": "Courgette, carotte, pois chiches",
+      "fruits": "Orange, datte, figue",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Mhadjeb","alt":"Pain complet + fromage"},"dej":{"plat":"Couscous","alt":"Couscous légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine","alt":"Tajine légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Baghrir algérien","alt":"Smoothie bowl"},"dej":{"plat":"Chakhchoukha","alt":"Chakhchoukha légère"},"collation":{"plat":"Amandes","alt":"Fruits"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain + huile d'olive","alt":"Pain complet"},"dej":{"plat":"Mechoui","alt":"Viande maigre + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe harira locale","alt":"Soupe légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe locale","alt":"Porridge"},"dej":{"plat":"Riz aux légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tajine poisson","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Msemen","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous léger"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Salade composée","alt":"Salade + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain grillé","alt":"Porridge"},"dej":{"plat":"Poulet aux épices","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Couscous légumes","alt":"Couscous complet"}} 
+      ]
+    },
+    "Tunisie": {
+      "coords": [33.8869, 9.5375],
+      "feculents": "Couscous, pain, riz",
+      "proteines": "Poisson, agneau, poulet",
+      "legumes": "Tomate, poivron, oignon",
+      "fruits": "Orange, datte, figue",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Brik","alt":"Porridge"},"dej":{"plat":"Couscous","alt":"Couscous légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine tunisien","alt":"Tajine légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Msemmen","alt":"Smoothie bowl"},"dej":{"plat":"Couscous au poisson","alt":"Poisson vapeur + riz"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Salade tunisienne","alt":"Salade complète"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Makrouna","alt":"Pâtes complètes + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson en sauce","alt":"Poisson vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe sucrée","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous léger"},"collation":{"plat":"Amandes","alt":"Fruits"},"diner":{"plat":"Soupe chorba","alt":"Soupe légère"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Tartine","alt":"Porridge"},"dej":{"plat":"Tajine de poisson","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Salade","alt":"Salade + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Grillade","alt":"Grillade + salade"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût local","alt":"Ragoût légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Brioche locale","alt":"Pancakes avoine"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Couscous végétarien","alt":"Couscous complet"}} 
+      ]
+    },
+    "Égypte": {
+      "coords": [26.8206, 30.8025],
+      "feculents": "Pain pita, riz, baladi",
+      "proteines": "Poisson, poulet, lentilles",
+      "legumes": "Aubergine, tomates, pois chiches",
+      "fruits": "Datte, figue, melon",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Ful medames","alt":"Yaourt + fruits"},"dej":{"plat":"Koshari","alt":"Koshari léger"},"collation":{"plat":"Falafel","alt":"Houmous + légumes"},"diner":{"plat":"Fatteh","alt":"Fatteh léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Taameya (falafel)","alt":"Porridge"},"dej":{"plat":"Mahshi","alt":"Légumes farcis légers"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Baladi bread + fromage","alt":"Pain complet"},"dej":{"plat":"Molokhia","alt":"Molokhia léger"},"collation":{"plat":"Dattes","alt":"Fruits"},"diner":{"plat":"Soupe","alt":"Soupe + protéines maigres"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pancakes locaux","alt":"Smoothie bowl"},"dej":{"plat":"Foul + taameya","alt":"Version légère"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Poulet rôti","alt":"Poulet grillé + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Börek local","alt":"Porridge"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade complète","alt":"Salade + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Baladi + confiture","alt":"Pain complet"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}} 
+      ]
+    },
+    "Nigeria": {
+      "coords": [9.0820, 8.6753],
+      "feculents": "Yam (igname), riz, garri (manioc)",
+      "proteines": "Poisson, poulet, bœuf",
+      "legumes": "Egusi, feuilles, tomates",
+      "fruits": "Plantain, mangue, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Akara","alt":"Porridge"},"dej":{"plat":"Jollof rice","alt":"Jollof léger"},"collation":{"plat":"Plantain frit","alt":"Plantain grillé"},"diner":{"plat":"Egusi soup + fufu","alt":"Egusi léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pap (ogi)","alt":"Porridge"},"dej":{"plat":"Suya","alt":"Suya + salade"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Pepper soup","alt":"Soupe légère"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bread + egg","alt":"Smoothie bowl"},"dej":{"plat":"Pounded yam + egusi","alt":"Pounded yam léger"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Fish stew","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Moi moi","alt":"Porridge"},"dej":{"plat":"Fried rice","alt":"Fried rice léger"},"collation":{"plat":"Plantain","alt":"Fruit frais"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Beans porridge","alt":"Beans + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Stew + rice","alt":"Stew léger + riz complet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bread + jam","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version allégée"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soup local","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Akamu","alt":"Porridge"},"dej":{"plat":"Jollof spécial","alt":"Jollof léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Cameroun": {
+      "coords": [7.3697, 12.3547],
+      "feculents": "Plantain, manioc, riz",
+      "proteines": "Poisson, poulet, viande",
+      "legumes": "Ndolé feuilles, gombo, légumes-feuilles",
+      "fruits": "Mangue, papaye, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Beignets plantain","alt":"Smoothie bowl"},"dej":{"plat":"Ndolé + plantain","alt":"Ndolé léger + riz"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Porridge avoine"},"dej":{"plat":"Poulet DG","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût local","alt":"Ragoût léger"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bread + egg","alt":"Smoothie bowl"},"dej":{"plat":"Eru + fufu","alt":"Eru léger"},"collation":{"plat":"Plantain frit","alt":"Plantain grillé"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Poisson au piment","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Riz + légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ndolé","alt":"Ndolé léger"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade + protéines"}} 
+      ]
+    },
+    "République du Congo": {
+      "coords": [-0.2280, 15.8277],
+      "feculents": "Riz, manioc, plantain",
+      "proteines": "Poisson, poulet, bœuf",
+      "legumes": "Feuilles vertes, aubergine africaine",
+      "fruits": "Mangue, papaye, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de manioc","alt":"Porridge"},"dej":{"plat":"Pondu (saka-saka)","alt":"Pondu léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Riz + sauce arachide","alt":"Riz complet + légumes"},"collation":{"plat":"Beignets","alt":"Fruit frais"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Poulet en sauce","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bread","alt":"Porridge"},"dej":{"plat":"Ragoût poisson","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Plat familial","alt":"Version légère"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Beignet de manioc","alt":"Porridge"},"dej":{"plat":"Riz + viande","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bouillie sucrée","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}} 
+      ]
+    },
+    "Tchad": {
+      "coords": [15.4542, 18.7322],
+      "feculents": "Mil, sorgho, riz",
+      "proteines": "Viande séchée, poisson, poulet",
+      "legumes": "Feuilles, oignons, tomates",
+      "fruits": "Mangue, dattes, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Porridge"},"dej":{"plat":"Ragoût local","alt":"Ragoût légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines maigres"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Fufu local","alt":"Fufu léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Riz + sauce viande","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pain","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version allégée"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Riz aux légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie de sorgho","alt":"Porridge"},"dej":{"plat":"Ragout de viande","alt":"Ragoût léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe familiale","alt":"Soupe + protéines"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût traditionnel","alt":"Ragoût léger"}} 
       ]
     }
   },
   "Europe": {
-    "France": {
-      "coords":[46.2276,2.2137],
-      "feculents":"Pain, pâtes, riz",
-      "proteines":"Poulet, poisson, œufs",
-      "legumes":"Carottes, haricots verts, épinards",
-      "fruits":"Pommes, fraises",
-      "plats":[
-        {"jour":"Lundi","petitdej":{"plat":"Pain beurre confiture","alt":"Smoothie bowl"},"dej":{"plat":"Poulet rôti + pâtes","alt":"Poulet + quinoa"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Soupe légumes","alt":"Salade complète"}},
-        {"jour":"Mardi","petitdej":{"plat":"Croissant","alt":"Porridge"},"dej":{"plat":"Poisson + riz","alt":"Poisson + légumes vapeur"},"collation":{"plat":"Fruit frais","alt":"Noix"},"diner":{"plat":"Omelette légumes","alt":"Omelette + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Salade composée + œufs","alt":"Salade + quinoa"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Poulet + légumes","alt":"Poulet + légumes vapeur"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Céréales + lait","alt":"Porridge"},"dej":{"plat":"Quiche légumes","alt":"Quiche légère"},"collation":{"plat":"Fruit sec","alt":"Noix"},"diner":{"plat":"Soupe + pain","alt":"Soupe + salade"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pain + fromage","alt":"Smoothie bowl"},"dej":{"plat":"Pâtes + sauce tomate","alt":"Pâtes complètes + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Poisson + légumes","alt":"Poisson vapeur + quinoa"}},
-        {"jour":"Samedi","petitdej":{"plat":"Crêpes","alt":"Porridge"},"dej":{"plat":"Poulet + riz","alt":"Poulet + quinoa"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Salade composée","alt":"Salade + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Rôti + légumes","alt":"Rôti + quinoa"},"collation":{"plat":"Fruit frais","alt":"Noix"},"diner":{"plat":"Soupe légumes","alt":"Soupe + salade"}}
+    "Espagne": {
+      "coords": [40.4637, -3.7492],
+      "feculents": "Pain, riz, pâtes",
+      "proteines": "Poisson, jambon, poulet",
+      "legumes": "Tomate, poivron, aubergine",
+      "fruits": "Orange, raisin, fraise",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Tostada + tomate","alt":"Pain complet + avocat"},"dej":{"plat":"Paella","alt":"Paella légumes"},"collation":{"plat":"Tapas","alt":"Tapas légumes"},"diner":{"plat":"Tortilla","alt":"Omelette légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Churros","alt":"Pancakes avoine"},"dej":{"plat":"Gazpacho","alt":"Gazpacho léger"},"collation":{"plat":"Olives","alt":"Noix"},"diner":{"plat":"Pescado a la plancha","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bocadillo","alt":"Sandwich complet"},"dej":{"plat":"Tapas variés","alt":"Tapas saines"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Paella mixta","alt":"Paella végétarienne"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pan con tomate","alt":"Smoothie bowl"},"dej":{"plat":"Fabada","alt":"Fabada légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Ensalada","alt":"Salade complète"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bollo","alt":"Porridge"},"dej":{"plat":"Pescado frito","alt":"Poisson vapeur"},"collation":{"plat":"Tapas","alt":"Légumes"},"diner":{"plat":"Paella vegetariana","alt":"Paella légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tostada","alt":"Pain complet"},"dej":{"plat":"Gazpacho + tapas","alt":"Gazpacho + salade"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Croissant","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe froide","alt":"Soupe légumes"}} 
       ]
-    }
-  },
-  "Amérique": {
-    "USA": {
-      "coords":[37.0902,-95.7129],
-      "feculents":"Pain, riz, pommes de terre",
-      "proteines":"Poulet, bœuf, œufs",
-      "legumes":"Brocolis, carottes, épinards",
-      "fruits":"Pommes, bananes",
-      "plats":[
-        {"jour":"Lundi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Burger + frites","alt":"Burger + salade"},"collation":{"plat":"Barres de céréales","alt":"Fruits frais"},"diner":{"plat":"Poulet rôti + légumes","alt":"Poulet + quinoa"}},
-        {"jour":"Mardi","petitdej":{"plat":"Omelette","alt":"Porridge"},"dej":{"plat":"Salade composée","alt":"Salade + quinoa"},"collation":{"plat":"Yaourt","alt":"Noix"},"diner":{"plat":"Poisson grillé + légumes","alt":"Poisson + légumes vapeur"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bagel","alt":"Smoothie bowl"},"dej":{"plat":"Poulet + riz","alt":"Poulet + quinoa"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe légumes","alt":"Soupe + salade"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Céréales + lait","alt":"Porridge"},"dej":{"plat":"Tacos","alt":"Tacos + légumes"},"collation":{"plat":"Fruit frais","alt":"Noix"},"diner":{"plat":"Steak + légumes","alt":"Steak + légumes vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Toast + beurre de cacahuète","alt":"Smoothie bowl"},"dej":{"plat":"Pizza","alt":"Pizza légère"},"collation":{"plat":"Barres de céréales","alt":"Fruits frais"},"diner":{"plat":"Salade + poulet","alt":"Salade + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bagel + fromage","alt":"Porridge"},"dej":{"plat":"Burgers maison","alt":"Burger + salade"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Poulet grillé + légumes","alt":"Poulet + quinoa"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Rôti + légumes","alt":"Rôti + quinoa"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe légumes","alt":"Soupe + salade"}}
+    },
+    "Portugal": {
+      "coords": [39.3999, -8.2245],
+      "feculents": "Pain, riz, pommes de terre",
+      "proteines": "Poisson, morue, poulet",
+      "legumes": "Tomate, chou, courgette",
+      "fruits": "Orange, figue, poire",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Pastel de nata","alt":"Smoothie bowl"},"dej":{"plat":"Bacalhau à bras","alt":"Bacalhau léger"},"collation":{"plat":"Pastel","alt":"Fruit frais"},"diner":{"plat":"Sardines grillées","alt":"Poisson vapeur"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tosta mista","alt":"Pain complet"},"dej":{"plat":"Caldo verde","alt":"Soupe légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Frango assado","alt":"Poulet grillé + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bolo de arroz","alt":"Porridge"},"dej":{"plat":"Arroz de marisco","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Salade","alt":"Salade + protéines"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Tosta","alt":"Smoothie bowl"},"dej":{"plat":"Bacalhau com natas","alt":"Bacalhau léger"},"collation":{"plat":"Pastel","alt":"Fruits"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pão + fromage","alt":"Porridge"},"dej":{"plat":"Arroz de polvo","alt":"Polvo + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Sopa","alt":"Soupe + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bolo","alt":"Porridge"},"dej":{"plat":"Feijoada portuguesa","alt":"Feijoada légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Sardines","alt":"Poisson vapeur + salade"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Italie": {
+      "coords": [41.8719, 12.5674],
+      "feculents": "Pâtes, pain, riz",
+      "proteines": "Poisson, poulet, bœuf",
+      "legumes": "Tomate, courgette, aubergine",
+      "fruits": "Citron, raisin, figue",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Cornetto","alt":"Porridge"},"dej":{"plat":"Pasta al pomodoro","alt":"Pasta intégrale + légumes"},"collation":{"plat":"Gelato","alt":"Yaourt + fruits"},"diner":{"plat":"Risotto","alt":"Risotto léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Biscotti","alt":"Smoothie bowl"},"dej":{"plat":"Pizza","alt":"Pizza légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Saltimbocca","alt":"Poulet + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Lasagne","alt":"Lasagne légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Cappuccino + brioche","alt":"Smoothie bowl"},"dej":{"plat":"Pasta carbonara","alt":"Pasta légère"},"collation":{"plat":"Biscotti","alt":"Fruits"},"diner":{"plat":"Minestrone","alt":"Soupe légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes","alt":"Porridge"},"dej":{"plat":"Seafood pasta","alt":"Pasta + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Insalata","alt":"Salade complète"}},
+        {"jour":"Samedi","petitdej":{"plat":"Cornetto","alt":"Smoothie bowl"},"dej":{"plat":"Risotto","alt":"Risotto légumes"},"collation":{"plat":"Gelato","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tiramisu mini","alt":"Porridge"},"dej":{"plat":"Rôti familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}} 
+      ]
+    },
+    "Royaume-Uni": {
+      "coords": [55.3781, -3.4360],
+      "feculents": "Pain, pommes de terre, riz",
+      "proteines": "Poulet, bœuf, poisson",
+      "legumes": "Petits pois, carottes, choux",
+      "fruits": "Pommes, baies",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Full English","alt":"Omelette + légumes"},"dej":{"plat":"Fish and chips","alt":"Poisson vapeur + pommes de terre au four"},"collation":{"plat":"Scone","alt":"Yaourt + fruits"},"diner":{"plat":"Roast dinner","alt":"Roast léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Sandwich","alt":"Sandwich complet"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Shepherd's pie","alt":"Version légère"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Ploughman's lunch","alt":"Ploughman's léger"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Pie","alt":"Pie légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Cereal","alt":"Porridge"},"dej":{"plat":"Fish pie","alt":"Poisson vapeur"},"collation":{"plat":"Biscuits","alt":"Fruits secs"},"diner":{"plat":"Curry","alt":"Curry léger"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Bangers and mash","alt":"Sausage veggie"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Full English light","alt":"Omelette"},"dej":{"plat":"Burger","alt":"Burger maison + salade"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Fish and chips","alt":"Poisson vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Sunday roast","alt":"Roast léger"},"collation":{"plat":"Cake","alt":"Fruit frais"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+      ]
+    },
+    "Écosse": {
+      "coords": [56.4907, -4.2026],
+      "feculents": "Avoine, pommes de terre, pain",
+      "proteines": "Poisson, agneau, bœuf",
+      "legumes": "Chou, carottes, betterave",
+      "fruits": "Baies, pommes",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Porridge écossais","alt":"Smoothie bowl"},"dej":{"plat":"Haggis + neeps + tatties","alt":"Haggis végétal + légumes"},"collation":{"plat":"Scone","alt":"Yaourt"},"diner":{"plat":"Fish supper","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Scotch pie","alt":"Pie légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Stovies","alt":"Stovies léger"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Seafood chowder","alt":"Chowder léger"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Stew","alt":"Stew léger"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crumpet","alt":"Porridge"},"dej":{"plat":"Fish pie","alt":"Poisson vapeur"},"collation":{"plat":"Scone","alt":"Fruits"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Roll and sausage","alt":"Sandwich complet"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Haddock","alt":"Poisson vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Full Scottish","alt":"Omelette"},"dej":{"plat":"Fish and chips","alt":"Poisson vapeur + pommes de terre au four"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salad"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Sunday roast","alt":"Roast léger"},"collation":{"plat":"Cake","alt":"Fruits"},"diner":{"plat":"Salad","alt":"Salade + protéines"}} 
+      ]
+    },
+    "Norvège": {
+      "coords": [60.4720, 8.4689],
+      "feculents": "Pommes de terre, pain, riz",
+      "proteines": "Poisson (saumon), agneau, poulet",
+      "legumes": "Chou, carottes, racines",
+      "fruits": "Baies, pommes",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Rye bread + cheese","alt":"Pain complet"},"dej":{"plat":"Fiskeboller","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Knekkebrød","alt":"Yaourt"},"diner":{"plat":"Gravlax","alt":"Saumon vapeur"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Lapskaus","alt":"Lapskaus léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Stekt torsk","alt":"Poisson vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Rømmegrøt","alt":"Porridge léger"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bread + cheese","alt":"Smoothie bowl"},"dej":{"plat":"Fish soup","alt":"Soupe légère"},"collation":{"plat":"Knekkebrød","alt":"Fruits"},"diner":{"plat":"Salade","alt":"Salade complète"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes","alt":"Porridge"},"dej":{"plat":"Torsk","alt":"Poisson vapeur"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Stew","alt":"Stew léger"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Seafood platter","alt":"Seafood léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Rôti familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+      ]
+    },
+    "Grèce": {
+      "coords": [39.0742, 21.8243],
+      "feculents": "Pain, riz, pita",
+      "proteines": "Poisson, agneau, fromage (feta)",
+      "legumes": "Tomate, concombre, olives",
+      "fruits": "Orange, figue, raisin",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Yogurt + miel","alt":"Smoothie bowl"},"dej":{"plat":"Moussaka","alt":"Moussaka légumes"},"collation":{"plat":"Olives","alt":"Noix"},"diner":{"plat":"Souvlaki","alt":"Souvlaki légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pita + fromage","alt":"Pain complet"},"dej":{"plat":"Greek salad","alt":"Salade complète"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Baklava (occasion)","alt":"Porridge"},"dej":{"plat":"Dolmades","alt":"Dolmades légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Gemista","alt":"Gemista végétarien"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Pastitsio","alt":"Pastitsio léger"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Yogurt + fruits","alt":"Smoothie bowl"},"dej":{"plat":"Souvlaki","alt":"Souvlaki légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Salade grecque","alt":"Salade complète"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pita","alt":"Porridge"},"dej":{"plat":"Moussaka","alt":"Moussaka légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread + cheese","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+      ]
+    },
+    "Palestine": {
+      "coords": [31.9522, 35.2332],
+      "feculents": "Pain pita, riz, burghul",
+      "proteines": "Agneau, poulet, pois chiches",
+      "legumes": "Tomate, concombre, aubergine",
+      "fruits": "Grenade, figue, datte",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Manakish","alt":"Pain complet + zaatar"},"dej":{"plat":"Musakhan","alt":"Poulet + salade"},"collation":{"plat":"Falafel","alt":"Houmous + légumes"},"diner":{"plat":"Maqluba","alt":"Maqluba légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Labneh","alt":"Yaourt + fruits"},"dej":{"plat":"Kofta","alt":"Kofta grillée + salade"},"collation":{"plat":"Dates","alt":"Fruits frais"},"diner":{"plat":"Mansaf","alt":"Version légère"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Hummus + pita","alt":"Houmous + légumes"},"dej":{"plat":"Musakhan","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soupe + salade"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Labneh","alt":"Smoothie bowl"},"dej":{"plat":"Maqluba","alt":"Maqluba légumes"},"collation":{"plat":"Baklava (occasion)","alt":"Fruit frais"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Manakish","alt":"Porridge"},"dej":{"plat":"Knafeh (occasion)","alt":"Yaourt + fruits"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Maqlooba","alt":"Version légère"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pita + olive oil","alt":"Toast"},"dej":{"plat":"Musakhan","alt":"Musakhan léger"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Salade fattoush","alt":"Salade complète"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread + cheese","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
       ]
     }
   },
   "Asie": {
-    "Japon": {
-      "coords":[36.2048,138.2529],
-      "feculents":"Riz, nouilles",
-      "proteines":"Poisson, tofu, poulet",
-      "legumes":"Chou, épinards, champignons",
-      "fruits":"Pomme, poire",
-      "plats":[
-        {"jour":"Lundi","petitdej":{"plat":"Riz + miso","alt":"Smoothie bowl"},"dej":{"plat":"Sushi","alt":"Sushi + légumes"},"collation":{"plat":"Edamame","alt":"Fruits frais"},"diner":{"plat":"Tempura","alt":"Tempura légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Onigiri","alt":"Porridge"},"dej":{"plat":"Ramen","alt":"Ramen léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Sashimi","alt":"Sashimi + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pain japonais","alt":"Smoothie bowl"},"dej":{"plat":"Curry + riz","alt":"Curry légumes"},"collation":{"plat":"Yaourt","alt":"Fruits frais"},"diner":{"plat":"Poulet teriyaki","alt":"Poulet + légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Miso soup","alt":"Porridge"},"dej":{"plat":"Sushi","alt":"Sushi + légumes"},"collation":{"plat":"Edamame","alt":"Fruits frais"},"diner":{"plat":"Tempura légumes","alt":"Tempura + riz"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Onigiri","alt":"Smoothie bowl"},"dej":{"plat":"Ramen","alt":"Ramen léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Sashimi","alt":"Sashimi + salade"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pain japonais","alt":"Porridge"},"dej":{"plat":"Curry + riz","alt":"Curry légumes"},"collation":{"plat":"Edamame","alt":"Fruits frais"},"diner":{"plat":"Poulet teriyaki","alt":"Poulet + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Riz + miso","alt":"Smoothie bowl"},"dej":{"plat":"Sushi","alt":"Sushi + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Tempura","alt":"Tempura légumes"}}
+    "Turquie": {
+      "coords": [38.9637, 35.2433],
+      "feculents": "Pain (pide), riz, boulgour",
+      "proteines": "Agneau, poulet, poisson",
+      "legumes": "Tomate, poivron, aubergine",
+      "fruits": "Melon, raisin, figue",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Menemen","alt":"Oeufs + légumes"},"dej":{"plat":"Kebap","alt":"Kebab légumes"},"collation":{"plat":"Baklava","alt":"Yaourt + fruits"},"diner":{"plat":"Pilav + viande","alt":"Pilav complet + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Simit","alt":"Pain complet"},"dej":{"plat":"Lahmacun","alt":"Lahmacun légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Manti","alt":"Manti légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Börek","alt":"Porridge"},"dej":{"plat":"Doner","alt":"Doner légumes"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Kofte","alt":"Kofte grillée + salade"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Kaymak + miel","alt":"Yaourt + fruits"},"dej":{"plat":"Pilav","alt":"Pilav légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Balik (poisson)","alt":"Poisson vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Toast turc","alt":"Smoothie bowl"},"dej":{"plat":"Gozleme","alt":"Gozleme légumes"},"collation":{"plat":"Baklava","alt":"Fruits frais"},"diner":{"plat":"Tavuk (poulet)","alt":"Poulet + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Menemen","alt":"Porridge"},"dej":{"plat":"Kebap mixte","alt":"Kebap léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salade"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread + cheese","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Inde": {
+      "coords": [20.5937, 78.9629],
+      "feculents": "Riz, chapati, millet",
+      "proteines": "Lentilles, poulet, poisson",
+      "legumes": "Épinards, chou-fleur, aubergine",
+      "fruits": "Mangue, banane, papaye",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Idli + chutney","alt":"Smoothie bowl"},"dej":{"plat":"Poulet curry + riz","alt":"Poulet grillé + légumes"},"collation":{"plat":"Samosa","alt":"Houmous + bâtonnets"},"diner":{"plat":"Dal + riz","alt":"Dal + quinoa"}},
+        {"jour":"Mardi","petitdej":{"plat":"Paratha","alt":"Porridge"},"dej":{"plat":"Chana masala","alt":"Pois chiches + quinoa"},"collation":{"plat":"Ladoo","alt":"Fruits frais"},"diner":{"plat":"Biryani","alt":"Biryani légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Dosa","alt":"Pancakes avoine"},"dej":{"plat":"Paneer curry","alt":"Tofu + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tandoori","alt":"Tandoori légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Poha","alt":"Smoothie bowl"},"dej":{"plat":"Rajma","alt":"Rajma + quinoa"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Saag","alt":"Épinards + tofu"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Upma","alt":"Porridge"},"dej":{"plat":"Fish curry","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Chapati + vegetables","alt":"Chapati complet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Paratha","alt":"Smoothie bowl"},"dej":{"plat":"Butter chicken","alt":"Poulet léger + riz complet"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Vegetable biryani","alt":"Quinoa + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Dhokla","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Sweets","alt":"Fruits"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+      ]
+    },
+    "Corée du Sud": {
+      "coords": [35.9078, 127.7669],
+      "feculents": "Riz, nouilles",
+      "proteines": "Poisson, tofu, porc",
+      "legumes": "Kimchi, épinards, courgette",
+      "fruits": "Pomme, poire, kaki",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bap + banchan","alt":"Riz complet + légumes"},"dej":{"plat":"Bibimbap","alt":"Bibimbap légumes"},"collation":{"plat":"Tteok","alt":"Fruits frais"},"diner":{"plat":"Samgyeopsal","alt":"Viande maigre + salade"}},
+        {"jour":"Mardi","petitdej":{"plat":"Gukbap","alt":"Porridge"},"dej":{"plat":"Kimchi jjigae","alt":"Soupe légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Jjajangmyeon","alt":"Nouilles légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast coréen","alt":"Smoothie bowl"},"dej":{"plat":"Kimbap","alt":"Kimbap légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Samgyetang","alt":"Poulet léger"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Japchae","alt":"Japchae légumes"},"collation":{"plat":"Tteok","alt":"Fruits"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bread","alt":"Porridge"},"dej":{"plat":"Bulgogi","alt":"Bulgogi maigre + salade"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Jjigae","alt":"Soupe + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Street food varié","alt":"Options légères"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+      ]
+    },
+    "Laos": {
+      "coords": [19.8563, 102.4955],
+      "feculents": "Riz gluant, riz",
+      "proteines": "Poisson, poulet, porc",
+      "legumes": "Herbes, feuilles, aubergine",
+      "fruits": "Papaye, mangue, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Khao jee (pain)","alt":"Porridge"},"dej":{"plat":"Laap (salade viande)","alt":"Laap légumes"},"collation":{"plat":"Mok pa","alt":"Poisson vapeur"},"diner":{"plat":"Tam mak hoong (salade papaye)","alt":"Salade légère"}},
+        {"jour":"Mardi","petitdej":{"plat":"Khao niao","alt":"Smoothie bowl"},"dej":{"plat":"Khao soi local","alt":"Soupe légère"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Soupe locale","alt":"Soupe légumes"},"collation":{"plat":"Noix","alt":"Fruits"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Khao niao + salade","alt":"Riz complet"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Crêpe locale","alt":"Smoothie bowl"},"dej":{"plat":"Ragoût","alt":"Ragoût léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bread local","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soup + salad"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Khao jee","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Sri Lanka": {
+      "coords": [7.8731, 80.7718],
+      "feculents": "Riz, roti, hoppers",
+      "proteines": "Poisson, poulet, lentilles",
+      "legumes": "Épinards, aubergine, gombo",
+      "fruits": "Mangue, papaye, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Hoppers","alt":"Porridge"},"dej":{"plat":"Rice and curry","alt":"Rice + vegetable curry"},"collation":{"plat":"Vadai","alt":"Fruit frais"},"diner":{"plat":"Fish curry","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"String hoppers","alt":"Smoothie bowl"},"dej":{"plat":"Kottu","alt":"Kottu léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Dhal curry","alt":"Dhal + quinoa"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Roti","alt":"Porridge"},"dej":{"plat":"Lamprais","alt":"Lamprais léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Seafood curry","alt":"Seafood vapeur"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soupe + salad"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Idiyappam","alt":"Porridge"},"dej":{"plat":"Rice & curry","alt":"Rice complete + veggies"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Vegetarian curry","alt":"Veg curry + quinoa"}},
+        {"jour":"Samedi","petitdej":{"plat":"Hoppers","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Porridge"},"dej":{"plat":"Rice & curry","alt":"Rice + veg"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+      ]
+    },
+    "Thaïlande": {
+      "coords": [15.8700, 100.9925],
+      "feculents": "Riz, nouilles",
+      "proteines": "Poisson, poulet, tofu",
+      "legumes": "Basilic, coriandre, piment",
+      "fruits": "Mangue, papaye, litchi",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Khao tom","alt":"Smoothie bowl"},"dej":{"plat":"Pad Thai","alt":"Pad Thai légumes"},"collation":{"plat":"Mango sticky rice","alt":"Fruits frais"},"diner":{"plat":"Tom yum","alt":"Soupe légère"}},
+        {"jour":"Mardi","petitdej":{"plat":"Jok (congee)","alt":"Porridge"},"dej":{"plat":"Green curry","alt":"Green curry légumes"},"collation":{"plat":"Satay","alt":"Poulet grillé + salade"},"diner":{"plat":"Som tam","alt":"Salade papaye"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Kai jeow","alt":"Omelette légumes"},"dej":{"plat":"Khao man gai","alt":"Poulet grillé + riz complet"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Massaman curry","alt":"Curry léger"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Pad see ew","alt":"Nouilles légumes"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Khao niao + mango","alt":"Smoothie bowl"},"dej":{"plat":"Gaeng daeng","alt":"Curry légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pancake local","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + proteins"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Smoothie bowl"},"dej":{"plat":"Khao soi","alt":"Khao soi léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+      ]
+    },
+    "Vietnam": {
+      "coords": [14.0583, 108.2772],
+      "feculents": "Riz, nouilles (pho), bánh mì",
+      "proteines": "Poisson, porc, tofu",
+      "legumes": "Herbes fraîches, chou, carotte",
+      "fruits": "Mangue, pitaya, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Pho","alt":"Pho léger"},"dej":{"plat":"Banh mi","alt":"Banh mi complet"},"collation":{"plat":"Nem","alt":"Fruits frais"},"diner":{"plat":"Com tam","alt":"Com tam léger"}},
+        {"jour":"Mardi","petitdej":{"plat":"Banh cuon","alt":"Porridge"},"dej":{"plat":"Bun cha","alt":"Bun cha légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Ca kho to","alt":"Poisson vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Xoi","alt":"Smoothie bowl"},"dej":{"plat":"Goi cuon","alt":"Goi cuon légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Bun bo Hue","alt":"Soupe légère"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Banh mi","alt":"Porridge"},"dej":{"plat":"Com ga","alt":"Com ga léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pho","alt":"Pho légumes"},"dej":{"plat":"Banh xeo","alt":"Banh xeo légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bun rieu","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salad"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Smoothie bowl"},"dej":{"plat":"Com suon","alt":"Com suon léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salad","alt":"Salade complète"}} 
+      ]
+    },
+    "Bali": {
+      "coords": [-8.3405, 115.0920],
+      "feculents": "Riz, lontong",
+      "proteines": "Poulet, poisson, tofu",
+      "legumes": "Kangkung, légumes tropicaux",
+      "fruits": "Mangue, papaye, noix de coco",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Nasi goreng","alt":"Nasi goreng légumes"},"dej":{"plat":"Bebek betutu","alt":"Canard léger"},"collation":{"plat":"Pisang goreng","alt":"Fruit frais"},"diner":{"plat":"Sate lilit","alt":"Sate poisson"}},
+        {"jour":"Mardi","petitdej":{"plat":"Bubur","alt":"Porridge"},"dej":{"plat":"Nasi campur","alt":"Nasi campur léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Gado-gado","alt":"Gado-gado équilibré"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast local","alt":"Smoothie bowl"},"dej":{"plat":"Lawar","alt":"Lawar légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Ikan bakar","alt":"Poisson vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pancakes locales","alt":"Porridge"},"dej":{"plat":"Ayam betutu","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + protéines"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bubur","alt":"Smoothie bowl"},"dej":{"plat":"Nasi goreng","alt":"Nasi goreng légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Samedi","petitdej":{"plat":"Roti","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast local","alt":"Smoothie bowl"},"dej":{"plat":"Rijsttafel local","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salad","alt":"Salade complète"}} 
+      ]
+    }
+  },
+  "Océanie": {
+    "Australie": {
+      "coords": [-25.2744, 133.7751],
+      "feculents": "Pain, riz, pommes de terre",
+      "proteines": "Poulet, poisson, agneau",
+      "legumes": "Brocoli, carottes, salade",
+      "fruits": "Baies, pomme, banane",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Vegemite toast","alt":"Avocado toast"},"dej":{"plat":"Meat pie","alt":"Pie végétarien"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Fish and chips","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Grill burger","alt":"Burger maison + salade"},"collation":{"plat":"Barre granola","alt":"Fruits"},"diner":{"plat":"Barbecue","alt":"Barbecue + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Seafood platter","alt":"Seafood vapeur"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Roast","alt":"Roast léger"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Salad bowl","alt":"Salad complete"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Grill fish","alt":"Poisson vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Muesli","alt":"Porridge"},"dej":{"plat":"Sushi option","alt":"Sushi légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Steak","alt":"Steak + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Burger","alt":"Burger léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bacon + eggs","alt":"Omelette"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+      ]
+    },
+    "Nouvelle-Zélande": {
+      "coords": [-40.9006, 174.8860],
+      "feculents": "Pain, pommes de terre, riz",
+      "proteines": "Agneau, poisson, poulet",
+      "legumes": "Brocoli, carottes, kumara (patate douce)",
+      "fruits": "Kiwi, pomme, baie",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Toast + marmite","alt":"Porridge"},"dej":{"plat":"Fish and chips","alt":"Poisson vapeur"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Roast lamb","alt":"Agneau maigre + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Meat pie","alt":"Pie végétarien"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Cereal","alt":"Porridge"},"dej":{"plat":"Salad bowl","alt":"Salad complete"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Sushi","alt":"Sushi légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Stew","alt":"Stew léger"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Toast avocat","alt":"Porridge"},"dej":{"plat":"Burger","alt":"Burger maison + salade"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Fish","alt":"Poisson vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Rôti familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
       ]
     }
   }
