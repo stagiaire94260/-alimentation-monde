@@ -130,6 +130,38 @@
     }
   },
   "Afrique": {
+    "Sénégal": {
+  "coords": [14.4974, -14.4524],
+  "feculents": "Riz, mil, maïs",
+  "proteines": "Poisson, poulet, arachides",
+  "legumes": "Chou, carottes, aubergine",
+  "fruits": "Mangue, papaye, banane",
+  "plats": [
+    {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Bouillie sans sucre"},"dej":{"plat":"Thiéboudienne","alt":"Thiéboudienne riz complet"},"collation":{"plat":"Beignets","alt":"Fruit frais"},"diner":{"plat":"Yassa poulet","alt":"Poulet grillé + légumes"}},
+    {"jour":"Mardi","petitdej":{"plat":"Pain + beurre","alt":"Pain complet + fromage frais"},"dej":{"plat":"Mafé","alt":"Mafé légumes léger"},"collation":{"plat":"Arachides grillées","alt":"Noix de cajou"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur"}},
+    {"jour":"Mercredi","petitdej":{"plat":"Café + pain","alt":"Pain complet + banane"},"dej":{"plat":"Domoda","alt":"Domoda léger légumes"},"collation":{"plat":"Bissap sucré","alt":"Infusion bissap sans sucre"},"diner":{"plat":"Poulet yassa","alt":"Poulet grillé citron"}},
+    {"jour":"Jeudi","petitdej":{"plat":"Beignets de mil","alt":"Galette complète"},"dej":{"plat":"Thiéré","alt":"Couscous mil + légumes"},"collation":{"plat":"Pastèque","alt":"Papaye"},"diner":{"plat":"Poisson farci","alt":"Poisson grillé"}},
+    {"jour":"Vendredi","petitdej":{"plat":"Pain + omelette","alt":"Omelette légumes"},"dej":{"plat":"Thiéboudienne blanc","alt":"Thiéboudienne complet"},"collation":{"plat":"Mangue","alt":"Yaourt"},"diner":{"plat":"Soupou kandja (gombo)","alt":"Soupou kandja léger"}},
+    {"jour":"Samedi","petitdej":{"plat":"Café + beignets","alt":"Fruits + thé"},"dej":{"plat":"Poulet braisé","alt":"Poulet grillé"},"collation":{"plat":"Bissap","alt":"Infusion sans sucre"},"diner":{"plat":"Couscous mil","alt":"Couscous complet"}},
+    {"jour":"Dimanche","petitdej":{"plat":"Pain + lait","alt":"Pain complet + fruits"},"dej":{"plat":"Thiéboudienne","alt":"Thiéboudienne légumes"},"collation":{"plat":"Papaye","alt":"Mangue"},"diner":{"plat":"Brochettes","alt":"Brochettes maigres + salade"}}
+  ]
+}
+    "Maroc": {
+  "coords": [31.7917, -7.0926],
+  "feculents": "Semoule, pain, couscous",
+  "proteines": "Agneau, poulet, poisson",
+  "legumes": "Courgettes, carottes, pois chiches",
+  "fruits": "Orange, dattes, figues",
+  "plats": [
+    {"jour":"Lundi","petitdej":{"plat":"Msemen + miel","alt":"Pain complet + fromage frais"},"dej":{"plat":"Couscous","alt":"Couscous complet légumes"},"collation":{"plat":"Dattes","alt":"Fruits secs"},"diner":{"plat":"Tajine poulet-citron","alt":"Poulet grillé + légumes"}},
+    {"jour":"Mardi","petitdej":{"plat":"Baghrir (crêpe mille trous)","alt":"Crêpe complète"},"dej":{"plat":"Tajine agneau","alt":"Agneau maigre + légumes"},"collation":{"plat":"Thé à la menthe + pâtisserie","alt":"Thé vert + amandes"},"diner":{"plat":"Harira (soupe)","alt":"Soupe légumes"}},
+    {"jour":"Mercredi","petitdej":{"plat":"Harcha","alt":"Galette semoule complète"},"dej":{"plat":"Pastilla","alt":"Pastilla poulet légère"},"collation":{"plat":"Biscuits","alt":"Fruits frais"},"diner":{"plat":"Poisson frit","alt":"Poisson grillé"}},
+    {"jour":"Jeudi","petitdej":{"plat":"Pain + huile d’olive","alt":"Pain complet + avocat"},"dej":{"plat":"Tajine kefta","alt":"Boulettes bœuf maigre"},"collation":{"plat":"Dattes","alt":"Noix"},"diner":{"plat":"Salade marocaine","alt":"Salade variée"}},
+    {"jour":"Vendredi","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Rfissa","alt":"Rfissa légère"},"collation":{"plat":"Cornes de gazelle","alt":"Fruits secs"},"diner":{"plat":"Couscous poisson","alt":"Couscous légumes"}},
+    {"jour":"Samedi","petitdej":{"plat":"Msemen","alt":"Pain complet + fruit"},"dej":{"plat":"Tajine légumes","alt":"Tajine vapeur"},"collation":{"plat":"Biscuits","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur"}},
+    {"jour":"Dimanche","petitdej":{"plat":"Thé + gâteaux","alt":"Thé vert + amandes"},"dej":{"plat":"Méchoi (agneau rôti)","alt":"Agneau maigre grillé"},"collation":{"plat":"Fruits","alt":"Yaourt nature"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe allégée"}}
+  ]
+}
     "Cap Vert": {
       "coords": [16.5388, -23.0418],
       "feculents": "Milho (maïs), riz, farine de manioc",
@@ -324,6 +356,22 @@
     }
   },
   "Europe": {
+    "France": {
+  "coords": [46.6034, 1.8883],
+  "feculents": "Pain, pommes de terre, pâtes",
+  "proteines": "Poulet, bœuf, poisson",
+  "legumes": "Carottes, haricots verts, tomates",
+  "fruits": "Pomme, raisin, fraise",
+  "plats": [
+    {"jour":"Lundi","petitdej":{"plat":"Croissant + café","alt":"Pain complet + fruits"},"dej":{"plat":"Bœuf bourguignon","alt":"Bœuf maigre + légumes"},"collation":{"plat":"Fromage","alt":"Yaourt nature"},"diner":{"plat":"Soupe à l’oignon","alt":"Soupe légumes"}},
+    {"jour":"Mardi","petitdej":{"plat":"Tartine beurre-confiture","alt":"Pain complet + purée d’amande"},"dej":{"plat":"Quiche lorraine","alt":"Quiche légumes"},"collation":{"plat":"Madeleine","alt":"Compote sans sucre"},"diner":{"plat":"Poulet rôti","alt":"Poulet grillé + salade"}},
+    {"jour":"Mercredi","petitdej":{"plat":"Pain + chocolat","alt":"Muesli fruits"},"dej":{"plat":"Ratatouille","alt":"Ratatouille vapeur"},"collation":{"plat":"Crêpe sucrée","alt":"Crêpe complète fruits"},"diner":{"plat":"Poisson meunière","alt":"Poisson vapeur"}},
+    {"jour":"Jeudi","petitdej":{"plat":"Croissant","alt":"Smoothie bowl"},"dej":{"plat":"Cassoulet","alt":"Cassoulet léger légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Omelette","alt":"Omelette légumes"}},
+    {"jour":"Vendredi","petitdej":{"plat":"Brioche","alt":"Porridge"},"dej":{"plat":"Moules-frites","alt":"Moules vapeur + salade"},"collation":{"plat":"Pain au chocolat","alt":"Fruit frais"},"diner":{"plat":"Soupe de légumes","alt":"Soupe allégée"}},
+    {"jour":"Samedi","petitdej":{"plat":"Croissant","alt":"Yaourt + granola"},"dej":{"plat":"Steak frites","alt":"Steak maigre + légumes"},"collation":{"plat":"Éclair au chocolat","alt":"Fruit sec"},"diner":{"plat":"Gratin dauphinois","alt":"Gratin léger"}},
+    {"jour":"Dimanche","petitdej":{"plat":"Pain + confiture","alt":"Pain complet + banane"},"dej":{"plat":"Pot-au-feu","alt":"Pot-au-feu léger"},"collation":{"plat":"Crêpes","alt":"Crêpes sarrasin"},"diner":{"plat":"Salade composée","alt":"Salade complète"}}
+  ]
+}
     "Espagne": {
       "coords": [40.4637, -3.7492],
       "feculents": "Pain, riz, pâtes",
