@@ -371,7 +371,7 @@
     {"jour":"Samedi","petitdej":{"plat":"Croissant","alt":"Yaourt + granola"},"dej":{"plat":"Steak frites","alt":"Steak maigre + légumes"},"collation":{"plat":"Éclair au chocolat","alt":"Fruit sec"},"diner":{"plat":"Gratin dauphinois","alt":"Gratin léger"}},
     {"jour":"Dimanche","petitdej":{"plat":"Pain + confiture","alt":"Pain complet + banane"},"dej":{"plat":"Pot-au-feu","alt":"Pot-au-feu léger"},"collation":{"plat":"Crêpes","alt":"Crêpes sarrasin"},"diner":{"plat":"Salade composée","alt":"Salade complète"}}
   ]
-}
+},
     "Espagne": {
       "coords": [40.4637, -3.7492],
       "feculents": "Pain, riz, pâtes",
