@@ -146,6 +146,22 @@
     {"jour":"Dimanche","petitdej":{"plat":"Pain + lait","alt":"Pain complet + fruits"},"dej":{"plat":"Thiéboudienne","alt":"Thiéboudienne légumes"},"collation":{"plat":"Papaye","alt":"Mangue"},"diner":{"plat":"Brochettes","alt":"Brochettes maigres + salade"}}
   ]
 },
+    "Gabon": {
+    "coords": [0.8037, 11.6094],
+    "feculents": "Foufou, manioc, igname",
+    "proteines": "Poisson, poulet, porc",
+    "legumes": "Ndolé, okra, aubergine africaine",
+    "fruits": "Mangue, papaye, ananas",
+    "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de manioc","alt":"Porridge avoine"},"dej":{"plat":"Poulet nyembwe","alt":"Poulet + légumes vapeur"},"collation":{"plat":"Beignets de banane","alt":"Fruits frais"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain de manioc","alt":"Pain complet"},"dej":{"plat":"Ragoût de chèvre","alt":"Ragoût légumes + tofu"},"collation":{"plat":"Noix de palmiste","alt":"Amandes"},"diner":{"plat":"Soupe de légumes locaux","alt":"Soupe + protéines maigres"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Crêpes à la banane","alt":"Pancakes avoine"},"dej":{"plat":"Poisson au coco","alt":"Poisson vapeur + quinoa"},"collation":{"plat":"Mangue séchée","alt":"Fruits frais"},"diner":{"plat":"Poulet braisé","alt":"Poulet grillé + légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bouillie de maïs","alt":"Smoothie bowl"},"dej":{"plat":"Ndolé + riz","alt":"Ndolé + riz complet"},"collation":{"plat":"Beignets de manioc","alt":"Yaourt"},"diner":{"plat":"Poisson mariné","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain banane","alt":"Pain complet"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Ragoût de poisson","alt":"Soupe légumes + protéines"}},
+        {"jour":"Samedi","petitdej":{"plat":"Crêpe manioc","alt":"Pancakes avoine"},"dej":{"plat":"Poulet sauce arachide","alt":"Poulet + légumes vapeur"},"collation":{"plat":"Açaí bowl","alt":"Yaourt + fruits"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + quinoa"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture","alt":"Pain complet + avocat"},"dej":{"plat":"Foufou + soupe de légumes","alt":"Riz complet + soupe légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Grillade traditionnelle","alt":"Grillade + légumes"}} 
+    ]
+  },
     "Maroc": {
   "coords": [31.7917, -7.0926],
   "feculents": "Semoule, pain, couscous",
@@ -338,6 +354,22 @@
         {"jour":"Dimanche","petitdej":{"plat":"Bouillie sucrée","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}} 
       ]
     },
+    "La Réunion": {
+    "coords": [-21.1151, 55.5364],
+    "feculents": "Riz, lentilles, manioc",
+    "proteines": "Poisson, poulet, porc",
+    "legumes": "Chouchou, carottes, haricots verts",
+    "fruits": "Mangue, letchi, goyave",
+    "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Brioche réunionnaise","alt":"Porridge"},"dej":{"plat":"Cari poulet","alt":"Cari légumes + tofu"},"collation":{"plat":"Bonbons piments","alt":"Fruits frais"},"diner":{"plat":"Rougail saucisse","alt":"Rougail légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain coco","alt":"Pain complet"},"dej":{"plat":"Poisson boucané","alt":"Poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Cari cabri","alt":"Ragoût légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Gâteau patate","alt":"Smoothie bowl"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Bonbons piments","alt":"Noix"},"diner":{"plat":"Cari poulet","alt":"Poulet + légumes vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe banane","alt":"Pancakes avoine"},"dej":{"plat":"Rougail morue","alt":"Morue + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain chocolat local","alt":"Porridge"},"dej":{"plat":"Cari poisson","alt":"Poisson + riz complet"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Rougail saucisse","alt":"Ragoût légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tarte patate","alt":"Smoothie bowl"},"dej":{"plat":"Cari poulet","alt":"Poulet + légumes vapeur"},"collation":{"plat":"Bonbons piments","alt":"Yaourt"},"diner":{"plat":"Grillade mixte","alt":"Grillade + salade"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture","alt":"Pain complet + avocat"},"dej":{"plat":"Rougail morue","alt":"Morue + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Cari cabri","alt":"Ragoût légumes"}} 
+     ]
+   },
     "Tchad": {
       "coords": [15.4542, 18.7322],
       "feculents": "Mil, sorgho, riz",
@@ -614,6 +646,22 @@
         {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Smoothie bowl"},"dej":{"plat":"Com suon","alt":"Com suon léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salad","alt":"Salade complète"}} 
       ]
     },
+    "Japon": {
+    "coords": [36.2048, 138.2529],
+    "feculents": "Riz, udon, soba",
+    "proteines": "Poisson, tofu, poulet",
+    "legumes": "Épinards, champignons, daikon",
+    "fruits": "Pomme, yuzu, kaki",
+    "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Onigiri","alt":"Toast complet + avocat"},"dej":{"plat":"Sushi","alt":"Sushi végétarien"},"collation":{"plat":"Mochi","alt":"Fruits frais"},"diner":{"plat":"Tempura de crevettes","alt":"Tempura légumes + tofu"}},
+        {"jour":"Mardi","petitdej":{"plat":"Miso soup + riz","alt":"Porridge avoine"},"dej":{"plat":"Bento poulet teriyaki","alt":"Bento tofu teriyaki"},"collation":{"plat":"Edamame","alt":"Noix"},"diner":{"plat":"Ramen au poulet","alt":"Ramen aux légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Tamago kake gohan","alt":"Omelette + pain complet"},"dej":{"plat":"Sashimi","alt":"Sashimi + riz complet"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Okonomiyaki","alt":"Okonomiyaki légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pain japonais brioché","alt":"Pancakes avoine"},"dej":{"plat":"Donburi de poulet","alt":"Donburi tofu"},"collation":{"plat":"Senbei","alt":"Fruits secs"},"diner":{"plat":"Sukiyaki","alt":"Sukiyaki légumes"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Onigiri","alt":"Smoothie bowl"},"dej":{"plat":"Tempura","alt":"Tempura légumes + riz"},"collation":{"plat":"Mochi","alt":"Fruits frais"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
+        {"jour":"Samedi","petitdej":{"plat":"Miso soup + riz","alt":"Porridge"},"dej":{"plat":"Bento varié","alt":"Bento végétarien"},"collation":{"plat":"Edamame","alt":"Noix"},"diner":{"plat":"Ramen","alt":"Ramen légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tamago sando","alt":"Toast complet + avocat"},"dej":{"plat":"Sushi","alt":"Sushi végétarien"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Okonomiyaki","alt":"Okonomiyaki légumes"}} 
+    ]
+  },
     "Bali": {
       "coords": [-8.3405, 115.0920],
       "feculents": "Riz, lontong",
