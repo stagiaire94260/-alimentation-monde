@@ -2,18 +2,18 @@
   "Amérique": {
     "Martinique": {
       "coords": [14.6415, -61.0242],
-      "feculents": "Riz, manioc, banane plantain",
-      "proteines": "Poisson, poulet, porc",
-      "legumes": "Cristophine, igname, giraumon",
-      "fruits": "Banane, mangue, goyave",
+      "feculents": "Riz, manioc, patate douce, banane plantain",
+      "proteines": "Poisson, poulet, cabri, oeufs, porc",
+      "legumes": "Cristophine, igname, chouchou, haricots verts, giraumon",
+      "fruits": "Banane, avocat, mangue, goyave",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Boudin créole","alt":"Yaourt + fruits"},"dej":{"plat":"Colombo de poulet + riz","alt":"Colombo léger + riz complet"},"collation":{"plat":"Accras","alt":"Légumes crus + houmous"},"diner":{"plat":"Poisson grillé + bananes plantain","alt":"Poisson vapeur + salade"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pain au beurre local","alt":"Pain complet + miel"},"dej":{"plat":"Poulet boucané + riz","alt":"Poulet grillé + quinoa"},"collation":{"plat":"Fruits tropicaux","alt":"Fruits frais"},"diner":{"plat":"Blanc-manger salé","alt":"Soupe de légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bannann péyi (banane plantain)","alt":"Smoothie bowl"},"dej":{"plat":"Cabri massalé + riz","alt":"Cabri maigre + légumes vapeur"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Soupe de giraumon","alt":"Soupe + pain complet"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Crêpe banane","alt":"Porridge avoine + fruits"},"dej":{"plat":"Accras + salade","alt":"Poisson grillé + salade"},"collation":{"plat":"Noix de cajou","alt":"Amandes"},"diner":{"plat":"Crustacés en sauce","alt":"Crustacés vapeur + légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pain perdu local","alt":"Pancakes avoine"},"dej":{"plat":"Riz collé + poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Fruits confits","alt":"Fruits frais"},"diner":{"plat":"Poulet au coco","alt":"Poulet au lait de coco léger + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bouchons","alt":"Porridge"},"dej":{"plat":"Grillade mixte + légumes","alt":"Grillade + salade"},"collation":{"plat":"Bananes séchées","alt":"Fruit frais"},"diner":{"plat":"Ragoût de poisson","alt":"Poisson vapeur + quinoa"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture locale","alt":"Pain complet + avocat"},"dej":{"plat":"Colombo végétarien","alt":"Colombo légumes"},"collation":{"plat":"Açai bowl local","alt":"Yaourt nature"},"diner":{"plat":"Soupe de poisson","alt":"Soupe légumes + protéines"}}
+        {"jour":"Lundi","petitdej":{"plat":"Flocons d’avoine aux bananes et mangue","alt":"Omelette + banane + papaye + avocat"},"dej":{"plat":"Colombo de poulet + riz blanc + giraumon sauté","alt":"Colombo de poulet au four + riz blanc + giraumon vapeur + avocat"},"collation":{"plat":"Smoothie banane-papaye","alt":"Smoothie : banane + papaye + yaourt nature + noix + avocat"},"diner":{"plat":"Poisson grillé + bananes plantain","alt":"Poisson vapeur + manioc + chouchou vapeur + avocat"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain coco","alt":"Pain coco + œuf brouillé + mangue + avocat"},"dej":{"plat":"Poulet boucané + riz blanc + chouchou sauté","alt":"Poulet boucané au four + riz blanc + chouchou vapeur + avocat"},"collation":{"plat":"Fruits tropicaux frais","alt":"Mangue + amandes + avocat"},"diner":{"plat":"Ti nain morue + manioc + giraumon","alt":"Morue dessalée vapeur + manioc + giraumon vapeur + avocat"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Bannann péyi + avocat","alt":"Smoothie bowl : banane + papaye + flocons d’avoine + yaourt + avocat"},"dej":{"plat":"Cabri massalé + riz blanc + légumes sautés","alt":"Cabri maigre au four + riz blanc + légumes vapeur + avocat"},"collation":{"plat":"Beignet de banane","alt":"Carottes + houmous + avocat"},"diner":{"plat":"Soupe de giraumon + manioc","alt":"Soupe de giraumon + patate douce + poisson ou poulet + avocat"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Crêpe à la banane","alt":"Pancakes avoine + banane + avocat"},"dej":{"plat":"Chiquetaille de morue + riz blanc + chouchou","alt":"Morue vapeur + riz blanc + légumes vapeur + avocat"},"collation":{"plat":"Noix de cajou","alt":"Smoothie protéiné : yaourt + banane + flocons d’avoine + noix locales + avocat"},"diner":{"plat":"Lambi en sauce + riz blanc + giraumon","alt":"Lambi grillé + riz blanc + légumes vapeur + avocat"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain perdu local","alt":"Porridge avoine + banane + avocat"},"dej":{"plat":"Colombo de porc + riz blanc + légumes sautés","alt":"Colombo de porc maigre + riz blanc + légumes vapeur + avocat"},"collation":{"plat":"Fruits confits","alt":"Mangue ou papaye + noix + avocat"},"diner":{"plat":"Blaff de poisson + manioc","alt":"Poisson vapeur + patate douce + chouchou vapeur + avocat"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain coco + œuf brouillé + banane ou papaye + avocat","alt":"Porridge avoine + yaourt nature + banane + avocat + noix"},"dej":{"plat":"Grillade mixte + légumes","alt":"Grillade poulet + poisson + riz blanc + légumes vapeur + avocat"},"collation":{"plat":"Bananes séchées","alt":"Smoothie : banane + papaye + yaourt + flocons d’avoine + avocat"},"diner":{"plat":"Ragoût de poisson + riz blanc","alt":"Poisson vapeur + riz blanc + légumes vapeur + avocat"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Tartine confiture locale","alt":"Porridge avoine + fruits tropicaux + avocat"},"dej":{"plat":"Colombo végétarien + riz blanc + giraumon","alt":"Colombo légumes + riz blanc + protéines végétales locales (tofu ou haricots) + avocat"},"collation":{"plat":"Fruits frais","alt":"Noix locales + fruit frais + avocat"},"diner":{"plat":"Soupe traditionnelle + manioc","alt":"Soupe légumes + poulet ou poisson + patate douce + avocat"}}
       ]
     },
     "Guadeloupe": {
