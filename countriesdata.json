@@ -276,18 +276,18 @@
     },
     "Tunisie": {
       "coords": [33.8869, 9.5375],
-      "feculents": "Couscous, pain, riz",
-      "proteines": "Poisson, agneau, poulet",
-      "legumes": "Tomate, poivron, oignon",
-      "fruits": "Orange, datte, figue",
+      "feculents": "Couscous, pain, orge, semoule, riz",
+      "proteines": "Poulet, agneau, poisson, œufs, haricots",
+      "legumes": "Carottes, courgettes, poivrons, tomates, oignons, pois chiches, épinards",
+      "fruits": "Orange, dattes, figues, pomme, banane, raisin",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Brik","alt":"Porridge"},"dej":{"plat":"Couscous","alt":"Couscous légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine tunisien","alt":"Tajine légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Msemmen","alt":"Smoothie bowl"},"dej":{"plat":"Couscous au poisson","alt":"Poisson vapeur + riz"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Salade tunisienne","alt":"Salade complète"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Makrouna","alt":"Pâtes complètes + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson en sauce","alt":"Poisson vapeur"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Crêpe sucrée","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous léger"},"collation":{"plat":"Amandes","alt":"Fruits"},"diner":{"plat":"Soupe chorba","alt":"Soupe légère"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Tartine","alt":"Porridge"},"dej":{"plat":"Tajine de poisson","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Salade","alt":"Salade + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Grillade","alt":"Grillade + salade"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût local","alt":"Ragoût légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Brioche locale","alt":"Pancakes avoine"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Couscous végétarien","alt":"Couscous complet"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de semoule + figues","alt":"Porridge d’avoine + banane + noix"},"dej":{"plat":"Couscous au poulet + légumes","alt":"Couscous complet + poulet grillé + légumes vapeur"},"collation":{"plat":"Orange fraîche","alt":"Yaourt nature + dattes"},"diner":{"plat":"Tajine de légumes","alt":"Tajine de légumes avec moins d’huile et épices"}} ,
+        {"jour":"Mardi","petitdej":{"plat":"Pain complet + œufs brouillés + orange","alt":"Pain complet + omelette + tranches de pomme"},"dej":{"plat":"Poisson à la charmoula + pommes de terre","alt":"Poisson grillé + pommes de terre vapeur + salade"},"collation":{"plat":"Dattes","alt":"Noix locales + fruit"},"diner":{"plat":"Tajine de poulet aux légumes","alt":"Poulet grillé + légumes rôtis"}} ,
+        {"jour":"Mercredi","petitdej":{"plat":"Yaourt nature + miel + figues","alt":"Yaourt nature + banane + graines de courge"},"dej":{"plat":"Brik au thon + salade","alt":"Thon + riz + poivrons + salade variée"},"collation":{"plat":"Grenade","alt":"Smoothie grenade + yaourt"},"diner":{"plat":"Couscous aux légumes","alt":"Couscous + légumes vapeur + viande"}} ,
+        {"jour":"Jeudi","petitdej":{"plat":"Porridge millet + dattes","alt":"Porridge millet + oeufs + banane + noix"},"dej":{"plat":"Poisson au four + légumes","alt":"Poisson grillé + légumes vapeur + semoule"},"collation":{"plat":"Orange","alt":"Yaourt nature + figues"},"diner":{"plat":"Tajine de bœuf aux légumes","alt":"Tajine de bœuf aux légumes dose l'huile et la quantité"}} ,
+        {"jour":"Vendredi","petitdej":{"plat":"Pain complet + œufs pochés + figues","alt":"Omelette + pain complet + fruits"},"dej":{"plat":"Couscous au poisson","alt":"Couscous + poisson grillé + légumes vapeur"},"collation":{"plat":"Dattes","alt":"Noix + fruit frais"},"diner":{"plat":"Tajine de légumes","alt":"Tajine de légumes vapeur et épices"}} ,
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie de semoule + banane","alt":"Porridge avoine + oeufs + fruits secs"},"dej":{"plat":"Poulet rôti + pommes de terre","alt":"Poulet grillé + pommes de terre + légumes"},"collation":{"plat":"Orange","alt":"Yaourt nature + fruits"},"diner":{"plat":"Couscous aux légumes","alt":"Couscous + viande + légumes vapeur"}} ,
+        {"jour":"Dimanche","petitdej":{"plat":"Yaourt + figues + miel","alt":"Smoothie banane + yaourt + dattes"},"dej":{"plat":"Tajine de poisson + légumes","alt":"Tajine de poisson aux légumes vapeur"},"collation":{"plat":"Grenade","alt":"Noix + fruit"},"diner":{"plat":"Poulet grillé + légumes","alt":"Poulet grillé + légumes rôtis + pomme de terre"}}
       ]
     },
     "Égypte": {
