@@ -324,18 +324,18 @@
     },
     "Cameroun": {
       "coords": [7.3697, 12.3547],
-      "feculents": "Plantain, manioc, riz",
-      "proteines": "Poisson, poulet, viande",
+      "feculents": "Ignames, manioc, plantain, riz, maïs, patate douce, couscous de manioc",
+      "proteines": "Poisson, poulet, bœuf maigre, cabri, œufs, crevettes, haricots",
       "legumes": "Ndolé feuilles, gombo, légumes-feuilles",
       "fruits": "Mangue, papaye, banane",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Beignets plantain","alt":"Smoothie bowl"},"dej":{"plat":"Ndolé + plantain","alt":"Ndolé léger + riz"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Porridge avoine"},"dej":{"plat":"Poulet DG","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût local","alt":"Ragoût léger"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bread + egg","alt":"Smoothie bowl"},"dej":{"plat":"Eru + fufu","alt":"Eru léger"},"collation":{"plat":"Plantain frit","alt":"Plantain grillé"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Poisson au piment","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Riz + légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ndolé","alt":"Ndolé léger"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe locale","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bread","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade + protéines"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de maïs + mangue","alt":"Porridge de fonio + banane + oeufs + yaourt"},"dej":{"plat":"Ndolé (feuilles de ndolé + poulet) + manioc","alt":"Ndolé + poulet grillé + manioc vapeur + légumes verts"},"collation":{"plat":"Papaye fraîche","alt":"Smoothie papaye + yaourt + noix"},"diner":{"plat":"Poulet DG + riz + légumes","alt":"Poulet DG + riz portion contrôlée + légumes vapeur"}},
+        {"jour":"Mardi","petitdej":{"plat":"Bouillie de fonio + papaye","alt":"Porridge avoine + fruits tropicaux + yaourt"},"dej":{"plat":"Eru (feuilles de manioc) + fufu + poisson","alt":"Eru léger + fufu portion contrôlée + poisson vapeur + légumes vapeur"},"collation":{"plat":"Mangue","alt":"Noix + mangue + fromage blanc"},"diner":{"plat":"Poisson braisé + manioc + gombos","alt":"Poisson braisé + manioc vapeur + gombos vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain de manioc + avocat + œufs","alt":"Pain complet grillé + œufs brouillés + fruits frais"},"dej":{"plat":"Mbongo Tchobi (poisson noir) + ignames","alt":"Mbongo Tchobi + ignames vapeur + légumes verts"},"collation":{"plat":"Banane","alt":"Smoothie banane + yaourt"},"diner":{"plat":"Sauce graine + riz + légumes","alt":"Sauce graine + riz portion contrôlée + légumes vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bouillie de patate douce + ananas","alt":"Porridge avoine + oeufs + ruits frais + yaourt"},"dej":{"plat":"Ndomba (poulet aux légumes) + manioc","alt":"Ndomba + manioc vapeur + légumes verts"},"collation":{"plat":"Goyave","alt":"Smoothie goyave + noix"},"diner":{"plat":"Poisson aux légumes + riz","alt":"Poisson grillé + riz portion contrôlée + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bouillie de maïs + banane","alt":"Porridge fonio + oeufs + fruits + yaourt"},"dej":{"plat":"Poulet yassa + riz + légumes","alt":"Poulet yassa + riz portion contrôlée + légumes vapeur"},"collation":{"plat":"Ananas","alt":"Smoothie ananas + yaourt"},"diner":{"plat":"Mbongo Tchobi + fufu + légumes","alt":"Mbongo Tchobi + fufu portion contrôlée + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain de manioc + œufs brouillés","alt":"Pain complet + œufs pochés + avocat"},"dej":{"plat":"Sauce gombo + ignames + poisson","alt":"Sauce gombo + ignames vapeur + poisson grillé"},"collation":{"plat":"Papaye","alt":"Smoothie papaye + yaourt"},"diner":{"plat":"Poulet DG + manioc + légumes","alt":"Poulet DG + manioc vapeur + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bouillie de fonio + banane","alt":"Porridge avoine + banane + fruits frais"},"dej":{"plat":"Ndolé + riz + légumes","alt":"Ndolé + riz portion contrôlée + légumes vapeur"},"collation":{"plat":"Mangue","alt":"Smoothie mangue + yaourt"},"diner":{"plat":"Poisson braisé + manioc + gombos","alt":"Poisson grillé + manioc vapeur + gombos vapeur"}}
       ]
     },
     "République du Congo": {
