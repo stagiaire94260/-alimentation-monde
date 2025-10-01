@@ -164,34 +164,34 @@
   },
     "Maroc": {
   "coords": [31.7917, -7.0926],
-  "feculents": "Semoule, pain, couscous",
-  "proteines": "Agneau, poulet, poisson",
-  "legumes": "Courgettes, carottes, pois chiches",
-  "fruits": "Orange, dattes, figues",
+  "feculents": "Semoule, riz, pain complet, couscous, patate douce, lentilles",
+  "proteines": "Poulet, agneau, bœuf maigre, poisson, œufs, pois chiches",
+  "legumes": "Carottes, courgettes, poivrons, tomates, oignons, épinards, chou, haricots verts",
+  "fruits": "Orange, pomme, datte, figue, raisin, abricot, citron, grenade",
   "plats": [
-    {"jour":"Lundi","petitdej":{"plat":"Msemen + miel","alt":"Pain complet + fromage frais"},"dej":{"plat":"Couscous","alt":"Couscous complet légumes"},"collation":{"plat":"Dattes","alt":"Fruits secs"},"diner":{"plat":"Tajine poulet-citron","alt":"Poulet grillé + légumes"}},
-    {"jour":"Mardi","petitdej":{"plat":"Baghrir (crêpe mille trous)","alt":"Crêpe complète"},"dej":{"plat":"Tajine agneau","alt":"Agneau maigre + légumes"},"collation":{"plat":"Thé à la menthe + pâtisserie","alt":"Thé vert + amandes"},"diner":{"plat":"Harira (soupe)","alt":"Soupe légumes"}},
-    {"jour":"Mercredi","petitdej":{"plat":"Harcha","alt":"Galette semoule complète"},"dej":{"plat":"Pastilla","alt":"Pastilla poulet légère"},"collation":{"plat":"Biscuits","alt":"Fruits frais"},"diner":{"plat":"Poisson frit","alt":"Poisson grillé"}},
-    {"jour":"Jeudi","petitdej":{"plat":"Pain + huile d’olive","alt":"Pain complet + avocat"},"dej":{"plat":"Tajine kefta","alt":"Boulettes bœuf maigre"},"collation":{"plat":"Dattes","alt":"Noix"},"diner":{"plat":"Salade marocaine","alt":"Salade variée"}},
-    {"jour":"Vendredi","petitdej":{"plat":"Baghrir","alt":"Smoothie bowl"},"dej":{"plat":"Rfissa","alt":"Rfissa légère"},"collation":{"plat":"Cornes de gazelle","alt":"Fruits secs"},"diner":{"plat":"Couscous poisson","alt":"Couscous légumes"}},
-    {"jour":"Samedi","petitdej":{"plat":"Msemen","alt":"Pain complet + fruit"},"dej":{"plat":"Tajine légumes","alt":"Tajine vapeur"},"collation":{"plat":"Biscuits","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur"}},
-    {"jour":"Dimanche","petitdej":{"plat":"Thé + gâteaux","alt":"Thé vert + amandes"},"dej":{"plat":"Méchoi (agneau rôti)","alt":"Agneau maigre grillé"},"collation":{"plat":"Fruits","alt":"Yaourt nature"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe allégée"}}
+    {"jour":"Lundi","petitdej":{"plat":"Baghrir + miel + orange","alt":"Baghrir + yaourt nature + oeufs + fruit"},"dej":{"plat":"Tajine poulet aux légumes","alt":"Tajine poulet aux légumes léger (moins d’huile, plus de légumes)"},"collation":{"plat":"Dattes","alt":"Fruits frais + noix + fromage blanc + whey"},"diner":{"plat":"Couscous légumes","alt":"Couscous complet + légumes vapeur"}},
+    {"jour":"Mardi","petitdej":{"plat":"Pain complet + fromage + fruit","alt":"Pain complet + œuf poché + avocat"},"dej":{"plat":"Tajine de poisson aux légumes","alt":"Poisson vapeur aux herbes + légumes vapeur + patate douce"},"collation":{"plat":"Orange","alt":"Smoothie banane + orange + graines"},"diner":{"plat":"Soupe harira","alt":"Harira + légumes + pois chiches"}},
+    {"jour":"Mercredi","petitdej":{"plat":"Semoule au lait + figues","alt":"Porridge semoule + fruits"},"dej":{"plat":"Tajine poulet citron et olives","alt":"Tajine poulet citron/olives + légumes vapeur"},"collation":{"plat":"Abricots secs","alt":"Fruits frais + amandes + fromage blanc + whey"},"diner":{"plat":"Couscous au poisson","alt":"Filet de poisson grillé + semoule complète + légumes rôtis"}},
+    {"jour":"Jeudi","petitdej":{"plat":"Msemmen + miel","alt":"Msemmen complet + yaourt nature + fruits"},"dej":{"plat":"Tajine kefta aux légumes","alt":"Tajine kefta + légumes vapeur"},"collation":{"plat":"Banane","alt":"Smoothie banane + chocolat noir"},"diner":{"plat":"Soupe de légumes marocains","alt":"Soupe de légumes + poisson au four"}},
+    {"jour":"Vendredi","petitdej":{"plat":"Pain complet + dattes","alt":"Pain complet + œufs brouillés + fruit + tomate"},"dej":{"plat":"Tajine poisson aux légumes","alt":"Poisson en papillote au four + légumes + riz"},"collation":{"plat":"Figues","alt":"Noix + fruit"},"diner":{"plat":"Couscous au poulet","alt":"Poulet grillé + couscous complet + légumes vapeur"}},
+    {"jour":"Samedi","petitdej":{"plat":"Baghrir + dattes","alt":"Baghrir + yaourt nature + fruits + oeufs"},"dej":{"plat":"Tajine poulet pruneaux","alt":"Tajine poulet aux pruneaux + légumes++"},"collation":{"plat":"Orange","alt":"Smoothie banane + mangue"},"diner":{"plat":"Soupe marocaine aux légumes","alt":"Soupe marocaine aux légumes + poisson au four"}},
+    {"jour":"Dimanche","petitdej":{"plat":"Semoule au lait + miel","alt":"Porridge semoule complète + fruits + noix"},"dej":{"plat":"Tajine poisson aux légumes","alt":"Curry léger de poisson + légumes vapeur"},"collation":{"plat":"Dattes","alt":"Fruits frais + noix"},"diner":{"plat":"Couscous légumes","alt":"Couscous + légumes vapeur"}}
   ]
 },
     "Cap Vert": {
       "coords": [16.5388, -23.0418],
-      "feculents": "Milho (maïs), riz, farine de manioc",
-      "proteines": "Poisson, fruits de mer, poulet",
-      "legumes": "Légumes locaux, manioc",
-      "fruits": "Papaye, mangue, goyave",
+      "feculents": "Milho (maïs), riz, patate douce, fonio, manioc",
+      "proteines": "Poisson (thon, capitaine), poulet, bœuf maigre, cabri, œufs, haricots",
+      "legumes": "Chou, carottes, poivrons, tomates, courgettes, oignons, gombos, épinards",
+      "fruits": "Banane, papaye, mangue, orange, goyave, citron, avocat",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Cachupa (petit déjeuner)","alt":"Porridge"},"dej":{"plat":"Cachupa riche","alt":"Cachupa légère"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
-        {"jour":"Mardi","petitdej":{"plat":"Bolo de milho","alt":"Porridge"},"dej":{"plat":"Caldo de peixe","alt":"Soupe poisson légère"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Poulet grillé","alt":"Poulet + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pão caseiro","alt":"Pain complet"},"dej":{"plat":"Arroz doce local","alt":"Riz complet"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Stew de poisson","alt":"Poisson vapeur + quinoa"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Bolo de banana","alt":"Smoothie bowl"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Soupe locale","alt":"Soupe légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Torrada","alt":"Pain complet"},"dej":{"plat":"Arroz + peixe","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Caldeirada","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bolo","alt":"Porridge"},"dej":{"plat":"Cachupa vegetariana","alt":"Cachupa légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Peixe ao molho","alt":"Poisson + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pão + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Plat familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}} 
+       {"jour":"Lundi","petitdej":{"plat":"Patate douce rôtie + mangue","alt":"Patate douce vapeur + œufs pochés + avocat"},"dej":{"plat":"Cachupa riche (maïs + haricots + poisson)","alt":"Cachupa légère (maïs + haricots + poisson grillé + légumes vapeur)"},"collation":{"plat":"Papaye fraîche","alt":"Smoothie papaye + banane + yaourt + whey"},"diner":{"plat":"Poisson braisé + manioc + légumes","alt":"Poisson braisé + manioc vapeur + légumes sautés à l’huile de coco"}} ,
+       {"jour":"Mardi","petitdej":{"plat":"Bouillie de maïs + banane","alt":"Pain de maïs toasté + œufs + avocat"},"dej":{"plat":"Poulet en sauce + riz + légumes","alt":"Poulet grillé + riz complet + légumes vapeur"},"collation":{"plat":"Mangue fraîche","alt":"Smoothie mangue + yaourt + noix"},"diner":{"plat":"Crevettes sautées + patate douce + légumes","alt":"Crevettes grillées + patate douce vapeur + légumes verts"}} ,
+       {"jour":"Mercredi","petitdej":{"plat":"Pain de maïs + papaye","alt":"Pain de maïs grillé + œufs pochés + avocat"},"dej":{"plat":"Cabri mijoté + manioc + légumes","alt":"Cabri au four + manioc vapeur + légumes sautés"},"collation":{"plat":"Banane","alt":"Fromage blanc + banane + noix"},"diner":{"plat":"Poisson fumé + fonio + légumes","alt":"Poisson grillé + fonio + légumes vapeur"}} ,
+       {"jour":"Jeudi","petitdej":{"plat":"Bouillie de fonio + mangue","alt":"Porridge fonio + œufs + avocat"},"dej":{"plat":"Cachupa de légumes + poisson","alt":"Cachupa légère (maïs + légumes + poisson grillé)"},"collation":{"plat":"Papaye","alt":"Smoothie papaye + noix"},"diner":{"plat":"Poulet rôti + patate douce + légumes","alt":"Poulet grillé + patate douce vapeur + légumes vapeur"}} ,
+       {"jour":"Vendredi","petitdej":{"plat":"Patate douce rôtie + banane","alt":"Patate douce vapeur + œufs + avocat"},"dej":{"plat":"Thon grillé + riz + légumes","alt":"Thon grillé + riz complet + légumes vapeur"},"collation":{"plat":"Mangue","alt":"Smoothie mangue + yaourt"},"diner":{"plat":"Cabri en sauce + manioc","alt":"Cabri au four + manioc vapeur + légumes sautés"}} ,
+       {"jour":"Samedi","petitdej":{"plat":"Pain de maïs + mangue","alt":"Pain de maïs toasté + œufs pochés + avocat"},"dej":{"plat":"Poulet yassa + fonio + légumes","alt":"Poulet grillé + fonio + légumes vapeur (version yassa léger)"},"collation":{"plat":"Banane","alt":"Banane + noix"},"diner":{"plat":"Poisson braisé + patate douce + légumes","alt":"Poisson grillé + patate douce vapeur + légumes verts"}} ,
+       {"jour":"Dimanche","petitdej":{"plat":"Bouillie de maïs + papaye","alt":"Porridge maïs + œufs + avocat"},"dej":{"plat":"Cachupa complète (maïs + haricots + poulet)","alt":"Cachupa légère + poulet grillé + légumes vapeur"},"collation":{"plat":"Papaye + mangue","alt":"Smoothie mangue + papaye + yaourt"},"diner":{"plat":"Thon grillé + manioc + légumes","alt":"Thon grillé + manioc vapeur + légumes sautés"}}
       ]
     },
     "Côte d'Ivoire": {
