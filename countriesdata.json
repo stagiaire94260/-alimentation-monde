@@ -66,18 +66,18 @@
     },
     "Mexique": {
       "coords": [23.6345, -102.5528],
-      "feculents": "Maïs, riz, tortillas",
-      "proteines": "Poulet, bœuf, haricots",
-      "legumes": "Tomate, avocat, piment",
-      "fruits": "Mangue, papaye, citron vert",
+      "feculents": "Maïs (tortillas, tamales), riz, haricots noirs ou rouges, patate douce",
+      "proteines": "Poulet, porc, bœuf, poisson, crevettes, œufs, tofu",
+      "legumes": "Tomates, oignons, poivrons, courgettes, épinards, chou, chayote",
+      "fruits": "Mangue, papaye, avocat, goyave, ananas, orange, citron vert",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Chilaquiles","alt":"Omelette + légumes"},"dej":{"plat":"Tacos al pastor","alt":"Tacos légumes + poulet"},"collation":{"plat":"Elote (maïs)","alt":"Légumes grillés"},"diner":{"plat":"Pozole","alt":"Pozole léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Tamales","alt":"Porridge"},"dej":{"plat":"Enchiladas","alt":"Enchiladas légumes"},"collation":{"plat":"Guacamole + chips","alt":"Guacamole + bâtonnets de légumes"},"diner":{"plat":"Fajitas","alt":"Fajitas légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Huevos rancheros","alt":"Oeufs + avocat"},"dej":{"plat":"Quesadillas","alt":"Quesadillas légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Mole poblano","alt":"Poulet + légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pan dulce","alt":"Porridge"},"dej":{"plat":"Barbacoa","alt":"Barbacoa + salade"},"collation":{"plat":"Fruta fresca","alt":"Noix"},"diner":{"plat":"Tostadas","alt":"Tostadas légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Atole","alt":"Smoothie bowl"},"dej":{"plat":"Tamales + soupe","alt":"Tamales légers"},"collation":{"plat":"Elote","alt":"Légumes grillés"},"diner":{"plat":"Carnitas","alt":"Carnitas maigres + salade"}},
-        {"jour":"Samedi","petitdej":{"plat":"Molletes","alt":"Pain complet + avocat"},"dej":{"plat":"Tacos de pescado","alt":"Tacos poisson grillé"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Sopa de lima","alt":"Soupe légère"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Churros","alt":"Pancakes avoine"},"dej":{"plat":"Feast familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Salade complète","alt":"Salade + protéines"}} 
+       {"jour":"Lundi","petitdej":{"plat":"Huevos rancheros + tortillas","alt":"Omelette + avocat + tomate"},"dej":{"plat":"Tacos de poulet + riz + haricots noirs","alt":"Tacos légers + riz + haricots noirs + légumes vapeur"},"collation":{"plat":"Mangue fraîche","alt":"Yaourt nature + mangue + whey + noix"},"diner":{"plat":"Ceviche de poisson + riz","alt":"Ceviche de poisson + riz + légumes vapeur"}},
+       {"jour":"Mardi","petitdej":{"plat":"Chilaquiles verts + œuf","alt":"Omelette + avocat + tortilla"},"dej":{"plat":"Enchiladas de bœuf + riz + haricots rouges","alt":"Bœuf grillé + riz + légumes vapeur"},"collation":{"plat":"Smoothie à la papaye","alt":"Papaye + banane + yaourt"},"diner":{"plat":"Soupe de légumes mexicaine + tortillas","alt":"Soupe de légumes mexicaine + poulet ou poisson vapeur + légumes"}},
+       {"jour":"Mercredi","petitdej":{"plat":"Tamales de maïs + fruit","alt":"Porridge avoine + mangue + avocat"},"dej":{"plat":"Poulet mole + riz + haricots noirs","alt":"Poulet grillé + riz + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix locales + fruit"},"diner":{"plat":"Poisson à la Veracruzana + riz","alt":"Poisson vapeur + riz + légumes vapeur"}},
+       {"jour":"Jeudi","petitdej":{"plat":"Omelette aux légumes + tortillas","alt":"Omelette + avocat + poivrons"},"dej":{"plat":"Tacos de crevettes + riz + haricots noirs","alt":"Tacos de crevettes + riz + haricots noirs + légumes"},"collation":{"plat":"Smoothie mangue-citron vert","alt":"Yaourt nature + mangue + noix + whey"},"diner":{"plat":"Grillade de porc + riz + courgettes sautées","alt":"Porc grillé + riz + légumes vapeur"}},
+       {"jour":"Vendredi","petitdej":{"plat":"Quesadillas aux œufs et fromage","alt":"Omelette + avocat + tomate"},"dej":{"plat":"Burrito poulet + riz + haricots rouges","alt":"Poulet grillé + riz + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Papaye + noix"},"diner":{"plat":"Soupe de poisson à la Mexicaine + riz","alt":"Soupe de poisson à la Mexicaine + riz + légumes vapeur"}},
+       {"jour":"Samedi","petitdej":{"plat":"Chilaquiles rouges + œuf","alt":"Omelette + avocat + tortillas"},"dej":{"plat":"Grillade mixte + riz + haricots noirs","alt":"Poulet + bœuf + poisson + riz + légumes vapeur"},"collation":{"plat":"Smoothie avocat-mangue","alt":"Yaourt + avocat + mangue + noix"},"diner":{"plat":"Enchiladas aux légumes + riz","alt":"Enchiladas aux légume + riz + légumes vapeur"}},
+       {"jour":"Dimanche","petitdej":{"plat":"Tortillas + avocat + œuf brouillé","alt":"Porridge avoine + fruits tropicaux + avocat"},"dej":{"plat":"Tamales + riz + haricots noirs","alt":"Tamales + riz + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Fromage blanc + Noix locales + fruit"},"diner":{"plat":"Soupe traditionnelle mexicaine + riz","alt":"Soupe traditionnelle mexicaine légumes + poulet ou poisson + riz"}}
       ]
     },
     "Chili": {
