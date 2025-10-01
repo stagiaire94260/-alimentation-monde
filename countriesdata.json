@@ -98,18 +98,18 @@
     },
     "Colombie": {
       "coords": [4.5709, -74.2973],
-      "feculents": "Riz, arepa, manioc",
-      "proteines": "Poisson, poulet, bœuf",
-      "legumes": "Haricots, yucca, plantain",
-      "fruits": "Mangue, lulo, banane",
+      "feculents": "Riz, haricots rouges, patate douce, maïs (arepas, tamales), plantain",
+      "proteines": "Poulet, bœuf, porc, poisson, fruits de mer, œufs, tofu",
+      "legumes": "Tomates, oignons, poivrons, courgettes, chou, carottes, épinards",
+      "fruits": "Banane, avocat, mangue, papaye, goyave, ananas, orange",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Arepa con queso","alt":"Smoothie bowl"},"dej":{"plat":"Bandeja paisa","alt":"Version légère + riz complet"},"collation":{"plat":"Patacones","alt":"Plantain grillé"},"diner":{"plat":"Sancocho","alt":"Sancocho léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Tamal","alt":"Porridge"},"dej":{"plat":"Ajiaco","alt":"Soupe légère"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Pescado frito","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pan con queso","alt":"Pain complet"},"dej":{"plat":"Empanadas","alt":"Empanadas légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Arroz con pollo","alt":"Arroz integral + pollo"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Changua","alt":"Porridge"},"dej":{"plat":"Sancocho de gallina","alt":"Soupe légère"},"collation":{"plat":"Patacones","alt":"Fruit frais"},"diner":{"plat":"Cazuela","alt":"Cazuela légère"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Arepa","alt":"Smoothie bowl"},"dej":{"plat":"Bandeja ligera","alt":"Version allégée"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Pescado","alt":"Poisson vapeur + quinoa"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pandebono","alt":"Porridge"},"dej":{"plat":"Sancocho mixto","alt":"Soupe légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Calentao","alt":"Pain complet"},"dej":{"plat":"Feast familial","alt":"Plat familial léger"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Arepas + œuf brouillé","alt":"Omelette + banane + avocat"},"dej":{"plat":"Bandeja paisa légère : riz + haricots rouges + poulet + plantain","alt":"Poulet grillé + riz + haricots rouges + légumes vapeur"},"collation":{"plat":"Mangue fraîche","alt":"Yaourt nature + mangue + noix"},"diner":{"plat":"Poisson grillé + patate douce + légumes","alt":"Poisson + patate douce + légumes vapeur"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tamales colombiens + fruit","alt":"Porridge avoine + banane + avocat + oeufs"},"dej":{"plat":"Poulet à la criolla + riz + haricots rouges","alt":"Poulet à la criolla + riz + haricots rouges + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Fromage blanc + whey + Noix locales + fruit"},"diner":{"plat":"Sancocho de poisson + riz","alt":"Sancocho de poisson + riz + légumes vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Arepas + avocat + œuf","alt":"Smoothie bowl : banane + mangue + flocons d’avoine + yaourt + avocat"},"dej":{"plat":"Grillade mixte + riz + haricots rouges","alt":"Grillade mixte + riz + légumes vapeur"},"collation":{"plat":"Fruits tropicaux frais","alt":"Yaourt nature + noix + whey"},"diner":{"plat":"Poisson à la plancha + plantain","alt":"Poisson vapeur + riz + plantain + légumes vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Omelette aux légumes + arepas","alt":"Porridge avoine + banane + avocat"},"dej":{"plat":"Boeuf sauté + riz + haricots rouges","alt":"Bœuf + riz + légumes vapeur"},"collation":{"plat":"Smoothie papaye-avocat","alt":"Yaourt + papaye + noix"},"diner":{"plat":"Poisson grillé + riz + patate douce","alt":"Poisson grillé + patate douce + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Arepas + fromage + fruit","alt":"Omelette + avocat + mangue"},"dej":{"plat":"Poulet boucané + riz + haricots rouges","alt":"Poulet boucané + riz + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix locales + fruit"},"diner":{"plat":"Soupe de légumes colombienne + poisson","alt":"Poisson grillé + légumes + patate douce"}},
+        {"jour":"Samedi","petitdej":{"plat":"Tamales + œuf","alt":"Porridge avoine + banane + avocat"},"dej":{"plat":"Grillade mixte + riz + haricots rouges","alt":"Grillade mixte + riz + haricots + légumes vapeur"},"collation":{"plat":"Smoothie mangue-avocat","alt":"Yaourt + mangue + avocat + noix"},"diner":{"plat":"Poisson à la criolla + patate douce","alt":"Poisson + patate douce + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Arepas + œuf brouillé + fruit","alt":"Porridge avoine + fruits tropicaux + avocat"},"dej":{"plat":"Tamales + riz + haricots rouges","alt":"Tamales légers + riz + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix locales + fruit"},"diner":{"plat":"Sancocho traditionnel + plantain","alt":"Soupe légumes + poulet ou poisson + plantain"}}
       ]
     },
     "Canada": {
