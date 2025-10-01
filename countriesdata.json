@@ -260,18 +260,18 @@
     },
     "Algérie": {
       "coords": [28.0339, 1.6596],
-      "feculents": "Couscous, pain, riz",
-      "proteines": "Agneau, poulet, poisson",
-      "legumes": "Courgette, carotte, pois chiches",
-      "fruits": "Orange, datte, figue",
+      "feculents": "Couscous, semoule, pain, orge, riz",
+      "proteines": "Poulet, agneau, poisson, œufs, haricots",
+      "legumes": "Carottes, courgettes, navets, tomates, poivrons, oignons, pois chiches",
+      "fruits": "Orange, dattes, figues, pomme, banane, raisin",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Mhadjeb","alt":"Pain complet + fromage"},"dej":{"plat":"Couscous","alt":"Couscous légumes"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Tajine","alt":"Tajine légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Baghrir algérien","alt":"Smoothie bowl"},"dej":{"plat":"Chakhchoukha","alt":"Chakhchoukha légère"},"collation":{"plat":"Amandes","alt":"Fruits"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Pain + huile d'olive","alt":"Pain complet"},"dej":{"plat":"Mechoui","alt":"Viande maigre + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe harira locale","alt":"Soupe légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Crêpe locale","alt":"Porridge"},"dej":{"plat":"Riz aux légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tajine poisson","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Msemen","alt":"Smoothie bowl"},"dej":{"plat":"Couscous royal","alt":"Couscous léger"},"collation":{"plat":"Dattes","alt":"Fruits frais"},"diner":{"plat":"Salade composée","alt":"Salade + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pain grillé","alt":"Porridge"},"dej":{"plat":"Poulet aux épices","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tartine","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Couscous légumes","alt":"Couscous complet"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Baghrir + miel","alt":"Baghrir complet + oeufs + yaourt nature + fruits"},"dej":{"plat":"Couscous poulet + légumes","alt":"Couscous + poulet grillé + légumes rôtis"},"collation":{"plat":"Fruits frais","alt":"Smoothie orange + dattes + whey + frommage blanc"},"diner":{"plat":"Tajine poulet aux légumes","alt":"Tajine poulet + légumes vapeur, moins de gras"}},
+        {"jour":"Mardi","petitdej":{"plat":"Msemmen + confiture","alt":"Msemmen + fromage frais + oeufs + fruits"},"dej":{"plat":"Chakhchoukha (galettes + sauce)","alt":"Chakhchoukha + légumes rôtis"},"collation":{"plat":"Datte","alt":"Fromage blanc + noix locales + fruit"},"diner":{"plat":"Couscous poisson + légumes","alt":"Couscous + poisson grillé + légumes vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Harcha + miel","alt":"Harcha + yaourt + oeufs + fruits rouges"},"dej":{"plat":"Tajine kefta + légumes","alt":"Tajine kefta + légumes vapeur, moins de gras"},"collation":{"plat":"Fruits frais","alt":"Smoothie banane + lait d’amande + whey"},"diner":{"plat":"Chorba + pain","alt":"Chorba maison + pain complet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Kalb el louz","alt":"Oeufs + yaourt nature"},"dej":{"plat":"Couscous agneau + légumes","alt":"Couscous + agneau grillé + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Smoothie banane + yaourt + noix"},"diner":{"plat":"Tajine poisson + légumes","alt":"Tajine poisson + légumes vapeur, moins d’huile"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Mhadjeb + miel","alt":"Mhadjeb + fromage frais + fruits"},"dej":{"plat":"Loubia (haricots) + pain","alt":"Loubia maison + pain complet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Smoothie datte + banane"},"diner":{"plat":"Couscous poulet + légumes","alt":"Couscous complet + poulet grillé + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Baghrir + confiture","alt":"Baghrir + yaourt + fruits"},"dej":{"plat":"Tajine poulet + légumes","alt":"Tajine poulet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix locales + fruit"},"diner":{"plat":"Chorba + pain","alt":"Chorba maison + pain complet"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Msemmen + miel","alt":"Msemmen + yaourt + fruits"},"dej":{"plat":"Couscous agneau + légumes","alt":"Couscous complet + agneau grillé + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Smoothie orange + dattes"},"diner":{"plat":"Tajine poisson + légumes","alt":"Tajine poisson + légumes vapeur, moins de gras"}}
       ]
     },
     "Tunisie": {
