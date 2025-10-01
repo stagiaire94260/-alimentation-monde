@@ -50,10 +50,10 @@
     },
     "Brésil": {
       "coords": [-14.2350, -51.9253],
-      "feculents": "Riz, manioc, farine",
-      "proteines": "Bœuf, poulet, poisson",
-      "legumes": "Haricots, manioc, poivrons",
-      "fruits": "Papaye, ananas, maracujá",
+      "feculents": "Riz, haricots noirs (feijão), manioc (aipim/macaxeira), maïs, couac (farine de manioc), pommes de terre, igname",
+      "proteines": "Porc, bœuf, poulet, poisson, crevettes, cabri, tofu",
+      "legumes": "Chou frisé, tomates, oignons, ail, poivrons, courges, manioc",
+      "fruits": "Açaï, mangue, papaye, goyave, ananas, orange, maracuja (fruit de la passion)",
       "plats": [
         {"jour":"Lundi","petitdej":{"plat":"Pão de queijo","alt":"Smoothie bowl"},"dej":{"plat":"Feijoada + riz","alt":"Feijoada végétarienne + riz complet"},"collation":{"plat":"Açaí bowl","alt":"Fruits frais"},"diner":{"plat":"Moqueca (poisson)","alt":"Poisson vapeur + légumes"}},
         {"jour":"Mardi","petitdej":{"plat":"Tapioca","alt":"Porridge"},"dej":{"plat":"Churrasco + accompagnements","alt":"Viande maigre + salade"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Bobo de camarão","alt":"Crevettes + légumes"}},
