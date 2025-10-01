@@ -308,18 +308,18 @@
     },
     "Nigeria": {
       "coords": [9.0820, 8.6753],
-      "feculents": "Yam (igname), riz, garri (manioc)",
-      "proteines": "Poisson, poulet, bœuf",
-      "legumes": "Egusi, feuilles, tomates",
-      "fruits": "Plantain, mangue, papaye",
+      "feculents": "Yam (igname), manioc, riz, maïs, plantain, fonio",
+      "proteines": "Poisson, poulet, bœuf maigre, cabri, œufs, haricots",
+      "legumes": "Feuilles d’épinards, okra (gombos), tomates, poivrons, oignons, aubergine",
+      "fruits": "Mangue, papaye, banane, goyave, orange, avocat, ananas",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Akara","alt":"Porridge"},"dej":{"plat":"Jollof rice","alt":"Jollof léger"},"collation":{"plat":"Plantain frit","alt":"Plantain grillé"},"diner":{"plat":"Egusi soup + fufu","alt":"Egusi léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pap (ogi)","alt":"Porridge"},"dej":{"plat":"Suya","alt":"Suya + salade"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Pepper soup","alt":"Soupe légère"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bread + egg","alt":"Smoothie bowl"},"dej":{"plat":"Pounded yam + egusi","alt":"Pounded yam léger"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Fish stew","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Moi moi","alt":"Porridge"},"dej":{"plat":"Fried rice","alt":"Fried rice léger"},"collation":{"plat":"Plantain","alt":"Fruit frais"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Beans porridge","alt":"Beans + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Stew + rice","alt":"Stew léger + riz complet"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bread + jam","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version allégée"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soup local","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Akamu","alt":"Porridge"},"dej":{"plat":"Jollof spécial","alt":"Jollof léger"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+       {"jour":"Lundi","petitdej":{"plat":"Bouillie de fonio + mangue","alt":"Porridge avoine + banane + yaourt"},"dej":{"plat":"Riz Jollof + poulet","alt":"Riz Jollof + poulet grillé + légumes vapeur"},"collation":{"plat":"Mangue fraîche","alt":"Smoothie mangue + yaourt"},"diner":{"plat":"Soupe Egusi + fufu","alt":"Egusi léger + fufu portion contrôlée + légumes vapeur"}},
+       {"jour":"Mardi","petitdej":{"plat":"Oeufs + fruits","alt":"Oeufs + yaourt + fruits frais"},"dej":{"plat":"Moi moi (haricots) + riz","alt":"Moi moi + riz vapeur + légumes"},"collation":{"plat":"Papaye","alt":"Yaourt + papaye"},"diner":{"plat":"Soupe de gombos + igname","alt":"Soupe de gombos légère + igname vapeur + légumes"}},
+       {"jour":"Mercredi","petitdej":{"plat":"Pain complet + avocat + œufs pochés","alt":"Pain complet grillé + œufs brouillés + fruits"},"dej":{"plat":"Ignames pilées + soupe de légumes","alt":"Ignames vapeur + soupe de légumes + poisson grillé"},"collation":{"plat":"Ananas frais","alt":"Smoothie ananas + lait"},"diner":{"plat":"Soupe Egusi + fufu","alt":"Egusi léger + fufu + légumes vapeur"}},
+       {"jour":"Jeudi","petitdej":{"plat":"Bouillie de maïs + banane","alt":"Porridge millet + fruits frais + yaourt"},"dej":{"plat":"Riz Jollof + poisson","alt":"Riz Jollof léger + poisson grillé + légumes vapeur"},"collation":{"plat":"Banane","alt":"Noix + banane"},"diner":{"plat":"Soupe de légumes + igname","alt":"Soupe de légumes + igname vapeur + protéines maigres"}},
+       {"jour":"Vendredi","petitdej":{"plat":"Omelette aux légumes + pain de maïs","alt":"Omelette légère + pain complet + avocat"},"dej":{"plat":"Ignames pilées + soupe Egusi","alt":"Ignames vapeur + Egusi léger + légumes vapeur"},"collation":{"plat":"Papaye","alt":"Smoothie papaye + yaourt"},"diner":{"plat":"Soupe de gombos + fufu","alt":"Soupe de gombos légère + fufu portion contrôlée + légumes vapeur"}},
+       {"jour":"Samedi","petitdej":{"plat":"Plantain frit + yaourt","alt":"Plantain rôti + yaourt + fruits"},"dej":{"plat":"Riz + haricots + poulet","alt":"Riz vapeur + haricots + poulet grillé + légumes"},"collation":{"plat":"Mangue","alt":"Smoothie mangue + lait"},"diner":{"plat":"Soupe de légumes + igname","alt":"Soupe de légumes + igname vapeur + poisson grillé"}},
+       {"jour":"Dimanche","petitdej":{"plat":"Bouillie de fonio + papaye","alt":"Porridge avoine + banane + fruits frais"},"dej":{"plat":"Riz Jollof + cabri","alt":"Riz Jollof léger + cabri grillé + légumes vapeur"},"collation":{"plat":"Banane","alt":"Noix + banane"},"diner":{"plat":"Soupe Egusi + fufu","alt":"Egusi léger + fufu portion contrôlée + légumes vapeur"}}
       ]
     },
     "Cameroun": {
