@@ -292,18 +292,18 @@
     },
     "Égypte": {
       "coords": [26.8206, 30.8025],
-      "feculents": "Pain pita, riz, baladi",
-      "proteines": "Poisson, poulet, lentilles",
-      "legumes": "Aubergine, tomates, pois chiches",
-      "fruits": "Datte, figue, melon",
+      "feculents": "Pain baladi, riz, falafel, lentilles, patate douce, semoule, orge",
+      "proteines": "Poulet, poisson (tilapia, dorade), bœuf maigre, œufs, légumineuses",
+      "legumes": "Tomates, concombres, poivrons, aubergines, courgettes, épinards, oignons",
+      "fruits": "Orange, dattes, figues, banane, grenade, pomme, melon",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Ful medames","alt":"Yaourt + fruits"},"dej":{"plat":"Koshari","alt":"Koshari léger"},"collation":{"plat":"Falafel","alt":"Houmous + légumes"},"diner":{"plat":"Fatteh","alt":"Fatteh léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Taameya (falafel)","alt":"Porridge"},"dej":{"plat":"Mahshi","alt":"Légumes farcis légers"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Baladi bread + fromage","alt":"Pain complet"},"dej":{"plat":"Molokhia","alt":"Molokhia léger"},"collation":{"plat":"Dattes","alt":"Fruits"},"diner":{"plat":"Soupe","alt":"Soupe + protéines maigres"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pancakes locaux","alt":"Smoothie bowl"},"dej":{"plat":"Foul + taameya","alt":"Version légère"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Poulet rôti","alt":"Poulet grillé + légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Börek local","alt":"Porridge"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade complète","alt":"Salade + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Baladi + confiture","alt":"Pain complet"},"dej":{"plat":"Grillade mixte","alt":"Grillade + salade"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tartine","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Pain baladi + œufs brouillés + tomate","alt":"Pain complet + œufs pochés + concombre"},"dej":{"plat":"Koshari (riz, lentilles, pâtes)","alt":"Koshari version healthy (moins d’huile, plus de lentilles et légumes)"},"collation":{"plat":"Dattes","alt":"Yaourt nature + dattes"},"diner":{"plat":"Poulet au four + riz","alt":"Poulet grillé + riz + légumes rôtis"}} ,
+        {"jour":"Mardi","petitdej":{"plat":"Baladi bread + fromage frais","alt":"Pain complet + oeufs + fromage léger + tomate"},"dej":{"plat":"Poisson grillé + légumes","alt":"Poisson grillé + légumes vapeur + riz + lentilles"},"collation":{"plat":"Orange","alt":"Smoothie orange + banane"},"diner":{"plat":"Tajine égyptien (poulet et légumes)","alt":"Patate douce + poulet grillé + légumes rôtis, épices légères"}} ,
+        {"jour":"Mercredi","petitdej":{"plat":"Porridge d’orge + dattes","alt":"Porridge semoule + banane + noix"},"dej":{"plat":"Riz aux légumes + poulet","alt":"Poulet grillé + riz + légumes vapeur"},"collation":{"plat":"Figues fraîches","alt":"Yaourt nature + figues"},"diner":{"plat":"Soupe de lentilles","alt":"Soupe de lentilles + légumes rôtis + boeuf"}} ,
+        {"jour":"Jeudi","petitdej":{"plat":"Pain baladi + œufs brouillés","alt":"Œufs pochés + pain complet + tomate"},"dej":{"plat":"Poisson au four + pommes de terre","alt":"Poisson grillé + patate douce + légumes"},"collation":{"plat":"Grenade","alt":"Fromage blanc + noix + fruit frais"},"diner":{"plat":"Poulet au cumin + légumes","alt":"Poulet cumin + riz + légumes rôtis"}} ,
+        {"jour":"Vendredi","petitdej":{"plat":"Smoothie banane + dattes + lait","alt":"Smoothie banane + oeufs + yaourt"},"dej":{"plat":"Koshari","alt":"Koshari version healthy avec plus de légumes"},"collation":{"plat":"Banane","alt":"Smoothie banane + lait"},"diner":{"plat":"Poisson à la charmoula + riz","alt":"Poisson à la charmoula + riz vapeur + légumes"}} ,
+        {"jour":"Samedi","petitdej":{"plat":"Pain baladi + fromage + tomate","alt":"Pain complet + œuf + légumes"},"dej":{"plat":"Tajine de légumes + poulet","alt":"Poulet grillé + légumes rôtis"},"collation":{"plat":"Dattes","alt":"Yaourt nature + dattes"},"diner":{"plat":"Soupe de lentilles + pain","alt":"Soupe de lentilles + légumes vapeur + patate douce"}} ,
+        {"jour":"Dimanche","petitdej":{"plat":"Baladi bread + omelette","alt":"Omelette + pain complet + pousse d'épinard"},"dej":{"plat":"Poisson grillé + riz","alt":"Poisson grillé + riz + légumes rôtis"},"collation":{"plat":"Orange","alt":"Smoothie orange + noix"},"diner":{"plat":"Poulet au four + légumes","alt":"Poulet grillé + lentilles + légumes vapeur"}}
       ]
     },
     "Nigeria": {
