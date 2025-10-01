@@ -244,18 +244,18 @@
     },
     "Mali": {
       "coords": [17.5707, -3.9962],
-      "feculents": "Mil, riz, sorgho",
-      "proteines": "Poisson, poulet, viande séchée",
-      "legumes": "Oignons, tomate, feuilles",
-      "fruits": "Mangue, banane, dattes",
+      "feculents": "Mil, fonio, riz, manioc, patate douce, igname",
+      "proteines": "Poulet, poisson (tilapia, capitaine), bœuf maigre, cabri, œufs, haricots",
+      "legumes": "Gombos, feuilles de manioc, chou, tomates, oignons, aubergine, carottes",
+      "fruits": "Mangue, papaye, banane, goyave, ananas, citron, avocat",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Porridge avoine"},"dej":{"plat":"Tô + sauce","alt":"Tô léger + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Riz + poisson","alt":"Riz complet + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Poulet yassa local","alt":"Poulet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Ragoût de viande","alt":"Ragoût léger"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Poisson grille","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Bouillie sucrée","alt":"Porridge"},"dej":{"plat":"Riz gras","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture","alt":"Porridge"},"dej":{"plat":"Fufu local","alt":"Fufu léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût poisson","alt":"Poisson vapeur + quinoa"}},
-        {"jour":"Samedi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Plat familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tarte locale","alt":"Pancakes avoine"},"dej":{"plat":"Feast familial","alt":"Version allégée"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil + mangue","alt":"Porridge de fonio + banane + lait"},"dej":{"plat":"Tô + sauce gombo + poisson","alt":"Tô de mil + sauce gombo légère + poisson vapeur"},"collation":{"plat":"Fruits tropicaux frais","alt":"Smoothie banane + mangue + yaourt + whey"},"diner":{"plat":"Poulet yassa + riz","alt":"Poulet yassa + riz vapeur + légumes sautés à l’huile d’arachide"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain de mil + papaye","alt":"Bouillie de fonio + oeufs + fruits locaux + graines"},"dej":{"plat":"Sauce arachide + riz + cabri","alt":"Cabri mijoté au four + riz portion contrôlée + légumes vapeur"},"collation":{"plat":"Mangue","alt":"Noix locales + fruit"},"diner":{"plat":"Poisson braisé + manioc","alt":"Poisson grillé + manioc vapeur + légumes"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Patate douce rôtie + banane","alt":"Bouillie de mil + lait + fruits locaux"},"dej":{"plat":"Riz sauce feuilles de manioc + bœuf","alt":"Riz vapeur + bœuf maigre + légumes sautés"},"collation":{"plat":"Papaye fraîche","alt":"Yaourt + fruits"},"diner":{"plat":"Tô + sauce arachide + poulet","alt":"Tô de mil + poulet grillé + sauce arachide légère"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Galette de mil + mangue","alt":"Porridge de fonio + ananas + lait"},"dej":{"plat":"Poisson en sauce + igname","alt":"Poisson grillé + igname vapeur + légumes"},"collation":{"plat":"Fruits frais","alt":"Smoothie papaye + ananas + lait"},"diner":{"plat":"Tô + sauce gombo + cabri","alt":"Tô de fonio + cabri rôti + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Beignets de mil + banane","alt":"Bouillie de mil + fruits locaux + graines"},"dej":{"plat":"Poulet braisé + riz","alt":"Poulet grillé + riz vapeur + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Fromage blanc + noix locales + fruit"},"diner":{"plat":"Riz sauce feuilles de manioc + poisson","alt":"Riz vapeur + poisson grillé + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie de fonio + mangue","alt":"Galette de patate douce + yaourt + fruits locaux"},"dej":{"plat":"Sauce arachide + bœuf + manioc","alt":"Bœuf + manioc vapeur + légumes vapeur"},"collation":{"plat":"Papaye","alt":"Yaourt + fruits"},"diner":{"plat":"Tô + poisson braisé + légumes","alt":"Tô de mil + poisson grillé + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Patate douce rôtie + mangue","alt":"Bouillie de mil + banane + lait"},"dej":{"plat":"Poulet yassa + fonio","alt":"Poulet yassa + fonio + légumes sautés"},"collation":{"plat":"Fruits frais","alt":"Smoothie banane + mangue + lait"},"diner":{"plat":"Riz sauce gombo + cabri","alt":"Riz sauce gombo + cabri rôti + légumes vapeur"}}
       ]
     },
     "Algérie": {
