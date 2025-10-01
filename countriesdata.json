@@ -212,18 +212,18 @@
     },
     "Togo": {
       "coords": [8.6195, 0.8248],
-      "feculents": "Ignames, manioc, riz",
-      "proteines": "Poisson, poulet, légumineuses",
-      "legumes": "Gombo, aubergine africaine, feuilles",
-      "fruits": "Mangue, banane, papaye",
+      "feculents": "Riz, maïs, manioc, patate douce, plantain, fonio, bouillie de mil",
+      "proteines": "Poisson, poulet, cabri, œufs, haricots, crevettes",
+      "legumes": "Gombos, feuilles de manioc, aubergine, tomates, chou, carottes, oignons",
+      "fruits": "Mangue, papaye, banane, ananas, goyave, avocat, citron",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Akpan","alt":"Porridge"},"dej":{"plat":"Fufu + sauce","alt":"Fufu léger + légumes"},"collation":{"plat":"Beignet de banane","alt":"Fruit frais"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + riz"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Pain complet"},"dej":{"plat":"Riz + sauce d'arachide","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Gboma dessi (feuilles)","alt":"Salade + protéines"},"collation":{"plat":"Beignets","alt":"Carottes"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Tô","alt":"Porridge"},"dej":{"plat":"Riz au poisson","alt":"Riz complet + poisson vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Soupe de légumes","alt":"Soupe + protéines maigres"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture","alt":"Smoothie bowl"},"dej":{"plat":"Poulet grillé + légumes","alt":"Poulet grillé + quinoa"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Ragoût","alt":"Ragoût léger"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bouillie de maïs","alt":"Porridge"},"dej":{"plat":"Fufu + sauce tomate","alt":"Fufu léger"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Poisson braisé","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pain local","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version allégée"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de maïs + mangue","alt":"Bouillie de mil + oeufs + yaourt"},"dej":{"plat":"Akpan + poisson grillé","alt":"Akpan + poisson grillé + légumes vapeur"},"collation":{"plat":"Boulettes de manioc","alt":"Fromage blanc + fruits tropicaux frais"},"diner":{"plat":"Poulet + sauce graine + riz","alt":"Poulet + sauce graine légère + riz + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain de manioc + confiture","alt":"Pain complet + oeufs + fruits frais + yaourt"},"dej":{"plat":"Foufou + sauce tomate + poulet","alt":"Foufou + poulet grillé + légumes vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Noix + fruit"},"diner":{"plat":"Riz au poisson + légumes","alt":"Poisson grillé + riz + légumes vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Galettes de maïs + banane","alt":"Galettes de maïs + yaourt + fruits"},"dej":{"plat":"Aloko + poisson frit","alt":"Plantain grillé + poisson vapeur + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt + fruits tropicaux"},"diner":{"plat":"Sauce arachide + riz","alt":"Sauce arachide légère + riz + légumes vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Oeufs brouillés + patate douce","alt":"Omelette aux légumes + patate douce vapeur"},"dej":{"plat":"Attiéké + poisson braisé","alt":"Attiéké + poisson + légumes vapeur"},"collation":{"plat":"Fruits secs","alt":"Fromage blanc + noix + fruits frais"},"diner":{"plat":"Kedjenou de poulet","alt":"Kedjenou léger de poulet (moins d’huile + plus légumes)"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Thiakry (mil + lait + fruits)","alt":"Porridge de mil + fruits tropicaux + oeufs + noix"},"dej":{"plat":"Riz + poulet","alt":"Riz + poulet grillé + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt + fruits"},"diner":{"plat":"Sauce feuilles + poisson","alt":"Sauce feuilles + poisson au four + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Beignets maison + smoothie tropical","alt":"Smoothie bowl + fruits frais + graines"},"dej":{"plat":"Foufou + poulet","alt":"Foufou + poulet + légumes vapeur"},"collation":{"plat":"Boulettes de manioc","alt":"Fromage blanc + fruits tropicaux frais"},"diner":{"plat":"Kedjenou de cabri","alt":"Kedjenou de cabri + riz (moins gras + légumes vapeur)"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain de maïs + confiture","alt":"Bouillie de mil + oeufs + yaourt"},"dej":{"plat":"riz + sauce + viande)","alt":"Riz + sauce légère + légumes vapeur + poulet"},"collation":{"plat":"Fruits tropicaux","alt":"Fromage blanc + noix + fruits frais"},"diner":{"plat":"Poisson braisé + attiéké","alt":"Poisson vapeur + attiéké + légumes vapeur"}}
       ]
     },
     "Bénin": {
