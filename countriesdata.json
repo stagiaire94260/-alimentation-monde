@@ -354,6 +354,22 @@
         {"jour":"Dimanche","petitdej":{"plat":"Pain au beurre + café local","alt":"Pain complet + fromage frais + fruits"},"dej":{"plat":"Feuilles de manioc + poisson + riz","alt":"Feuilles de manioc vapeur + poisson grillé + riz portionné"},"collation":{"plat":"Ananas","alt":"Smoothie ananas + yaourt"},"diner":{"plat":"Cabri sauce gombo + chikwangue","alt":"Cabri grillé + légumes gombo vapeur + manioc portionné"}}
       ]
     },
+    "République Démocratique du Congo": {
+      "coords": [-4.0383, 21.7587],
+      "feculents": "Foufou, chikwangue, manioc, riz, igname, patate douce, plantain",
+      "proteines": "Poisson (capitaine, tilapia, makayabu), poulet, cabri, bœuf, chenilles, œufs, haricots",
+      "legumes": "Feuilles de manioc (pondu), fumbwa, gombos, courges, aubergines, épinards, tomates, oignons",
+      "fruits": "Mangue, papaye, ananas, banane, goyave, avocat, citron",
+      "plats": [
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de maïs + banane","alt":"Bouillie de mil + fruits frais (moins sucrée, plus nutritive)"},"dej":{"plat":"Pondu (feuilles de manioc) + poisson salé + foufou","alt":"Pondu léger (moins d’huile) + poisson grillé + manioc vapeur"},"collation":{"plat":"Mangue fraîche","alt":"Smoothie mangue + yaourt nature"},"diner":{"plat":"Poulet moambe + riz","alt":"Poulet grillé + riz nature + sauce moambe légère"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain de manioc + thé local","alt":"Pain complet + fromage frais + fruits"},"dej":{"plat":"Liboké de poisson (poisson en feuille) + manioc","alt":"Liboké allégé + manioc vapeur + salade verte"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt + fruits frais"},"diner":{"plat":"Fumbwa (feuilles sauvages) + riz","alt":"Fumbwa vapeur + poisson grillé + riz portionné"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Beignets + café local","alt":"Beignets au four + smoothie banane-avocat"},"dej":{"plat":"Makayabu (poisson salé) + foufou","alt":"Poisson grillé + foufou léger + légumes vapeur"},"collation":{"plat":"Papaye","alt":"Fruits secs + yaourt"},"diner":{"plat":"Soupe locale + patate douce","alt":"Soupe légère + patate douce vapeur + œuf dur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Bouillie de riz + fruits","alt":"Porridge + fruits frais + noix"},"dej":{"plat":"Cabri sauce tomate + riz","alt":"Cabri grillé + riz nature + légumes sautés"},"collation":{"plat":"Ananas frais","alt":"Smoothie ananas + yaourt"},"diner":{"plat":"Poisson braisé + chikwangue + légumes","alt":"Poisson vapeur + manioc portionné + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain + confiture locale","alt":"Pain complet + confiture maison sans sucre + fruits"},"dej":{"plat":"Poulet à la sauce graine + riz","alt":"Poulet grillé + sauce graine légère + riz portionné"},"collation":{"plat":"Papaye","alt":"Yaourt nature + fruits tropicaux"},"diner":{"plat":"Pondu + poisson","alt":"Feuilles de manioc vapeur + poisson grillé + patate douce"}},
+        {"jour":"Samedi","petitdej":{"plat":"Bouillie d’arachide + fruits","alt":"Porridge + fruits + yaourt nature"},"dej":{"plat":"Bœuf sauté + riz","alt":"Bœuf grillé + riz nature + légumes vapeur"},"collation":{"plat":"Fruits locaux","alt":"Noix + fruit frais"},"diner":{"plat":"Poisson braisé + légumes + manioc","alt":"Poisson vapeur + manioc portionné + légumes vapeur"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pain au beurre + café","alt":"Pain complet + œufs pochés + avocat"},"dej":{"plat":"Foufou + moambe + poisson","alt":"Foufou léger + poisson grillé + sauce moambe allégée"},"collation":{"plat":"Ananas","alt":"Smoothie ananas + yaourt"},"diner":{"plat":"Soupe de légumes + cabri","alt":"Soupe légère + cabri grillé + patate douce vapeur"}}
+  ]
+},
     "La Réunion": {
     "coords": [-21.1151, 55.5364],
     "feculents": "Riz, lentilles, manioc",
