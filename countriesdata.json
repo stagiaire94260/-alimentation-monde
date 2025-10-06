@@ -552,18 +552,18 @@
   "Asie": {
     "Turquie": {
       "coords": [38.9637, 35.2433],
-      "feculents": "Pain (pide), riz, boulgour",
-      "proteines": "Agneau, poulet, poisson",
-      "legumes": "Tomate, poivron, aubergine",
-      "fruits": "Melon, raisin, figue",
+      "feculents": "Pain complet turc (ekmek), riz, boulgour, lentilles, pommes de terre, pâtes complètes",
+      "proteines": "Agneau maigre, poulet, poisson, œufs, légumineuses, fromage feta, yaourt",
+      "legumes": "Tomate, concombre, poivron, aubergine, courgette, épinard, oignon, ail, persil, menthe",
+      "fruits": "Grenade, figue, raisin, pomme, orange, abricot, cerise, pastèque, citron",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Menemen","alt":"Oeufs + légumes"},"dej":{"plat":"Kebap","alt":"Kebab légumes"},"collation":{"plat":"Baklava","alt":"Yaourt + fruits"},"diner":{"plat":"Pilav + viande","alt":"Pilav complet + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Simit","alt":"Pain complet"},"dej":{"plat":"Lahmacun","alt":"Lahmacun légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Manti","alt":"Manti légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Börek","alt":"Porridge"},"dej":{"plat":"Doner","alt":"Doner légumes"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Kofte","alt":"Kofte grillée + salade"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Kaymak + miel","alt":"Yaourt + fruits"},"dej":{"plat":"Pilav","alt":"Pilav légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Balik (poisson)","alt":"Poisson vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Toast turc","alt":"Smoothie bowl"},"dej":{"plat":"Gozleme","alt":"Gozleme légumes"},"collation":{"plat":"Baklava","alt":"Fruits frais"},"diner":{"plat":"Tavuk (poulet)","alt":"Poulet + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Menemen","alt":"Porridge"},"dej":{"plat":"Kebap mixte","alt":"Kebap léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salade"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bread + cheese","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Menemen (œufs brouillés à la tomate et poivron) + pain turc","alt":"Menemen léger avec moins d’huile + pain complet"},"dej":{"plat":"Kebab d’agneau + riz + salade","alt":"Kebab grillé + riz complet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt nature + noix"},"diner":{"plat":"Soupe de lentilles rouges","alt":"Soupe de lentilles + légumes variés + boulgour"}} ,
+        {"jour":"Mardi","petitdej":{"plat":"Pain turc + fromage feta + olives","alt":"Pain complet + labneh + concombre"},"dej":{"plat":"Börek (pâte feuilletée au fromage ou épinards) + boulgour","alt":"Börek allégé au four avec pâte complète et légumes + pomme de terre"},"collation":{"plat":"Fruits secs","alt":"Amandes + fromage blanc + figues"},"diner":{"plat":"Poisson grillé + légumes","alt":"Poisson blanc grillé + courgettes et aubergines rôties + riz"}} ,
+        {"jour":"Mercredi","petitdej":{"plat":"Yaourt + miel + noix","alt":"Yaourt grec nature + fruits frais + graines + oeufs"},"dej":{"plat":"Köfte + boulgour + salade","alt":"Köfte grillées + boulgour complet + salade de tomates et concombre"},"collation":{"plat":"Fruit frais","alt":"Poignée de noix + fromage blanc"},"diner":{"plat":"Imam bayildi (aubergines farcies)","alt":"Aubergines farcies légères au four + salade verte"}} ,
+        {"jour":"Jeudi","petitdej":{"plat":"Pancakes turcs (gözleme) au fromage","alt":"Gözleme avec pâte complète + légumes"},"dej":{"plat":"Poulet à la sauce tomate + riz","alt":"Poulet grillé + riz complet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt nature + amandes"},"diner":{"plat":"Soupe de légumes + pain","alt":"Soupe maison + crudités + poulet + pomme de terre"}} ,
+        {"jour":"Vendredi","petitdej":{"plat":"Pain turc + confiture + thé","alt":"Pain complet + beurre d’amande + fruit + oeufs"},"dej":{"plat":"Moussaka turque","alt":"Moussaka allégée au four avec légumes et yaourt nature + boulgour"},"collation":{"plat":"Fruit frais","alt":"Noix + raisins secs + fromage blanc"},"diner":{"plat":"Salade de pois chiches + légumes","alt":"Taboulé au boulgour complet et herbes fraîches + agneau maigre"}} ,
+        {"jour":"Samedi","petitdej":{"plat":"Œufs durs + tomates + concombre","alt":"Œufs pochés + tomates + avocat"},"dej":{"plat":"Poisson grillé + pommes de terre","alt":"Poisson blanc grillé + pommes de terre vapeur + salade"},"collation":{"plat":"Fruits frais","alt":"Yaourt + noix + fromage blanc"},"diner":{"plat":"Lentilles mijotées + légumes","alt":"Soupe de lentilles + légumes variés + poisson"}} ,
+        {"jour":"Dimanche","petitdej":{"plat":"Yaourt + fruits + noix","alt":"Smoothie banane + yaourt + flocons d’avoine + oeuf"},"dej":{"plat":"Poulet au four + boulgour + légumes","alt":"Poulet grillé + boulgour + légumes rôtis"},"collation":{"plat":"Fruit frais","alt":"Amandes + dattes + fromage blanc"},"diner":{"plat":"Riz pilaf + légumes + poisson","alt":"Riz pilaf + poisson vapeur + légumes vapeur"}}
       ]
     },
     "Inde": {
