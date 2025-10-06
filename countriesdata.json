@@ -406,50 +406,50 @@
   "Europe": {
     "France": {
   "coords": [46.6034, 1.8883],
-  "feculents": "Pain, pommes de terre, pâtes",
-  "proteines": "Poulet, bœuf, poisson",
-  "legumes": "Carottes, haricots verts, tomates",
-  "fruits": "Pomme, raisin, fraise",
+  "feculents": "Pain complet, quinoa, riz basmati, pommes de terre, patate douce, pâtes complètes, lentilles, flocons d’avoine",
+  "proteines": "Poulet, poisson (saumon, colin, cabillaud), œufs, bœuf maigre, tofu, légumineuses, fromages frais",
+  "legumes": "Courgette, poireau, carotte, brocoli, épinard, poivron, haricots verts, aubergine, salade, tomate",
+  "fruits": "Pomme, banane, fraise, framboise, orange, kiwi, raisin, poire, pêche, myrtille",
   "plats": [
-    {"jour":"Lundi","petitdej":{"plat":"Croissant + café","alt":"Pain complet + fruits"},"dej":{"plat":"Bœuf bourguignon","alt":"Bœuf maigre + légumes"},"collation":{"plat":"Fromage","alt":"Yaourt nature"},"diner":{"plat":"Soupe à l’oignon","alt":"Soupe légumes"}},
-    {"jour":"Mardi","petitdej":{"plat":"Tartine beurre-confiture","alt":"Pain complet + purée d’amande"},"dej":{"plat":"Quiche lorraine","alt":"Quiche légumes"},"collation":{"plat":"Madeleine","alt":"Compote sans sucre"},"diner":{"plat":"Poulet rôti","alt":"Poulet grillé + salade"}},
-    {"jour":"Mercredi","petitdej":{"plat":"Pain + chocolat","alt":"Muesli fruits"},"dej":{"plat":"Ratatouille","alt":"Ratatouille vapeur"},"collation":{"plat":"Crêpe sucrée","alt":"Crêpe complète fruits"},"diner":{"plat":"Poisson meunière","alt":"Poisson vapeur"}},
-    {"jour":"Jeudi","petitdej":{"plat":"Croissant","alt":"Smoothie bowl"},"dej":{"plat":"Cassoulet","alt":"Cassoulet léger légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Omelette","alt":"Omelette légumes"}},
-    {"jour":"Vendredi","petitdej":{"plat":"Brioche","alt":"Porridge"},"dej":{"plat":"Moules-frites","alt":"Moules vapeur + salade"},"collation":{"plat":"Pain au chocolat","alt":"Fruit frais"},"diner":{"plat":"Soupe de légumes","alt":"Soupe allégée"}},
-    {"jour":"Samedi","petitdej":{"plat":"Croissant","alt":"Yaourt + granola"},"dej":{"plat":"Steak frites","alt":"Steak maigre + légumes"},"collation":{"plat":"Éclair au chocolat","alt":"Fruit sec"},"diner":{"plat":"Gratin dauphinois","alt":"Gratin léger"}},
-    {"jour":"Dimanche","petitdej":{"plat":"Pain + confiture","alt":"Pain complet + banane"},"dej":{"plat":"Pot-au-feu","alt":"Pot-au-feu léger"},"collation":{"plat":"Crêpes","alt":"Crêpes sarrasin"},"diner":{"plat":"Salade composée","alt":"Salade complète"}}
+      {"jour":"Lundi","petitdej":{"plat":"Tartine pain complet + fromage frais + kiwi","alt":"Porridge flocons d’avoine + fruits rouges + oeufs"},"dej":{"plat":"Poulet rôti + haricots verts + riz","alt":"Poulet grillé + riz basmati + légumes vapeur"},"collation":{"plat":"Yaourt nature + fruits","alt":"Poignée d’amandes + fromage blanc + whey"},"diner":{"plat":"Soupe maison + pâtes + saumon","alt":"Soupe + saumon + patate douce"}},
+      {"jour":"Mardi","petitdej":{"plat":"Yaourt grec + granola maison + pomme","alt":"Smoothie bowl banane-fraise"},"dej":{"plat":"Poisson au four + quinoa + brocolis","alt":"Saumon vapeur + légumes grillés + quinoa"},"collation":{"plat":"Fruits de saison","alt":"Compote sans sucre + whey"},"diner":{"plat":"Omelette aux légumes + salade","alt":"Omelette + lentiles/riz + salade verte"}},
+      {"jour":"Mercredi","petitdej":{"plat":"Crêpes maison + banane + miel","alt":"Crêpes à la farine complète + fruits + avocat"},"dej":{"plat":"Bœuf mijoté + purée maison","alt":"Bœuf + purée de patate douce + brocoli"},"collation":{"plat":"Fromage blanc + fruits","alt":"Fromage blanc + amandes + fruit"},"diner":{"plat":"Ratatouille + œufs brouillés","alt":"Ratatouille + tofu grillé + riz"}},
+      {"jour":"Jeudi","petitdej":{"plat":"Pain complet + confiture + jus d’orange","alt":"Pain complet + purée d’amande + orange"},"dej":{"plat":"Pâtes complètes + légumes + thon","alt":"Pâtes complètes + légumes + poulet"},"collation":{"plat":"Fruits rouges + yaourt","alt":"Smoothie protéiné"},"diner":{"plat":"Soupe + pain complet + fromage","alt":"Soupe de potiron + patate douce + œuf dur"}},
+      {"jour":"Vendredi","petitdej":{"plat":"Porridge + banane + miel","alt":"Flocons d’avoine + lait végétal + fruits"},"dej":{"plat":"Cabillaud + riz + courgettes","alt":"Cabillaud + riz + légumes grillés"},"collation":{"plat":"Pomme + noix","alt":"Compote + graines de chia"},"diner":{"plat":"Salade composée + pain","alt":"Salade complète (thon, œuf, légumes, quinoa)"}},
+      {"jour":"Samedi","petitdej":{"plat":"Pain + beurre + confiture","alt":"Pain complet + purée de noisette + fruit + oeufs"},"dej":{"plat":"Poulet basquaise + riz","alt":"Poulet basquaise + riz + légumes"},"collation":{"plat":"Yaourt + fruits","alt":"Yaourt + fruits"},"diner":{"plat":"Gratin de légumes + poisson","alt":"Gratin de courgettes + poisson vapeur + pomme de terre"}},
+      {"jour":"Dimanche","petitdej":{"plat":"Croissant + jus d’orange","alt":"Pain complet + fruits + oeufs + avocat"},"dej":{"plat":"Rôti de bœuf + pommes de terre + légumes","alt":"Rôti de bœuf + légumes vapeur + patate douce"},"collation":{"plat":"Fruit frais","alt":"Yaourt grec + graines"},"diner":{"plat":"Soupe maison + dinde","alt":"Soupe + poulet + quinoa"}}
   ]
 },
     "Espagne": {
       "coords": [40.4637, -3.7492],
-      "feculents": "Pain, riz, pâtes",
-      "proteines": "Poisson, jambon, poulet",
-      "legumes": "Tomate, poivron, aubergine",
-      "fruits": "Orange, raisin, fraise",
+      "feculents": "Riz, pain complet, pommes de terre, patate douce, lentilles, pois chiches, quinoa, pâtes complètes",
+      "proteines": "Poisson (thon, sardine, morue), poulet, œufs, jambon ibérique, fruits de mer, légumineuses",
+      "legumes": "Poivron, tomate, courgette, aubergine, oignon, ail, épinard, artichaut, concombre",
+      "fruits": "Orange, pomme, raisin, figue, pastèque, melon, fraise, pêche",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Tostada + tomate","alt":"Pain complet + avocat"},"dej":{"plat":"Paella","alt":"Paella légumes"},"collation":{"plat":"Tapas","alt":"Tapas légumes"},"diner":{"plat":"Tortilla","alt":"Omelette légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Churros","alt":"Pancakes avoine"},"dej":{"plat":"Gazpacho","alt":"Gazpacho léger"},"collation":{"plat":"Olives","alt":"Noix"},"diner":{"plat":"Pescado a la plancha","alt":"Poisson vapeur + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bocadillo","alt":"Sandwich complet"},"dej":{"plat":"Tapas variés","alt":"Tapas saines"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Paella mixta","alt":"Paella végétarienne"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pan con tomate","alt":"Smoothie bowl"},"dej":{"plat":"Fabada","alt":"Fabada légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Ensalada","alt":"Salade complète"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Bollo","alt":"Porridge"},"dej":{"plat":"Pescado frito","alt":"Poisson vapeur"},"collation":{"plat":"Tapas","alt":"Légumes"},"diner":{"plat":"Paella vegetariana","alt":"Paella légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Tostada","alt":"Pain complet"},"dej":{"plat":"Gazpacho + tapas","alt":"Gazpacho + salade"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Croissant","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe froide","alt":"Soupe légumes"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Tostada tomate + huile d’olive","alt":"Tostada pain complet + avocat + œuf poché"},"dej":{"plat":"Paella mixte","alt":"Paella au poulet et légumes (moins grasse)"},"collation":{"plat":"Fruits frais","alt":"Yaourt nature + amandes"},"diner":{"plat":"Tortilla espagnole","alt":"Tortilla légère (moins d’huile, plus de légumes)"}},
+        {"jour":"Mardi","petitdej":{"plat":"Yaourt grec + fruits + miel","alt":"Yaourt nature + graines de chia + fruits rouges + oeufs"},"dej":{"plat":"Gazpacho + pain","alt":"Gaspacho + poulet + patate douce"},"collation":{"plat":"Fruits de saison","alt":"Fromage blanc + noix + fruit"},"diner":{"plat":"Poisson grillé + légumes","alt":"Poisson au four + ratatouille à l’huile d’olive + riz"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain + fromage + fruits","alt":"Pain complet + purée d’amande + orange + oeufs"},"dej":{"plat":"Riz aux fruits de mer","alt":"Riz + crevettes + légumes grillés"},"collation":{"plat":"Fruits","alt":"Yaourt grec + miel + whey"},"diner":{"plat":"Salade andalouse","alt":"Salade complète (thon, œuf, légumes + pomme de terre)"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Tostada + confiture","alt":"Pain complet + huile d’olive + tomate"},"dej":{"plat":"Cocido madrileño","alt":"Cocido allégé (+ de poulet, moins de charcuterie, plus de légumes)"},"collation":{"plat":"Fruits","alt":"Compote sans sucre + fruits + whey"},"diner":{"plat":"Poisson + légumes sautés","alt":"Poisson + légumes grillés + riz"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Crêpe espagnole + fruits","alt":"Crêpe complète + fruits rouges + avocat"},"dej":{"plat":"Empanadas + riz","alt":"Empanadas maison cuites au four + légumes + riz"},"collation":{"plat":"Yaourt","alt":"Fruits secs + fromage blanc"},"diner":{"plat":"Tapas variées","alt":"Tapas saines (houmous, crudités, olives, sardines) + patate douce"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain + huile d’olive + tomate","alt":"Pain complet + avocat + œuf"},"dej":{"plat":"Poulet à la catalane + riz","alt":"Poulet à la catalane + riz basmati + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt grec + noix + whey"},"diner":{"plat":"Soupe de légumes + lentilles","alt":"Soupe + salade de légumes grillés + riz + poulet"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Chocolat chaud + churros","alt":"Pain complet + fruits + oeufs"},"dej":{"plat":"Paella de fruits de mer","alt":"Paella au poisson/fruits de mer + légumes"},"collation":{"plat":"Orange + amandes","alt":"Yaourt + fruits + fromage blanc"},"diner":{"plat":"Salade de thon + œuf","alt":"Quinoa + épinard + saumon"}}
       ]
     },
     "Portugal": {
       "coords": [39.3999, -8.2245],
-      "feculents": "Pain, riz, pommes de terre",
-      "proteines": "Poisson, morue, poulet",
-      "legumes": "Tomate, chou, courgette",
-      "fruits": "Orange, figue, poire",
+      "feculents": "Pain de maïs, riz, patate douce, pommes de terre, haricots, pois chiches, lentilles",
+      "proteines": "Poisson (morue, sardine, thon), poulet, porc, œufs, fruits de mer, légumineuses",
+      "legumes": "Chou, carotte, oignon, ail, épinard, tomate, poivron, courgette, haricot vert",
+      "fruits": "Orange, figue, pomme, poire, banane, raisin, pastèque, cerise",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Pastel de nata","alt":"Smoothie bowl"},"dej":{"plat":"Bacalhau à bras","alt":"Bacalhau léger"},"collation":{"plat":"Pastel","alt":"Fruit frais"},"diner":{"plat":"Sardines grillées","alt":"Poisson vapeur"}},
-        {"jour":"Mardi","petitdej":{"plat":"Tosta mista","alt":"Pain complet"},"dej":{"plat":"Caldo verde","alt":"Soupe légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Frango assado","alt":"Poulet grillé + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bolo de arroz","alt":"Porridge"},"dej":{"plat":"Arroz de marisco","alt":"Riz complet + poisson"},"collation":{"plat":"Fruits secs","alt":"Yaourt"},"diner":{"plat":"Salade","alt":"Salade + protéines"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Tosta","alt":"Smoothie bowl"},"dej":{"plat":"Bacalhau com natas","alt":"Bacalhau léger"},"collation":{"plat":"Pastel","alt":"Fruits"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pão + fromage","alt":"Porridge"},"dej":{"plat":"Arroz de polvo","alt":"Polvo + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Sopa","alt":"Soupe + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bolo","alt":"Porridge"},"dej":{"plat":"Feijoada portuguesa","alt":"Feijoada légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Sardines","alt":"Poisson vapeur + salade"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Pain de maïs + fromage + café","alt":"Pain complet + avocat + œuf poché"},"dej":{"plat":"Bacalhau à brás","alt":"Bacalhau à brás (moins d’huile) + pomme de terre + salade verte"},"collation":{"plat":"Fruits frais","alt":"Amandes + fruits + fromage blanc"},"diner":{"plat":"Soupe caldo verde","alt":"Soupe caldo verde + riz + lentilles + poulet"}},
+        {"jour":"Mardi","petitdej":{"plat":"Yaourt + fruits","alt":"Porridge avoine + fruits rouges + oeufs"},"dej":{"plat":"Poisson grillé + pommes de terre","alt":"Poisson grillé + pomme de terre + légumes"},"collation":{"plat":"Fruits secs","alt":"Yaourt + graines + whey"},"diner":{"plat":"Poulet piri-piri","alt":"Poulet piri-piri + légumes vapeur + patate douce"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Pain + confiture","alt":"Pain complet + avocat + oeufs"},"dej":{"plat":"Feijoada portugaise","alt":"Feijoada allégée (moins de viande grasse, plus de légumes)"},"collation":{"plat":"Orange + noix","alt":"Compote sans sucre + whey"},"diner":{"plat":"Salade de thon + haricot","alt":"Salade complète (thon, légumes, pois chiches)"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pain + fromage blanc","alt":"Yaourt + fruits + graines + oeufs"},"dej":{"plat":"Bacalhau com natas","alt":"Morue au four + purée légère + légumes"},"collation":{"plat":"Fruit frais","alt":"Amandes"},"diner":{"plat":"Soupe de légumes + pain","alt":"Soupe maison + œuf dur + pomme de terre"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Crêpe + miel","alt":"Crêpe + fruits + oeufs + avocat"},"dej":{"plat":"Arroz de marisco","alt":"Riz aux fruits de mer + légumes"},"collation":{"plat":"Yaourt","alt":"Smoothie banane + yaourt + whey"},"diner":{"plat":"Poisson grillé + légumes","alt":"Poisson grillé + légumes vapeur + riz"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain + huile d’olive","alt":"Pain complet + avocat"},"dej":{"plat":"Porc à l’alentejana","alt":"Porc à l'alentejana + légumes + patate douce"},"collation":{"plat":"Fruits de saison","alt":"Yaourt nature + graines"},"diner":{"plat":"Soupe + salade + sardine","alt":"Soupe + sardine + pomme de terre"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pao de deus + café","alt":"Pao de deus + oeufs + boisson chaude"},"dej":{"plat":"Morue à la portugaise","alt":"Morue à la portugaise + patate douce + légumes"},"collation":{"plat":"Fruit","alt":"Yaourt + fruits rouges"},"diner":{"plat":"Riz + haricot + poulet","alt":"Riz + haricot + poulet + épinard"}}
       ]
     },
     "Italie": {
