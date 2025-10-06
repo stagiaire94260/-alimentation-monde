@@ -616,18 +616,18 @@
     },
     "Sri Lanka": {
       "coords": [7.8731, 80.7718],
-      "feculents": "Riz, roti, hoppers",
-      "proteines": "Poisson, poulet, lentilles",
-      "legumes": "Épinards, aubergine, gombo",
-      "fruits": "Mangue, papaye, banane",
+      "feculents": "Riz basmati, riz rouge, nouilles de riz, roti complet, millet",
+      "proteines": "Poulet, poisson, crevettes, œufs, lentilles corail, tofu, tempeh",
+      "legumes": "Épinards, aubergine, carotte, chou-fleur, haricots verts, courgette, poivron, oignon, tomate, potiron",
+      "fruits": "Banane, mangue, papaye, ananas, fruit de la passion, pastèque, goyave, citron vert, noix de coco",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Hoppers","alt":"Porridge"},"dej":{"plat":"Rice and curry","alt":"Rice + vegetable curry"},"collation":{"plat":"Vadai","alt":"Fruit frais"},"diner":{"plat":"Fish curry","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"String hoppers","alt":"Smoothie bowl"},"dej":{"plat":"Kottu","alt":"Kottu léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Dhal curry","alt":"Dhal + quinoa"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Roti","alt":"Porridge"},"dej":{"plat":"Lamprais","alt":"Lamprais léger"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pancakes local","alt":"Smoothie bowl"},"dej":{"plat":"Seafood curry","alt":"Seafood vapeur"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soupe + salad"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Idiyappam","alt":"Porridge"},"dej":{"plat":"Rice & curry","alt":"Rice complete + veggies"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Vegetarian curry","alt":"Veg curry + quinoa"}},
-        {"jour":"Samedi","petitdej":{"plat":"Hoppers","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Porridge"},"dej":{"plat":"Rice & curry","alt":"Rice + veg"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+         {"jour":"Lundi","petitdej":{"plat":"Hoppers + fruits","alt":"Hoppers + fruits + oeufs"},"dej":{"plat":"Curry de poulet + riz basmati + légumes","alt":"Curry de poulet au lait de coco light + riz rouge + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix de coco + banane"},"diner":{"plat":"SSoupe de légumes épicée + riz basmati","alt":"Soupe de légumes épicée + riz basmati + poulet"}},
+         {"jour":"Mardi","petitdej":{"plat":"Riz au lait de coco (kiribath) + fruits","alt":"Bouillide riz + lait végétal + fruits"},"dej":{"plat":"Poisson au curry + riz rouge + légumes","alt":"Poisson au curry + riz + sauce légère citronnée + légumes"},"collation":{"plat":"Fruits frais","alt":"Amandes + ananas"},"diner":{"plat":"Légumes sautés + tofu + riz","alt":"Soupe légère de lentilles + pain complet"}},
+         {"jour":"Mercredi","petitdej":{"plat":"Roti complet + banane + thé","alt":"Yaourt nature + fruits tropicaux"},"dej":{"plat":"Dhal (lentilles) + riz + légumes","alt":"Dhal léger au lait de coco light + quinoa + légumes"},"collation":{"plat":"Papaye + noix","alt":"Smoothie banane-lait végétal"},"diner":{"plat":"Curry de légumes + riz","alt":"Soupe épicée de légumes + riz rouge + poulet"}},
+         {"jour":"Jeudi","petitdej":{"plat":"Bouillie d’avoine + mangue + lait de coco","alt":"Porridge d’avoine + fruits + lait végétal"},"dej":{"plat":"Curry de crevettes + riz basmati + légumes","alt":"Crevettes grillées + riz complet + salade croquante"},"collation":{"plat":"Fruits frais","alt":"Noix de cajou + ananas"},"diner":{"plat":"Dhal (lentilles) + riz + légumes","alt":"Dhal léger au lait de coco light + poulet + millet + légumes"}},
+         {"jour":"Vendredi","petitdej":{"plat":"Roti + fruits + thé","alt":"Roti + oeufs + fruit + yaourt nature"},"dej":{"plat":"Curry de poisson + riz rouge + légumes vapeur","alt":"Curry de poisson + riz + sauce coco light + légumes"},"collation":{"plat":"Fruit frais","alt":"Noix + banane"},"diner":{"plat":"Soupe de lentilles + légumes","alt":"Soupe dhal légère + riz complet + crevettes"}},
+         {"jour":"Samedi","petitdej":{"plat":"Riz au lait de coco + fruits","alt":"Porridge de riz complet + papaye"},"dej":{"plat":"Poulet grillé + curry de légumes + riz","alt":"Poulet au four + riz complet + légumes rôtis"},"collation":{"plat":"Fruits tropicaux","alt":"Noix de coco fraîche, fromage blanc"},"diner":{"plat":"Soupe végétarienne + roti complet","alt":"Soupe au poulet + nouilles de riz + légumes"}},
+         {"jour":"Dimanche","petitdej":{"plat":"Pancakes à la noix de coco + fruits","alt":"Crêpes au lait de coco + fruits frais + oeufs"},"dej":{"plat":"Curry de légumes + riz basmati","alt":"Curry de légumes light + riz + tempeh"},"collation":{"plat":"Fruits frais","alt":"Smoothie tropical + whey"},"diner":{"plat":"Soupe dhal + légumes vapeur","alt":"Soupe dhal + riz rouge + tofu"}}
       ]
     },
     "Thaïlande": {
