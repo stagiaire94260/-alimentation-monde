@@ -584,18 +584,18 @@
     },
     "Corée du Sud": {
       "coords": [35.9078, 127.7669],
-      "feculents": "Riz, nouilles",
-      "proteines": "Poisson, tofu, porc",
-      "legumes": "Kimchi, épinards, courgette",
-      "fruits": "Pomme, poire, kaki",
+      "feculents": "Riz blanc, riz complet, nouilles de patate douce, nouilles de riz, orge, patate douce",
+      "proteines": "Poulet, bœuf maigre, poisson (saumon, maquereau), tofu, œufs, fruits de mer",
+      "legumes": "Chou chinois, carottes, épinards, courgettes, champignons, soja, poivrons, oignons, brocolis",
+      "fruits": "Pomme, poire coréenne, mandarine, fraise, kiwi, raisin, melon",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Bap + banchan","alt":"Riz complet + légumes"},"dej":{"plat":"Bibimbap","alt":"Bibimbap légumes"},"collation":{"plat":"Tteok","alt":"Fruits frais"},"diner":{"plat":"Samgyeopsal","alt":"Viande maigre + salade"}},
-        {"jour":"Mardi","petitdej":{"plat":"Gukbap","alt":"Porridge"},"dej":{"plat":"Kimchi jjigae","alt":"Soupe légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Jjajangmyeon","alt":"Nouilles légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Toast coréen","alt":"Smoothie bowl"},"dej":{"plat":"Kimbap","alt":"Kimbap légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Samgyetang","alt":"Poulet léger"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Japchae","alt":"Japchae légumes"},"collation":{"plat":"Tteok","alt":"Fruits"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Bread","alt":"Porridge"},"dej":{"plat":"Bulgogi","alt":"Bulgogi maigre + salade"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Jjigae","alt":"Soupe + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Street food varié","alt":"Options légères"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Riz + œuf + kimchi","alt":"Congee + œuf poché + kimchi"},"dej":{"plat":"Bibimbap (riz, légumes, viande, œuf)","alt":"Bibimbap (riz complet + patate douce + brocolis + avocat) + poulet"},"collation":{"plat":"Fruit frais","alt":"Yaourt nature + fruits"},"diner":{"plat":"Soupe miso coréenne + riz","alt":"Soupe miso coréenne + riz complet + tofu grillé"}},
+        {"jour":"Mardi","petitdej":{"plat":"Gyeranbap + légumes","alt":"Gyeranbap + œuf + kimchi"},"dej":{"plat":"Bulgogi (bœuf mariné) + riz","alt":"Bulgogi + riz complet + légumes sautés"},"collation":{"plat":"Poignée de noix","alt":"Fruits secs + thé vert"},"diner":{"plat":"Tofu grillé + kimchi + riz","alt":"Tofu sauté aux légumes + riz complet"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Soupe de tofu + riz","alt":"Soupe de miso + légumes + riz complet"},"dej":{"plat":"Poisson grillé + riz + légumes","alt":"Poisson grillé + riz complet + salade de chou"},"collation":{"plat":"Fruit de saison","alt":"Yaourt grec + fraises"},"diner":{"plat":"Bibimbap végétarien","alt":"Bibimbap + oeufs + légumes ++  "}},
+        {"jour":"Jeudi","petitdej":{"plat":"Omelette coréenne + riz","alt":"Omelette aux légumes + riz complet"},"dej":{"plat":"Dakgalbi + légumes","alt":"Dakgalbi + légumes"},"collation":{"plat":"Fruits frais","alt":"Amandes + pomme"},"diner":{"plat":"Soupe kimchi jjigae + tofu","alt":"Soupe kimchi jjigae + viande + riz basmati complet"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Gukpap","alt":"Gukpap + œuf + riz"},"dej":{"plat":"Japchae (nouilles de patate douce sautées)","alt":"Japchae + tofu + légumes vapeur"},"collation":{"plat":"Fruit + thé vert","alt":"Yaourt nature + noix"},"diner":{"plat":"Poisson grillé + soupe claire + riz","alt":"Poisson vapeur + riz complet + soupe"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toasts coréens aux légumes","alt":"Toasts coréens + omelette + légumes"},"dej":{"plat":"Bibimbap au poulet","alt":"Bibimbap au poulet+ riz complet"},"collation":{"plat":"Fruits secs","alt":"Smoothie fruit + lait végétal"},"diner":{"plat":"Soupe d’algues + riz","alt":"Soupe d’algues + tofu + légumes sautés"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Dakjuk + fruits","alt":"Dakjuk + oeufs + fruits frais"},"dej":{"plat":"Samgyeopsal + salade + riz","alt":"Samgyeopsal + kimchi + riz complet"},"collation":{"plat":"Fruit frais","alt":"Yaourt grec + fruits rouges"},"diner":{"plat":"Hot pot coréen léger + tofu","alt":"Soupe maison + riz complet + légumes vapeur + tofu"}}
       ]
     },
     "Laos": {
