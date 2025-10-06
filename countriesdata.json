@@ -632,18 +632,18 @@
     },
     "Thaïlande": {
       "coords": [15.8700, 100.9925],
-      "feculents": "Riz, nouilles",
-      "proteines": "Poisson, poulet, tofu",
-      "legumes": "Basilic, coriandre, piment",
-      "fruits": "Mangue, papaye, litchi",
+      "feculents": "Riz jasmin, nouilles de riz, riz gluant complet, patate douce, vermicelles de riz, quinoa",
+      "proteines": "Poulet, crevettes, poisson, œufs, tofu, tempeh, bœuf maigre",
+      "legumes": "Chou, carotte, poivron, courgette, haricot long, brocoli, oignon, ail, basilic thaï, coriandre",
+      "fruits": "Mangue, ananas, papaye, banane, fruit du dragon, citron vert, noix de coco, pastèque, goyave",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Khao tom","alt":"Smoothie bowl"},"dej":{"plat":"Pad Thai","alt":"Pad Thai légumes"},"collation":{"plat":"Mango sticky rice","alt":"Fruits frais"},"diner":{"plat":"Tom yum","alt":"Soupe légère"}},
-        {"jour":"Mardi","petitdej":{"plat":"Jok (congee)","alt":"Porridge"},"dej":{"plat":"Green curry","alt":"Green curry légumes"},"collation":{"plat":"Satay","alt":"Poulet grillé + salade"},"diner":{"plat":"Som tam","alt":"Salade papaye"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Kai jeow","alt":"Omelette légumes"},"dej":{"plat":"Khao man gai","alt":"Poulet grillé + riz complet"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Massaman curry","alt":"Curry léger"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Pad see ew","alt":"Nouilles légumes"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Khao niao + mango","alt":"Smoothie bowl"},"dej":{"plat":"Gaeng daeng","alt":"Curry légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pancake local","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + proteins"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Smoothie bowl"},"dej":{"plat":"Khao soi","alt":"Khao soi léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salade","alt":"Salade complète"}} 
+         {"jour":"Lundi","petitdej":{"plat":"Riz sauté et œuf","alt":"Riz sauté aux légumes et œuf poché"},"dej":{"plat":"Pad Thaï au poulet","alt":"Pad Thaï au poulet et nouilles de riz + portion de légumes"},"collation":{"plat":"Mangue fraîche","alt":"Mangue + noix de coco râpée + fromage blanc"},"diner":{"plat":"Soupe Tom Yum aux crevettes","alt":"Soupe Tom Yum aux crevettes + légumes"}},
+         {"jour":"Mardi","petitdej":{"plat":"Omelette thaïlandaise + riz jasmin","alt":"Omelette aux légumes + riz complet"},"dej":{"plat":"Curry vert de poulet + riz","alt":"Curry vert poulet au lait de coco light + vermicelle de riz + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Papaye + amandes"},"diner":{"plat":"Soupe de nouilles + légumes + tofu","alt":"Soupe de nouilles + légumes + boeuf grillé"}},
+         {"jour":"Mercredi","petitdej":{"plat":"Porridge de riz gluant au lait de coco","alt":"Porridge de riz complet au lait végétal + fruits + oeuf"},"dej":{"plat":"Poisson citron et coriandre + riz","alt":"Poisson vapeur + patate douce + salade croquante"},"collation":{"plat":"Fruit du dragon","alt":"Smoothie tropical"},"diner":{"plat":"Sauté de légumes au tofu","alt":"Soupe de légumes citronnelle + riz rouge + crevettes"}},
+         {"jour":"Jeudi","petitdej":{"plat":"Crêpes de riz à la banane","alt":"Crêpes à la farine de riz complet + banane + oeufs"},"dej":{"plat":"Curry rouge aux crevettes + riz jasmin","alt":"Curry rouge aux crevettes + curry léger de légumes + riz complet"},"collation":{"plat":"Noix de coco fraîche","alt":"Mangue + noix de cajou"},"diner":{"plat":"Soupe Tom Kha Kai","alt":"Soupe Tom Kha Kai + riz"}},
+         {"jour":"Vendredi","petitdej":{"plat":"Riz frit au poulet et légumes","alt":"Riz sauté au tofu et légumes vapeur"},"dej":{"plat":"Pad See Ew (nouilles sautées au bœuf et brocoli)","alt":"Pad See Ew léger en sucre"},"collation":{"plat":"Ananas frais","alt":"Papaye + graines de chia"},"diner":{"plat":"Soupe de légumes citronnelle","alt":"Soupe de légumes citronnelle + crevettes + nouilles"}},
+         {"jour":"Samedi","petitdej":{"plat":"Omelette + riz gluant","alt":"Omelette + riz + fruits"},"dej":{"plat":"Curry massaman au poulet","alt":"Curry massaman léger au poulet + patate douce"},"collation":{"plat":"Noix + fruits","alt":"Smoothie mangue-coco"},"diner":{"plat":"Soupe claire aux légumes + tofu","alt":"Soupe de légumes + poulet + riz complet"}},
+         {"jour":"Dimanche","petitdej":{"plat":"Pancakes coco-banane","alt":"Crêpes à la farine de riz + fruits tropicaux"},"dej":{"plat":"Curry de légumes thaï + riz jasmin","alt":"Curry de légumes au lait de coco light + riz jasmin + crevettes"},"collation":{"plat":"Fruits frais","alt":"Ananas + noix"},"diner":{"plat":"Soupe de légumes citronnelle + riz rouge","alt":"Soupe de légumes citronnelle + riz rouge + boeuf maigre"}}
       ]
     },
     "Vietnam": {
