@@ -388,18 +388,18 @@
    },
     "Tchad": {
       "coords": [15.4542, 18.7322],
-      "feculents": "Mil, sorgho, riz",
-      "proteines": "Viande séchée, poisson, poulet",
-      "legumes": "Feuilles, oignons, tomates",
-      "fruits": "Mangue, dattes, banane",
+      "feculents": "Mil, sorgho, maïs, riz, manioc, patate douce, fonio",
+      "proteines": "Poisson (capitaine, tilapia, silure), poulet, bœuf, chèvre, œufs, haricots, arachides",
+      "legumes": "Feuilles de manioc, gombos, aubergines, oignons, tomates, choux, carottes",
+      "fruits": "Mangue, papaye, pastèque, dattes, banane, goyave, citron, orange",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil","alt":"Porridge"},"dej":{"plat":"Ragoût local","alt":"Ragoût légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines maigres"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Fufu local","alt":"Fufu léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Bouillie","alt":"Porridge"},"dej":{"plat":"Riz + sauce viande","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe traditionnelle","alt":"Soupe + protéines"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pain","alt":"Porridge"},"dej":{"plat":"Plat familial","alt":"Version allégée"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Beignet","alt":"Porridge"},"dej":{"plat":"Riz aux légumes","alt":"Riz complet + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bouillie de sorgho","alt":"Porridge"},"dej":{"plat":"Ragout de viande","alt":"Ragoût léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soupe familiale","alt":"Soupe + protéines"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Pain local","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Ragoût traditionnel","alt":"Ragoût léger"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Bouillie de mil au lait caillé","alt":"Mil soufflé + lait végétal + dattes hachées"},"dej":{"plat":"Daraba (sauce gombo + viande + riz)","alt":"Daraba sauce gombo avec poisson vapeur + riz portionné + légumes"},"collation":{"plat":"Mangue fraîche","alt":"Smoothie mangue + lait végétal + whey"},"diner":{"plat":"Boule de mil + sauce arachide","alt":"Boule de mil + sauce légumes + poisson grillé"}},
+        {"jour":"Mardi","petitdej":{"plat":"Pain local + omelette aux oignons","alt":"Pain de mil + œuf + avocat + fromage blanc"},"dej":{"plat":"Poisson braisé + riz + légumes","alt":"Poisson braisé + riz portionné + légumes sautés"},"collation":{"plat":"Papaye","alt":"Yaourt nature + papaye + whey"},"diner":{"plat":"Sauce gombo + boule de sorgho","alt":"Sauce gombo + poisson vapeur + sorgho"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Beignets de mil + thé local","alt":"Porridge fonio + banane + noix"},"dej":{"plat":"Viande de bœuf mijotée + riz","alt":"Bœuf grillé + riz portionné + salade de chou"},"collation":{"plat":"Pastèque","alt":"Smoothie pastèque + lait végétal"},"diner":{"plat":"Feuilles de manioc + boule de mil","alt":"Feuilles de manioc + poisson grillé + boule de mil"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Galettes de mil + confiture mangue","alt":"Yaourt nature + mangue + granola local"},"dej":{"plat":"Poulet aux arachides + riz","alt":"Poulet grillé + sauce arachide + riz portionné + aubergines"},"collation":{"plat":"Dattes","alt":"Dattes + noix + fromage blanc + whey"},"diner":{"plat":"Soupe locale au poisson","alt":"Soupe de poisson + légumes vapeur + patate douce"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain local + lait caillé","alt":"Porridge mil + lait végétal + oeufs + fruits"},"dej":{"plat":"Capitaine braisé + riz + légumes","alt":"Capitaine + fonio + salade"},"collation":{"plat":"Orange","alt":"Smoothie agrumes + whey"},"diner":{"plat":"Sauce tomate + boule de sorgho","alt":"Sauce tomate légère + poisson + sorgho"}},
+        {"jour":"Samedi","petitdej":{"plat":"Galette de patate douce + miel","alt":"Galette de patete douce + oeufs + yaourt + fruits"},"dej":{"plat":"Ragoût de bœuf + mil","alt":"Bœuf mijoté + mil portionné + légumes vapeur"},"collation":{"plat":"Banane","alt":"Yaourt nature + banane + whey"},"diner":{"plat":"Sauce légumes + poisson grillé","alt":"Poisson vapeur + légumes mijotés + fonio"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Bouillie d’arachide + dattes","alt":"Oeufs + mangue + lait végétal"},"dej":{"plat":"Daraba complet (gombo, arachide, viande, riz)","alt":"Daraba allégé + poisson + riz portionné"},"collation":{"plat":"Papaye","alt":"Smoothie papaye + lait végétal"},"diner":{"plat":"Feuilles de manioc + riz","alt":"Feuilles de manioc + bœuf + portion de riz"}}
       ]
     }
   },
