@@ -454,18 +454,18 @@
     },
     "Italie": {
       "coords": [41.8719, 12.5674],
-      "feculents": "Pâtes, pain, riz",
-      "proteines": "Poisson, poulet, bœuf",
-      "legumes": "Tomate, courgette, aubergine",
-      "fruits": "Citron, raisin, figue",
+      "feculents": "Pâtes complètes, riz arborio, polenta, pain complet, pommes de terre, lentilles, quinoa",
+      "proteines": "Poulet, poisson (thon, sardine, dorade), œufs, bœuf maigre, mozzarella, ricotta, légumineuses",
+      "legumes": "Tomates, courgettes, aubergines, poivrons, épinards, brocolis, roquette, artichauts, oignons",
+      "fruits": "Orange, raisin, pomme, figue, citron, fraise, pêche, melon, poire, myrtille",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Cornetto","alt":"Porridge"},"dej":{"plat":"Pasta al pomodoro","alt":"Pasta intégrale + légumes"},"collation":{"plat":"Gelato","alt":"Yaourt + fruits"},"diner":{"plat":"Risotto","alt":"Risotto léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Biscotti","alt":"Smoothie bowl"},"dej":{"plat":"Pizza","alt":"Pizza légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Saltimbocca","alt":"Poulet + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Lasagne","alt":"Lasagne légumes"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade poisson","alt":"Poisson vapeur"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Cappuccino + brioche","alt":"Smoothie bowl"},"dej":{"plat":"Pasta carbonara","alt":"Pasta légère"},"collation":{"plat":"Biscotti","alt":"Fruits"},"diner":{"plat":"Minestrone","alt":"Soupe légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pancakes","alt":"Porridge"},"dej":{"plat":"Seafood pasta","alt":"Pasta + légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Insalata","alt":"Salade complète"}},
-        {"jour":"Samedi","petitdej":{"plat":"Cornetto","alt":"Smoothie bowl"},"dej":{"plat":"Risotto","alt":"Risotto légumes"},"collation":{"plat":"Gelato","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tiramisu mini","alt":"Porridge"},"dej":{"plat":"Rôti familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Soupe","alt":"Soupe + protéines"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Cappuccino + tartine de pain complet + confiture","alt":"Yaourt grec + fruits frais + granola"},"dej":{"plat":"Poulet grillé + pâtes complètes + ratatouille italienne","alt":"Poulet grillé + pâtes de lentilles + ratatouille rôtie au four"},"collation":{"plat":"Fruit de saison","alt":"Amandes + pomme + fromage blanc"},"diner":{"plat":"Soupe minestrone + pain complet","alt":"Salade caprese allégée (mozzarella, tomate, basilic) + pâtes + courgettes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Ricotta + miel + fruit","alt":"Smoothie banane-fraise + avoine + oeufs"},"dej":{"plat":"Risotto de légumes + poisson blanc","alt":"Risotto aux légumes complet avec riz arborio complet, filet de poisson blanc cuit vapeur, légumes rôtis au four"},"collation":{"plat":"Noix + fruits secs","alt":"Yaourt nature + fruits"},"diner":{"plat":"Légumes grillés + œuf poché","alt":"Légumes grillés + œuf poché + polenta"}}, 
+        {"jour":"Mercredi","petitdej":{"plat":"Pain complet + purée de noisette + café","alt":"Crêpes légères + fruits + oeufs"},"dej":{"plat":"Lasagnes aux légumes + salade verte","alt":"Lasagnes de courgettes + poulet + pomme de terre sauté"},"collation":{"plat":"Fruit frais","alt":"Compote + whey + carré de chocolat noir"},"diner":{"plat":"Salade de quinoa + tomates séchées + mozzarella","alt":"Pizza maison + sauce tomate + mozarella + légumes + jambon"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Yaourt grec + flocons d’avoine + miel","alt":"Smoothie vert pomme-épinard + graine de chia + oeufs"},"dej":{"plat":"Gnocchi à la sauce tomate + légumes","alt":"Gnocchi de pommes de terre + sauce tomate maison + légumes vapeur + poulet"},"collation":{"plat":"Amandes + fruit","alt":"Yaourt nature + fruits secs + fruits"},"diner":{"plat":"Filet de poisson + légumes sautés","alt":"Filet de poisson blanc au four + légumes grillés + polenta"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pain complet + confiture + café","alt":"Overnight oats + fruits rouges + oeufs"},"dej":{"plat":"Pâtes + légumes + poulet","alt":"Pâtes complètes + poulet + aubergine"},"collation":{"plat":"Fruit frais","alt":"Poignée de noix + fromage blanc + miel + whey"},"diner":{"plat":"Polenta + bœuf mijoté + sauce tomate","alt":"Polenta + légumes grillés + boeuf + sauce tomate maison"}},
+        {"jour":"Samedi","petitdej":{"plat":"Cappuccino + biscotte complète + confiture","alt":"Yaourt + fruits + oeufs + avocat"},"dej":{"plat":"Ravioli à la ricotta + sauce crème","alt":"Ravioli complets + ricotta + sauce fromage blanc + légumes + jambon"},"collation":{"plat":"Fruits secs","alt":"Compote maison + fruits"},"diner":{"plat":"Salade caprese + pain","alt":"Salade caprese + pain complet + riz + poisson"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Cornetto + jus d’orange","alt":"Oeuf pochés + fruits frais + boisson chaude"},"dej":{"plat":"Risotto aux légumes + parmesan","alt":"Risotto complet aux légumes + parmesan + crevettes"},"collation":{"plat":"Fruit de saison","alt":"Yaourt grec + fruits secs"},"diner":{"plat":"Poulet cacciatore + polenta","alt":"Poulet cacciatore + polenta + légumes rôtis"}}
       ]
     },
     "Royaume-Uni": {
