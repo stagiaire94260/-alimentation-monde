@@ -648,18 +648,18 @@
     },
     "Vietnam": {
       "coords": [14.0583, 108.2772],
-      "feculents": "Riz, nouilles (pho), bánh mì",
-      "proteines": "Poisson, porc, tofu",
-      "legumes": "Herbes fraîches, chou, carotte",
-      "fruits": "Mangue, pitaya, banane",
+      "feculents": "Riz jasmin, nouilles de riz, vermicelles de riz, patate douce, riz complet, bánh mì complet",
+      "proteines": "Poulet, porc maigre, bœuf, crevettes, poisson, œufs, tofu, tempeh",
+      "legumes": "Chou, carotte, concombre, germes de soja, oignon, salade, coriandre, menthe, basilic, haricots verts",
+      "fruits": "Mangue, banane, papaye, ananas, fruit du dragon, citron vert, pastèque, goyave, jacquier",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Pho","alt":"Pho léger"},"dej":{"plat":"Banh mi","alt":"Banh mi complet"},"collation":{"plat":"Nem","alt":"Fruits frais"},"diner":{"plat":"Com tam","alt":"Com tam léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Banh cuon","alt":"Porridge"},"dej":{"plat":"Bun cha","alt":"Bun cha légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Ca kho to","alt":"Poisson vapeur"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Xoi","alt":"Smoothie bowl"},"dej":{"plat":"Goi cuon","alt":"Goi cuon légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Bun bo Hue","alt":"Soupe légère"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Banh mi","alt":"Porridge"},"dej":{"plat":"Com ga","alt":"Com ga léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pho","alt":"Pho légumes"},"dej":{"plat":"Banh xeo","alt":"Banh xeo légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
-        {"jour":"Samedi","petitdej":{"plat":"Bun rieu","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salad"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bread local","alt":"Smoothie bowl"},"dej":{"plat":"Com suon","alt":"Com suon léger"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salad","alt":"Salade complète"}} 
+         {"jour":"Lundi","petitdej":{"plat":"Phở au bœuf","alt":"Phở au boeuf et légumes + bouillon léger"},"dej":{"plat":"Riz jasmin + poulet au gingembre","alt":"Riz jasmin + poulet au gingembre"},"collation":{"plat":"Fruits tropicaux","alt":"Mangue + noix de cajou"},"diner":{"plat":"Soupe claire de légumes + tofu","alt":"Soupe de légumes citronnée + riz complet + poulet"}},
+         {"jour":"Mardi","petitdej":{"plat":"Bánh cuốn (crêpes de riz vapeur farcies)","alt":"Bánh cuốn farcies au boeuf et légumes"},"dej":{"plat":"Bún chả (porc grillé + vermicelles de riz + herbes)","alt":"Bún chả + légumes + sauce légère nuoc mam allégée"},"collation":{"plat":"Papaye + noix de coco","alt":"Smoothie tropical sans sucre"},"diner":{"plat":"Soupe de nouilles au poulet","alt":"Soupe de nouilles au poulet + légumes"}},
+         {"jour":"Mercredi","petitdej":{"plat":"Riz sauté aux légumes + œuf","alt":"Riz sauté aux légumes vapeur + œuf poché"},"dej":{"plat":"Poisson vapeur citronnelle + riz jasmin + légumes","alt":"Poisson vapeur + riz + salade croquante"},"collation":{"plat":"Fruit du dragon","alt":"Banane + amandes"},"diner":{"plat":"Soupe de légumes + tofu grillé","alt":"Soupe claire de légumes + riz complet + boeuf"}},
+         {"jour":"Jeudi","petitdej":{"plat":"Bánh mì complet + œuf + concombre","alt":"Bánh mì complet + oeufs + légumes croquants"},"dej":{"plat":"Curry vietnamien de légumes + riz","alt":"Curry vietnamien de légumes au lait de coco light + riz complet"},"collation":{"plat":"Ananas + noix","alt":"Smoothie mangue-coco"},"diner":{"plat":"Soupe de légumes + vermicelles de riz","alt":"Soupe de légumes + riz + crevettes"}},
+         {"jour":"Vendredi","petitdej":{"plat":"Soupe légère au riz et herbes fraîches","alt":"Porridge de riz complet + légumes"},"dej":{"plat":"Poulet citronnelle + riz jasmin","alt":"Poulet citronnelle + riz + légumes vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Noix de cajou + papaye"},"diner":{"plat":"Bún bò Huế (soupe épicée de bœuf)","alt":"Soupe épicée allégée au tofu + légumes"}},
+         {"jour":"Samedi","petitdej":{"plat":"Bánh mì + fruits tropicaux","alt":"Bánh mì + ananas + oeufs"},"dej":{"plat":"Riz jasmin + crevettes sautées + légumes","alt":"Crevettes grillées + riz + salade croquante"},"collation":{"plat":"Mangue + noix","alt":"Smoothie mangue-passion"},"diner":{"plat":"Soupe de légumes citronnée","alt":"Soupe claire + tofu + riz complet"}},
+         {"jour":"Dimanche","petitdej":{"plat":"Phở au poulet","alt":"Phở au poulet + bouillon léger"},"dej":{"plat":"Rouleaux de printemps (Gỏi cuốn)","alt":"Gỏi cuốn + sauce légère + oeufs"},"collation":{"plat":"Fruits frais","alt":"Ananas + amandes"},"diner":{"plat":"Soupe + riz","alt":"Soupe + riz complet + poulet"}}
       ]
     },
     "Japon": {
