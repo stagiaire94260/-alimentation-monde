@@ -470,18 +470,18 @@
     },
     "Royaume-Uni": {
       "coords": [55.3781, -3.4360],
-      "feculents": "Pain, pommes de terre, riz",
-      "proteines": "Poulet, bœuf, poisson",
-      "legumes": "Petits pois, carottes, choux",
-      "fruits": "Pommes, baies",
+      "feculents": "Pain complet, porridge (flocons d’avoine), pommes de terre, pâtes complètes, riz complet, légumineuses",
+      "proteines": "Poulet, œufs, poisson blanc, saumon, bœuf maigre, tofu, haricots",
+      "legumes": "Épinards, brocolis, carottes, poivrons, champignons, chou-fleur, petits pois, tomates",
+      "fruits": "Pomme, poire, banane, fraise, myrtille, orange, raisin",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Full English","alt":"Omelette + légumes"},"dej":{"plat":"Fish and chips","alt":"Poisson vapeur + pommes de terre au four"},"collation":{"plat":"Scone","alt":"Yaourt + fruits"},"diner":{"plat":"Roast dinner","alt":"Roast léger"}},
-        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Sandwich","alt":"Sandwich complet"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Shepherd's pie","alt":"Version légère"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Ploughman's lunch","alt":"Ploughman's léger"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Pie","alt":"Pie légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Cereal","alt":"Porridge"},"dej":{"plat":"Fish pie","alt":"Poisson vapeur"},"collation":{"plat":"Biscuits","alt":"Fruits secs"},"diner":{"plat":"Curry","alt":"Curry léger"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Bangers and mash","alt":"Sausage veggie"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Full English light","alt":"Omelette"},"dej":{"plat":"Burger","alt":"Burger maison + salade"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Fish and chips","alt":"Poisson vapeur"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Sunday roast","alt":"Roast léger"},"collation":{"plat":"Cake","alt":"Fruit frais"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Full English Breakfast (œufs, bacon, haricots, tomate grillée)","alt":"Full English allégé : œufs pochés, boeuf séché, haricots maison, tomates rôties"},"dej":{"plat":"Fish and chips","alt":"Poisson blanc au four + frites de patate douce"},"collation":{"plat":"Scone + confiture","alt":"Yaourt nature + fruits rouges + whey"},"diner":{"plat":"Shepherd’s pie","alt":"Shepherd’s pie allégé : bœuf + purée de patate douce + légumes"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge + miel + fruits","alt":"Porridge + fruits frais + graines de chia"},"dej":{"plat":"Bangers and mash","alt":"Saucisses de poulet + purée de chou-fleur et pommes de terre"},"collation":{"plat":"Fruit frais","alt":"Amandes + pomme + skyr"},"diner":{"plat":"Chicken pot pie","alt":"Chicken pot pie léger : poulet, légumes, pâte allégée"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast + beurre + confiture","alt":"Toast complet + purée d’amande + fruits + oeufs"},"dej":{"plat":"Beef stew + pommes de terre","alt":"Beef stew + légumes vapeur"},"collation":{"plat":"Fruit frais","alt":"Yaourt grec + fruits"},"diner":{"plat":"Fish pie","alt":"Fish pie : poisson blanc, purée de pommes de terre, légumes"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Eggs Benedict","alt":"Eggs Benedict : œufs pochés, muffin complet, sauce yaourt"},"dej":{"plat":"Ploughman’s lunch (fromage, jambon, pain)","alt":"Ploughman’s allégé : jambon, fromage allégé, crudités"},"collation":{"plat":"Fruit frais","alt":"Noix + fruit + skyr"},"diner":{"plat":"Steak and kidney pudding","alt":"Steak maigre + légumes vapeur + pâte allégée"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Pancakes + sirop","alt":"Pancakes à la farine complète + sirop d'érable"},"dej":{"plat":"Cornish pasty","alt":"Pomme de terre + légumes + poulet ou bœuf maigre"},"collation":{"plat":"Fruit frais","alt":"Yaourt nature + fruits"},"diner":{"plat":"Roast dinner (poulet, pommes de terre, légumes)","alt":"Poulet rôti + pommes de terre vapeur + légumes rôtis"}},
+        {"jour":"Samedi","petitdej":{"plat":"Full English Breakfast","alt":"Version allégée comme lundi"},"dej":{"plat":"Fish and chips","alt":"Poisson blanc au four + légumes rôtis"},"collation":{"plat":"Scone + confiture","alt":"Yaourt grec + fruits"},"diner":{"plat":"Steak pie + légumes","alt":"Steak pie léger : bœuf maigre + pâte allégée + légumes rôtis"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Toast + œufs brouillés","alt":"Toast complet + œufs brouillés + avocat"},"dej":{"plat":"Sunday roast (bœuf, pommes de terre, légumes)","alt":"Rôti maigre + pommes de terre vapeur + légumes rôtis"},"collation":{"plat":"Fruit frais","alt":"Noix + fruit + skyr"},"diner":{"plat":"Toad in the hole (saucisses au four dans pâte)","alt":"Toad in the hole léger : saucisses de poulet maigres + pâte complète + légumes vapeur"}}
       ]
     },
     "Écosse": {
