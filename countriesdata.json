@@ -680,18 +680,18 @@
   },
     "Bali": {
       "coords": [-8.3405, 115.0920],
-      "feculents": "Riz, lontong",
-      "proteines": "Poulet, poisson, tofu",
-      "legumes": "Kangkung, légumes tropicaux",
-      "fruits": "Mangue, papaye, noix de coco",
+      "feculents": "Riz blanc, riz complet, nouilles de riz, patate douce, maïs, manioc",
+      "proteines": "Poulet, poisson, crevettes, tofu, tempeh, œufs",
+      "legumes": "Épinards, choux, carottes, haricots verts, courgettes, poivrons, concombre, oignon, aubergine, tomates",
+      "fruits": "Mangue, papaye, banane, ananas, fruit du dragon, noix de coco, citron vert, pastèque",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Nasi goreng","alt":"Nasi goreng légumes"},"dej":{"plat":"Bebek betutu","alt":"Canard léger"},"collation":{"plat":"Pisang goreng","alt":"Fruit frais"},"diner":{"plat":"Sate lilit","alt":"Sate poisson"}},
-        {"jour":"Mardi","petitdej":{"plat":"Bubur","alt":"Porridge"},"dej":{"plat":"Nasi campur","alt":"Nasi campur léger"},"collation":{"plat":"Fruits tropicaux","alt":"Yaourt"},"diner":{"plat":"Gado-gado","alt":"Gado-gado équilibré"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Toast local","alt":"Smoothie bowl"},"dej":{"plat":"Lawar","alt":"Lawar légumes"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Ikan bakar","alt":"Poisson vapeur"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pancakes locales","alt":"Porridge"},"dej":{"plat":"Ayam betutu","alt":"Poulet grillé + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + protéines"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Bubur","alt":"Smoothie bowl"},"dej":{"plat":"Nasi goreng","alt":"Nasi goreng légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Samedi","petitdej":{"plat":"Roti","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Toast local","alt":"Smoothie bowl"},"dej":{"plat":"Rijsttafel local","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Noix"},"diner":{"plat":"Salad","alt":"Salade complète"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Nasi goreng (riz sauté) + œuf + légumes","alt":"Nasi goreng complet au riz brun + légumes + œuf poché"},"dej":{"plat":"Sate lilit (brochettes de poisson balinais) + riz blanc + légumes","alt":"Sate lilit grillé + riz complet + salade de légumes"},"collation":{"plat":"Fruits frais","alt":"Noix de coco + mangue"},"diner":{"plat":"Gado-gado (salade de légumes avec sauce arachide)","alt":"Gado-gado allégé + tofu vapeur"}},
+        {"jour":"Mardi","petitdej":{"plat":"Bubur (porridge de riz) + banane","alt":"Porridge de riz complet + papaye"},"dej":{"plat":"Ayam betutu (poulet épicé) + riz","alt":"Poulet vapeur aux épices + riz complet + légumes rôtis"},"collation":{"plat":"Fruits tropicaux","alt":"Smoothie mangue-lait de coco"},"diner":{"plat":"Pepes ikan (poisson cuit en feuille de bananier) + légumes","alt":"Poisson grillé en papillote + légumes vapeur"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Roti + fruits tropicaux","alt":"Roti complet + banane + yaourt nature"},"dej":{"plat":"Nasi campur (assiette mixte riz + viande + légumes)","alt":"Nasi campur healthy au riz complet + poulet grillé + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix de cajou + papaye"},"diner":{"plat":"Sayur lodeh (curry de légumes au lait de coco) + riz","alt":"Sayur lodeh léger au lait de coco + riz complet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Pisang goreng (bananes frites) + thé","alt":"Banane fraîche + thé vert"},"dej":{"plat":"Ikan bakar (poisson grillé) + riz","alt":"Poisson grillé + riz complet + salade de légumes"},"collation":{"plat":"Fruits frais","alt":"Smoothie fruit de la passion"},"diner":{"plat":"Nasi pecel (riz + légumes + sauce arachide)","alt":"Nasi pecel allégé + tofu vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Bubur ayam (porridge de riz au poulet)","alt":"Porridge de riz complet + poulet vapeur"},"dej":{"plat":"Sate ayam + riz + légumes","alt":"Sate grillé au four + riz complet + légumes vapeur"},"collation":{"plat":"Fruits tropicaux","alt":"Noix de coco + mangue"},"diner":{"plat":"Lawar (salade balinaise de légumes et noix de coco) + riz","alt":"Lawar léger + tofu + riz complet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Nasi kuning (riz jaune) + œuf","alt":"Nasi kuning complet au curcuma + légumes"},"dej":{"plat":"Bebek betutu (canard épicé) + riz","alt":"Canard rôti aux épices + riz complet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Smoothie tropical"},"diner":{"plat":"Sop buntut (soupe de queue de bœuf) + riz","alt":"Soupe légère + riz complet + légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Roti canai + fruits tropicaux","alt":"Roti complet + mangue + yaourt"},"dej":{"plat":"Nasi goreng spécial + œuf","alt":"Nasi goreng complet + légumes vapeur + œuf poché"},"collation":{"plat":"Fruits frais","alt":"Noix + papaye"},"diner":{"plat":"Pepes tahu (tofu cuit en feuille de bananier) + riz","alt":"Tofu grillé + riz complet + légumes vapeur"}}
       ]
     }
   },
