@@ -568,18 +568,18 @@
     },
     "Inde": {
       "coords": [20.5937, 78.9629],
-      "feculents": "Riz, chapati, millet",
-      "proteines": "Lentilles, poulet, poisson",
-      "legumes": "Épinards, chou-fleur, aubergine",
-      "fruits": "Mangue, banane, papaye",
+      "feculents": "Riz basmati, millet, chapati (blé complet), sattu, patate douce",
+      "proteines": "Poulet, poisson, œufs, lentilles, pois chiches, paneer, tofu",
+      "legumes": "Épinards, chou-fleur, carottes, courgettes, poivrons, aubergine, tomates, haricots verts",
+      "fruits": "Mangue, papaye, banane, goyave, citron, orange, pomme",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Idli + chutney","alt":"Smoothie bowl"},"dej":{"plat":"Poulet curry + riz","alt":"Poulet grillé + légumes"},"collation":{"plat":"Samosa","alt":"Houmous + bâtonnets"},"diner":{"plat":"Dal + riz","alt":"Dal + quinoa"}},
-        {"jour":"Mardi","petitdej":{"plat":"Paratha","alt":"Porridge"},"dej":{"plat":"Chana masala","alt":"Pois chiches + quinoa"},"collation":{"plat":"Ladoo","alt":"Fruits frais"},"diner":{"plat":"Biryani","alt":"Biryani légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Dosa","alt":"Pancakes avoine"},"dej":{"plat":"Paneer curry","alt":"Tofu + légumes"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Tandoori","alt":"Tandoori légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Poha","alt":"Smoothie bowl"},"dej":{"plat":"Rajma","alt":"Rajma + quinoa"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Saag","alt":"Épinards + tofu"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Upma","alt":"Porridge"},"dej":{"plat":"Fish curry","alt":"Poisson vapeur + légumes"},"collation":{"plat":"Fruits tropicaux","alt":"Noix"},"diner":{"plat":"Chapati + vegetables","alt":"Chapati complet"}},
-        {"jour":"Samedi","petitdej":{"plat":"Paratha","alt":"Smoothie bowl"},"dej":{"plat":"Butter chicken","alt":"Poulet léger + riz complet"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Vegetable biryani","alt":"Quinoa + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Dhokla","alt":"Porridge"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Sweets","alt":"Fruits"},"diner":{"plat":"Soup","alt":"Soup + proteins"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Upma (semoule + légumes)","alt":"Upma + oeufs"},"dej":{"plat":"Poulet tikka + riz basmati","alt":"Poulet tikka + riz basmati complet + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Yaourt nature + mangue + whey"},"diner":{"plat":"Dahl (lentilles) + chapati","alt":"Dahl + riz + salade d’épinards + poulet"}},
+        {"jour":"Mardi","petitdej":{"plat":"Paratha au fromage + thé","alt":"Paratha complet + miel + oeufs"},"dej":{"plat":"Poisson au curry + riz","alt":"Poisson curry + riz basmati + légumes rôtis"},"collation":{"plat":"Fruits secs","alt":"Noix + fruits"},"diner":{"plat":"Chana masala + riz","alt":"Chana masala+ riz + légumes vapeur + poulet"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Idli + chutney coco","alt":"Idli + chutney de yaourt + oeufs"},"dej":{"plat":"Poulet korma + chapati","alt":"Poulet korma + chapati complet + légumes sautés"},"collation":{"plat":"Banane","alt":"Smoothie banane + lait végétal"},"diner":{"plat":"Baingan bharta (aubergine) + riz","alt":"Baingan bharta + riz basmati + salade de légumes + poulet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Poha (riz aplati)","alt":"Poha + oeuf"},"dej":{"plat":"Saag paneer + chapati","alt":"Épinards + paneer léger + riz + poisson"},"collation":{"plat":"Mangue","alt":"Yaourt grec + mangue"},"diner":{"plat":"Poulet curry + riz basmati","alt":"Poulet curry + riz basmati + légumes vapeur"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Dhokla (gâteau de pois chiches)","alt":"Dhokla + boisson chaude + oeuf"},"dej":{"plat":"Poisson tandoori + riz","alt":"Poisson tandoori + riz basmati + légumes rôtis"},"collation":{"plat":"Fruits frais","alt":"Noix + pomme"},"diner":{"plat":"Dal makhani + chapati","alt":"Dal makhani léger + chapati complet + salade de légumes + poulet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Chapati + œufs brouillés","alt":"Chapati + œufs + tomate"},"dej":{"plat":"Poulet biryani","alt":"Biryani léger (riz basmati + poulet + légumes)"},"collation":{"plat":"Fruits secs","alt":"Yaourt nature + noix"},"diner":{"plat":"Baingan bharta + chapati","alt":"Baingan bharta + milet + salade de légumes"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Idli + sambar","alt":"Idli + sambar + oeufs"},"dej":{"plat":"Poisson curry + riz","alt":"Poisson curry + riz basmati complet + légumes vapeur"},"collation":{"plat":"Mangue ou papaye","alt":"Smoothie mangue + lait végétal"},"diner":{"plat":"Chana masala + chapati","alt":"Pois chiches épicés + riz + salade de légumes + poulet"}}
       ]
     },
     "Corée du Sud": {
