@@ -664,18 +664,18 @@
     },
     "Japon": {
     "coords": [36.2048, 138.2529],
-    "feculents": "Riz, udon, soba",
-    "proteines": "Poisson, tofu, poulet",
-    "legumes": "Épinards, champignons, daikon",
-    "fruits": "Pomme, yuzu, kaki",
+    "feculents": "Riz japonais, soba, udon, ramen, mochigome (riz gluant), patate douce",
+    "proteines": "Poisson (saumon, thon, maquereau), tofu, poulet, œufs, crevettes, bœuf maigre",
+    "legumes": "Chou chinois, épinard, concombre, carotte, champignons shiitake, daikon, edamame, algues",
+    "fruits": "Yuzu, pomme japonaise, poire asiatique, fraise, kaki, mandarine, melon, cerise",
     "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Onigiri","alt":"Toast complet + avocat"},"dej":{"plat":"Sushi","alt":"Sushi végétarien"},"collation":{"plat":"Mochi","alt":"Fruits frais"},"diner":{"plat":"Tempura de crevettes","alt":"Tempura légumes + tofu"}},
-        {"jour":"Mardi","petitdej":{"plat":"Miso soup + riz","alt":"Porridge avoine"},"dej":{"plat":"Bento poulet teriyaki","alt":"Bento tofu teriyaki"},"collation":{"plat":"Edamame","alt":"Noix"},"diner":{"plat":"Ramen au poulet","alt":"Ramen aux légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Tamago kake gohan","alt":"Omelette + pain complet"},"dej":{"plat":"Sashimi","alt":"Sashimi + riz complet"},"collation":{"plat":"Fruits frais","alt":"Yaourt"},"diner":{"plat":"Okonomiyaki","alt":"Okonomiyaki légumes"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pain japonais brioché","alt":"Pancakes avoine"},"dej":{"plat":"Donburi de poulet","alt":"Donburi tofu"},"collation":{"plat":"Senbei","alt":"Fruits secs"},"diner":{"plat":"Sukiyaki","alt":"Sukiyaki légumes"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Onigiri","alt":"Smoothie bowl"},"dej":{"plat":"Tempura","alt":"Tempura légumes + riz"},"collation":{"plat":"Mochi","alt":"Fruits frais"},"diner":{"plat":"Poisson grillé","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Samedi","petitdej":{"plat":"Miso soup + riz","alt":"Porridge"},"dej":{"plat":"Bento varié","alt":"Bento végétarien"},"collation":{"plat":"Edamame","alt":"Noix"},"diner":{"plat":"Ramen","alt":"Ramen légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Tamago sando","alt":"Toast complet + avocat"},"dej":{"plat":"Sushi","alt":"Sushi végétarien"},"collation":{"plat":"Fruits frais","alt":"Noix"},"diner":{"plat":"Okonomiyaki","alt":"Okonomiyaki légumes"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Onigiri (boulettes de riz) + soupe miso + légumes marinés","alt":"Onigiri complet au riz brun + soupe miso light + légumes vapeur"},"dej":{"plat":"Sushi varié + salade d’algues","alt":"Sushi au riz complet + poisson grillé + salade d’algues"},"collation":{"plat":"Fruits frais","alt":"Fruits + fromage blanc"},"diner":{"plat":"Tempura de légumes + riz","alt":"Tempura de légumes + riz complet + poulet"}},
+        {"jour":"Mardi","petitdej":{"plat":"Tamagoyaki (omelette japonaise) + riz + thé vert","alt":"Tamagoyaki + riz complet + légumes vapeur + boisson chaude"},"dej":{"plat":"Ramen au poulet + légumes","alt":"Ramen au poulet au bouillon miso + nouilles soba complètes + légumes"},"collation":{"plat":"Fruits frais","alt":"Yaourt nature + fraises"},"diner":{"plat":"Yakitori (brochettes de poulet) + riz","alt":"Yakitori + riz complet + salade de chou"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Mochi + thé vert","alt":"Mochi complet aux haricots rouges + thé vert"},"dej":{"plat":"Donburi (bol de riz) au bœuf et légumes","alt":"Donburi au bœuf maigre + légumes"},"collation":{"plat":"Fruits de saison","alt":"yaourt + pomme"},"diner":{"plat":"Sashimi + riz + légumes","alt":"Sashimi + riz + légumes vapeur"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Riz + nori + œuf dur","alt":"Riz + nori + œuf poché"},"dej":{"plat":"Udon au bouillon + légumes","alt":"Udon de blé complet + légumes vapeur + poulet"},"collation":{"plat":"Fruits frais","alt":"Noix de cajou + kaki"},"diner":{"plat":"Karaage (poulet frit) + riz","alt":"Karaage + riz + salade de concombre"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Congee (riz bouilli) + pickles","alt":"Congee + légumes vapeur"},"dej":{"plat":"Sushi rolls + salade","alt":"Sushi rolls + salade croquante"},"collation":{"plat":"Fruits frais","alt":"Mandarine + yaourt"},"diner":{"plat":"Grillades de poisson + riz + légumes","alt":"Poisson grillé au four + riz complet + légumes vapeur"}},
+        {"jour":"Samedi","petitdej":{"plat":"Pain japonais (shokupan) + thé vert","alt":"Pain complet japonais + œuf + fruits"},"dej":{"plat":"Okonomiyaki (crêpe salée)","alt":"Okonomiyaki aux légumes + tofu"},"collation":{"plat":"Fruits frais","alt":"wagashis + pomme"},"diner":{"plat":"Soba froides + légumes","alt":"Soba complètes + légumes frais + tofu"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Riz + saumon grillé + miso","alt":"Riz + saumon grillé + légumes vapeur"},"dej":{"plat":"Bento traditionnel (riz, poisson, légumes)","alt":"Bento healthy au riz complet + tofu + légumes +"},"collation":{"plat":"Fruits frais","alt":"Fruits de saison + noix"},"diner":{"plat":"Tempura de crevettes + riz","alt":"Tempura + riz + salade de légumes"}}
     ]
   },
     "Bali": {
