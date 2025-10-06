@@ -698,34 +698,34 @@
   "Océanie": {
     "Australie": {
       "coords": [-25.2744, 133.7751],
-      "feculents": "Pain, riz, pommes de terre",
-      "proteines": "Poulet, poisson, agneau",
-      "legumes": "Brocoli, carottes, salade",
-      "fruits": "Baies, pomme, banane",
+      "feculents": "Pain complet, avoine, riz, pâtes complètes, patate douce, quinoa",
+      "proteines": "Poulet, poisson, bœuf maigre, œufs, crevettes, tofu",
+      "legumes": "Épinards, brocoli, carottes, courgettes, poivrons, champignons, tomates, salade",
+      "fruits": "Banane, pomme, myrtille, fraise, mangue, orange, kiwi, raisin",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Vegemite toast","alt":"Avocado toast"},"dej":{"plat":"Meat pie","alt":"Pie végétarien"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Fish and chips","alt":"Poisson vapeur + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Porridge","alt":"Smoothie bowl"},"dej":{"plat":"Grill burger","alt":"Burger maison + salade"},"collation":{"plat":"Barre granola","alt":"Fruits"},"diner":{"plat":"Barbecue","alt":"Barbecue + légumes"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Seafood platter","alt":"Seafood vapeur"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Roast","alt":"Roast léger"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Salad bowl","alt":"Salad complete"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Grill fish","alt":"Poisson vapeur"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Muesli","alt":"Porridge"},"dej":{"plat":"Sushi option","alt":"Sushi légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Steak","alt":"Steak + légumes vapeur"}},
-        {"jour":"Samedi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Burger","alt":"Burger léger"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Bacon + eggs","alt":"Omelette"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Toast complet + avocat + œuf poché","alt":"Smoothie bowl aux fruits rouges + granola"},"dej":{"plat":"Poisson grillé + patate douce + légumes vapeur","alt":"Filet de poisson + patate douce + légumes rôtis"},"collation":{"plat":"Fruits frais","alt":"Amandes + pomme + fromage blanc"},"diner":{"plat":"Poulet rôti + légumes verts + riz","alt":"Poulet grillé + riz + salade croquante"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge d’avoine + banane + miel","alt":"Yaourt grec + fruits frais + graines + oeufs"},"dej":{"plat":"Salade composée (poulet, légumes, avocat)","alt":"Salade de quinoa + légumes + poulet grillé"},"collation":{"plat":"Fruit de saison","alt":"Noix + yaourt nature"},"diner":{"plat":"Saumon au four + légumes vapeur + riz","alt":"Saumon grillé + patate douce + salade"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast complet + beurre de cacahuète + fraises","alt":"Smoothie vert (épinard, banane, lait végétal)"},"dej":{"plat":"Bœuf maigre grillé + légumes + pommes de terre","alt":"Bœuf maigre + patate douce + légumes rôtis"},"collation":{"plat":"Fruits secs","alt":"Yaourt nature + graines"},"diner":{"plat":"Poisson blanc + quinoa + légumes","alt":"Poisson vapeur + quinoa + salade"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Omelette aux légumes + toast complet","alt":"Porridge aux fruits rouges + oeufs"},"dej":{"plat":"Poulet grillé + riz + légumes sautés","alt":"Poulet vapeur + quinoa + légumes vapeur"},"collation":{"plat":"Fruit frais","alt":"Amandes + pomme"},"diner":{"plat":"Saumon + patate douce + brocoli","alt":"Saumon grillé + légumes rôtis + riz"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Smoothie bowl + granola + kiwi","alt":"Yaourt grec + flocons d’avoine + banane"},"dej":{"plat":"Salade de crevettes + légumes + quinoa","alt":"Salade de crevettes + riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix + smoothie"},"diner":{"plat":"Poulet rôti + légumes + riz","alt":"Poulet grillé + légumes vapeur + patate douce"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toast complet + avocat + œuf brouillé","alt":"Smoothie vert + fruits + oeufs"},"dej":{"plat":"Bœuf grillé + légumes + riz","alt":"Bœuf maigre + quinoa + légumes rôtis"},"collation":{"plat":"Fruits de saison","alt":"Yaourt + graines"},"diner":{"plat":"Poisson blanc + légumes + patate douce","alt":"Poisson vapeur + légumes vapeur + riz complet"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pancakes à la farine complète + fruits rouges","alt":"Smoothie bowl + flocons d’avoine + oeufs"},"dej":{"plat":"Poulet rôti + légumes + riz","alt":"Poulet grillé + quinoa + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix + pomme"},"diner":{"plat":"Saumon + légumes + pommes de terre","alt":"Saumon grillé + riz complet + salade"}}
       ]
     },
     "Nouvelle-Zélande": {
       "coords": [-40.9006, 174.8860],
-      "feculents": "Pain, pommes de terre, riz",
-      "proteines": "Agneau, poisson, poulet",
-      "legumes": "Brocoli, carottes, kumara (patate douce)",
-      "fruits": "Kiwi, pomme, baie",
+      "feculents": "Pain complet, avoine, riz, pâtes complètes, patate douce, quinoa",
+      "proteines": "Poulet, poisson, agneau, bœuf maigre, œufs, tofu",
+      "legumes": "Brocoli, carottes, courgettes, épinards, poivrons, champignons, salade, tomates",
+      "fruits": "Banane, pomme, kiwi, fraise, myrtille, orange, mangue, raisin",
       "plats": [
-        {"jour":"Lundi","petitdej":{"plat":"Toast + marmite","alt":"Porridge"},"dej":{"plat":"Fish and chips","alt":"Poisson vapeur"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Roast lamb","alt":"Agneau maigre + légumes"}},
-        {"jour":"Mardi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Meat pie","alt":"Pie végétarien"},"collation":{"plat":"Fruits secs","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + salade"}},
-        {"jour":"Mercredi","petitdej":{"plat":"Cereal","alt":"Porridge"},"dej":{"plat":"Salad bowl","alt":"Salad complete"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Seafood","alt":"Poisson vapeur"}},
-        {"jour":"Jeudi","petitdej":{"plat":"Toast","alt":"Smoothie bowl"},"dej":{"plat":"Sushi","alt":"Sushi légumes"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Stew","alt":"Stew léger"}},
-        {"jour":"Vendredi","petitdej":{"plat":"Toast avocat","alt":"Porridge"},"dej":{"plat":"Burger","alt":"Burger maison + salade"},"collation":{"plat":"Fruit","alt":"Yaourt"},"diner":{"plat":"Fish","alt":"Poisson vapeur"}},
-        {"jour":"Samedi","petitdej":{"plat":"Pancakes","alt":"Smoothie bowl"},"dej":{"plat":"Feast familial","alt":"Version légère"},"collation":{"plat":"Fruit","alt":"Noix"},"diner":{"plat":"Grillade","alt":"Grillade + légumes"}},
-        {"jour":"Dimanche","petitdej":{"plat":"Toast","alt":"Porridge"},"dej":{"plat":"Rôti familial","alt":"Version légère"},"collation":{"plat":"Fruits","alt":"Yaourt"},"diner":{"plat":"Soup","alt":"Soup + salad"}} 
+        {"jour":"Lundi","petitdej":{"plat":"Toast complet + avocat + œuf poché","alt":"Smoothie bowl aux fruits rouges + granola"},"dej":{"plat":"Saumon grillé + riz + légumes vapeur","alt":"Saumon vapeur + quinoa + légumes rôtis"},"collation":{"plat":"Fruits frais","alt":"Amandes + kiwi"},"diner":{"plat":"Poulet rôti + légumes + patate douce","alt":"Poulet grillé + légumes vapeur + riz complet"}},
+        {"jour":"Mardi","petitdej":{"plat":"Porridge d’avoine + banane + miel","alt":"Yaourt grec + fruits frais + graines"},"dej":{"plat":"Salade composée (poulet, légumes, avocat)","alt":"Salade de quinoa + légumes + poulet grillé"},"collation":{"plat":"Fruit de saison","alt":"Noix + yaourt nature"},"diner":{"plat":"Bœuf grillé + légumes + riz","alt":"Bœuf maigre + patate douce + légumes rôtis"}},
+        {"jour":"Mercredi","petitdej":{"plat":"Toast complet + beurre de cacahuète + fraises","alt":"Smoothie vert + banane"},"dej":{"plat":"Poisson blanc + légumes + riz","alt":"Poisson vapeur + quinoa + légumes rôtis"},"collation":{"plat":"Fruits secs","alt":"Yaourt nature + graines"},"diner":{"plat":"Poulet grillé + légumes + patate douce","alt":"Poulet vapeur + légumes vapeur + riz complet"}},
+        {"jour":"Jeudi","petitdej":{"plat":"Omelette aux légumes + toast complet","alt":"Porridge aux fruits rouges"},"dej":{"plat":"Poulet rôti + légumes + riz","alt":"Poulet grillé + quinoa + légumes vapeur"},"collation":{"plat":"Fruit frais","alt":"Amandes + kiwi"},"diner":{"plat":"Saumon + légumes + patate douce","alt":"Saumon grillé + légumes rôtis + riz complet"}},
+        {"jour":"Vendredi","petitdej":{"plat":"Smoothie bowl + granola + kiwi","alt":"Yaourt grec + flocons d’avoine + banane"},"dej":{"plat":"Salade de crevettes + légumes + quinoa","alt":"Salade de crevettes + riz complet + légumes"},"collation":{"plat":"Fruits frais","alt":"Noix + smoothie"},"diner":{"plat":"Poulet grillé + légumes + patate douce","alt":"Poulet vapeur + légumes vapeur + riz complet"}},
+        {"jour":"Samedi","petitdej":{"plat":"Toast complet + avocat + œuf brouillé","alt":"Smoothie vert + fruits"},"dej":{"plat":"Bœuf grillé + légumes + riz","alt":"Bœuf maigre + quinoa + légumes rôtis"},"collation":{"plat":"Fruits de saison","alt":"Yaourt + graines"},"diner":{"plat":"Poisson blanc + légumes + patate douce","alt":"Poisson vapeur + légumes vapeur + riz complet"}},
+        {"jour":"Dimanche","petitdej":{"plat":"Pancakes à la farine complète + fruits rouges","alt":"Smoothie bowl + flocons d’avoine"},"dej":{"plat":"Poulet rôti + légumes + riz","alt":"Poulet grillé + quinoa + légumes vapeur"},"collation":{"plat":"Fruits frais","alt":"Noix + pomme"},"diner":{"plat":"Saumon + légumes + patate douce","alt":"Saumon grillé + riz complet + salade"}}
       ]
     }
   }
