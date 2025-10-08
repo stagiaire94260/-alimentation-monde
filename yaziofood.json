@@ -1,428 +1,3082 @@
 [
-{"name":"Banane","type":"unit","cal":105,"carbs":27,"protein":1.3,"fat":0.3},
-{"name":"Fromage pâte dure","type":"g","cal":380,"carbs":1,"protein":27,"fat":30},
-{"name":"Pizza classique","type":"g","cal":266,"carbs":33,"protein":11,"fat":10},
-{"name":"Thieb poulet","type":"g","cal":180,"carbs":20,"protein":12,"fat":6},
-{"name":"Sirop d'agave","type":"g","cal":310,"carbs":76,"protein":0,"fat":0},
-{"name":"Miel","type":"g","cal":304,"carbs":82,"protein":0.3,"fat":0},
-{"name":"Haut de cuisse de poulet","type":"g","cal":209,"carbs":0,"protein":26,"fat":11},
-{"name":"Déguê","type":"g","cal":150,"carbs":25,"protein":4,"fat":3},
-{"name":"Fonio (cuit)","type":"g","cal":130,"carbs":27,"protein":3,"fat":0.5},
-{"name":"Haricot vert","type":"g","cal":31,"carbs":7,"protein":1.8,"fat":0.2},
-{"name":"Biscotte","type":"unit","cal":35,"carbs":7,"protein":0.8,"fat":0.35},
-{"name":"Pancakes","type":"unit","cal":90,"carbs":11,"protein":2,"fat":4},
-{"name":"Petit pois","type":"g","cal":81,"carbs":14,"protein":5,"fat":0.4},
-{"name":"Capuccino","type":"unit","cal":80,"carbs":12,"protein":4,"fat":2},
-{"name":"Céréales","type":"g","cal":380,"carbs":80,"protein":8,"fat":4},
-{"name":"Pain au lait","type":"unit","cal":135,"carbs":22,"protein":4,"fat":3.5},
-{"name":"Placali","type":"g","cal":190,"carbs":45,"protein":1,"fat":0.5},
-{"name":"Tapioca","type":"g","cal":358,"carbs":88,"protein":0.2,"fat":0.1},
-{"name":"Bouillie de mil","type":"g","cal":112,"carbs":24,"protein":3,"fat":1},
-{"name":"Kéfir","type":"g","cal":41,"carbs":4.5,"protein":3.5,"fat":1},
-{"name":"Philadelphia","type":"g","cal":250,"carbs":4,"protein":5,"fat":24},
-{"name":"Citron","type":"unit","cal":20,"carbs":6,"protein":0.5,"fat":0.2},
-{"name":"Figue","type":"unit","cal":30,"carbs":8,"protein":0.3,"fat":0.1},
-{"name":"Pain complet","type":"g","cal":250,"carbs":45,"protein":9,"fat":4},
-{"name":"Nouilles de blé","type":"g","cal":138,"carbs":25,"protein":4.5,"fat":2},
-{"name":"Brocolis","type":"g","cal":34,"carbs":7,"protein":2.8,"fat":0.4},
-{"name":"Poivrons","type":"g","cal":31,"carbs":6,"protein":1,"fat":0.3},
-{"name":"Compote","type":"g","cal":68,"carbs":17,"protein":0.2,"fat":0.1},
-{"name":"Myrtilles","type":"g","cal":57,"carbs":14,"protein":0.7,"fat":0.3},
-{"name":"Framboises","type":"g","cal":52,"carbs":12,"protein":1.2,"fat":0.6},
-{"name":"Wrap","type":"unit","cal":140,"carbs":24,"protein":4,"fat":3},
-{"name":"Concombre","type":"g","cal":16,"carbs":3.6,"protein":0.7,"fat":0.1},
-{"name":"Carotte","type":"g","cal":41,"carbs":10,"protein":0.9,"fat":0.2},
-{"name":"Beurre de cacahuète","type":"g","cal":588,"carbs":20,"protein":25,"fat":50},
-{"name":"Flocons d'avoine","type":"g","cal":367,"carbs":60,"protein":13,"fat":7},
-{"name":"Pâtes cuites","type":"g","cal":157,"carbs":30,"protein":5.5,"fat":1},
-{"name":"Lasagnes","type":"g","cal":135,"carbs":15,"protein":8,"fat":6},
-{"name":"Steak haché 15%","type":"g","cal":250,"carbs":0,"protein":26,"fat":20},
-{"name":"Poisson pané","type":"g","cal":230,"carbs":18,"protein":12,"fat":12},
-{"name":"Fromage frais","type":"g","cal":120,"carbs":3,"protein":8,"fat":8},
-{"name":"Raisin","type":"g","cal":69,"carbs":18,"protein":0.7,"fat":0.2},
-{"name":"Pomme","type":"unit","cal":80,"carbs":21,"protein":0.3,"fat":0.2},
-{"name":"Fruit du dragon","type":"g","cal":50,"carbs":11,"protein":1,"fat":0.1},
-{"name":"Mangue","type":"g","cal":60,"carbs":15,"protein":0.8,"fat":0.4},
-{"name":"Clémentine","type":"unit","cal":35,"carbs":9,"protein":0.6,"fat":0.1},
-{"name":"Orange","type":"unit","cal":62,"carbs":15,"protein":1.2,"fat":0.2},
-{"name":"Fraises","type":"g","cal":32,"carbs":8,"protein":0.6,"fat":0.3},
-{"name":"Avocat","type":"unit","cal":160,"carbs":9,"protein":2,"fat":15},
-{"name":"Biscotte","type":"unit","cal":35,"carbs":7,"protein":0.8,"fat":0.35},
-{"name":"Pain blanc","type":"unit","cal":80,"carbs":15,"protein":3,"fat":1},
-{"name":"Croissant","type":"unit","cal":230,"carbs":25,"protein":4.5,"fat":11},
-{"name":"Confiture","type":"g","cal":250,"carbs":65,"protein":0.4,"fat":0.1},
-{"name":"Lait entier","type":"g","cal":61,"carbs":4.8,"protein":3.2,"fat":3.3},
-{"name":"Fromage blanc 0%","type":"g","cal":55,"carbs":3.8,"protein":5,"fat":0.1},
-{"name":"Yaourt nature","type":"g","cal":61,"carbs":4.7,"protein":3.5,"fat":3.3},
-{"name":"Oeuf","type":"unit","cal":70,"carbs":0.6,"protein":6,"fat":5},
-{"name":"Whey protéine","type":"g","cal":400,"carbs":10,"protein":80,"fat":5},
-{"name":"Poulet","type":"g","cal":165,"carbs":0,"protein":31,"fat":4},
-{"name":"Dinde","type":"g","cal":135,"carbs":0,"protein":31,"fat":3},
-{"name":"Saumon","type":"g","cal":208,"carbs":0,"protein":20,"fat":13},
-{"name":"Steak","type":"g","cal":250,"carbs":0,"protein":26,"fat":20},
-{"name":"Crevettes","type":"g","cal":100,"carbs":0,"protein":24,"fat":0.3},
-{"name":"Épinards","type":"g","cal":23,"carbs":3.6,"protein":2.9,"fat":0.4},
-{"name":"Courgettes","type":"g","cal":17,"carbs":3,"protein":1,"fat":0.3},
-{"name":"Lentilles","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Haricot rouge","type":"g","cal":127,"carbs":22.8,"protein":8.7,"fat":0.5},
-{"name":"Pois chiches","type":"g","cal":164,"carbs":27.4,"protein":8.9,"fat":2.6},
-{"name":"Edamame","type":"g","cal":121,"carbs":9.9,"protein":11.9,"fat":5},
-{"name":"Riz blanc","type":"g","cal":130,"carbs":28,"protein":2.7,"fat":0.3},
-{"name":"Quinoa","type":"g","cal":120,"carbs":21.3,"protein":4.1,"fat":1.9},
-{"name":"Gnocchis","type":"g","cal":150,"carbs":30,"protein":4,"fat":0.5},
-{"name":"Pâtes carbonara","type":"g","cal":200,"carbs":25,"protein":8,"fat":8},
-{"name":"Pommes de terre","type":"g","cal":77,"carbs":17,"protein":2,"fat":0.1},
-{"name":"Patate douce","type":"g","cal":86,"carbs":20.1,"protein":1.6,"fat":0.1},
-{"name":"Huile d'olive","type":"g","cal":880,"carbs":0,"protein":0,"fat":100},
-{"name":"Beurre","type":"g","cal":720,"carbs":0,"protein":1,"fat":81},
-{"name":"Amandes","type":"g","cal":576,"carbs":22,"protein":21,"fat":49},
-{"name":"Matcha","type":"g","cal":3,"carbs":0.1,"protein":0.3,"fat":0.1},
-{"name":"Redbull","type":"unit","cal":110,"carbs":27,"protein":0,"fat":0},
-{"name":"Chocolat 70%","type":"g","cal":546,"carbs":46,"protein":7.8,"fat":31},
-{"name":"Wasa","type":"unit","cal":35,"carbs":7,"protein":1,"fat":0.2},
-{"name":"St Moret","type":"g","cal":300,"carbs":2,"protein":7,"fat":30},
-{"name":"Attiéké","type":"g","cal":152,"carbs":38,"protein":2,"fat":0.5},
-{"name":"Poulet boucané","type":"g","cal":200,"carbs":0,"protein":27,"fat":10},
-{"name":"Feta","type":"g","cal":264,"carbs":4,"protein":14,"fat":21},
-{"name":"Polenta","type":"g","cal":70,"carbs":15,"protein":2,"fat":0.5},
-{"name":"Carottes râpées","type":"g","cal":41,"carbs":10,"protein":0.9,"fat":0.2},
-{"name":"Fajitas de blé","type":"unit","cal":150,"carbs":25,"protein":4,"fat":3},
-{"name":"Noix","type":"g","cal":655,"carbs":14,"protein":15,"fat":65},
-{"name":"Café","type":"unit","cal":2,"carbs":0,"protein":0,"fat":0},
-{"name":"Thé","type":"unit","cal":1,"carbs":0,"protein":0,"fat":0},
-{"name":"Eau","type":"unit","cal":0,"carbs":0,"protein":0,"fat":0},
-{"name":"Riz basmati","type":"g","cal":130,"carbs":28,"protein":2.7,"fat":0.3},
-{"name":"Poulet curry coco","type":"g","cal":180,"carbs":8,"protein":18,"fat":8},
-{"name":"Bœuf sauté gingembre","type":"g","cal":190,"carbs":6,"protein":21,"fat":9},
-{"name":"Tofu grillé","type":"g","cal":145,"carbs":3,"protein":15,"fat":8},
-{"name":"Poisson grillé","type":"g","cal":120,"carbs":0,"protein":24,"fat":3},
-{"name":"Ragoût de bœuf","type":"g","cal":150,"carbs":5,"protein":17,"fat":7},
-{"name":"Poulet yassa","type":"g","cal":165,"carbs":6,"protein":18,"fat":7},
-{"name":"Riz jollof","type":"g","cal":180,"carbs":30,"protein":5,"fat":4},
-{"name":"Fufu (manioc)","type":"g","cal":155,"carbs":35,"protein":1,"fat":0.4},
-{"name":"Sauce arachide","type":"g","cal":220,"carbs":5,"protein":8,"fat":20},
-{"name":"Banane plantain grillée","type":"g","cal":120,"carbs":31,"protein":1,"fat":0.3},
-{"name":"Tiep poisson","type":"g","cal":195,"carbs":23,"protein":15,"fat":6},
-{"name":"Accras de morue","type":"g","cal":220,"carbs":15,"protein":12,"fat":12},
-{"name":"Bokit poulet","type":"unit","cal":450,"carbs":35,"protein":20,"fat":25},
-{"name":"Colombo de poulet","type":"g","cal":170,"carbs":8,"protein":19,"fat":6},
-{"name":"Rougail saucisse","type":"g","cal":200,"carbs":6,"protein":17,"fat":12},
-{"name":"Nems au poulet","type":"unit","cal":90,"carbs":9,"protein":5,"fat":4},
-{"name":"Sushi saumon","type":"unit","cal":50,"carbs":7,"protein":3,"fat":1},
-{"name":"Ramen japonais","type":"g","cal":120,"carbs":20,"protein":5,"fat":3},
-{"name":"Tempura crevette","type":"unit","cal":80,"carbs":6,"protein":5,"fat":4},
-{"name":"Riz cantonais","type":"g","cal":160,"carbs":28,"protein":6,"fat":3},
-{"name":"Tacos au bœuf","type":"unit","cal":220,"carbs":22,"protein":10,"fat":10},
-{"name":"Guacamole","type":"g","cal":150,"carbs":9,"protein":2,"fat":13},
-{"name":"Houmous","type":"g","cal":166,"carbs":14,"protein":8,"fat":10},
-{"name":"Pain pita","type":"unit","cal":170,"carbs":33,"protein":6,"fat":1},
-{"name":"Falafel","type":"unit","cal":57,"carbs":5,"protein":2.5,"fat":3},
-{"name":"Tajine de poulet","type":"g","cal":140,"carbs":6,"protein":17,"fat":5},
-{"name":"Couscous royal","type":"g","cal":180,"carbs":25,"protein":10,"fat":5},
-{"name":"Taboulé","type":"g","cal":120,"carbs":20,"protein":3,"fat":3},
-{"name":"Soupe miso","type":"unit","cal":60,"carbs":4,"protein":4,"fat":2},
-{"name":"Salade de quinoa","type":"g","cal":145,"carbs":22,"protein":5,"fat":5},
-{"name":"Riz sauté légumes","type":"g","cal":135,"carbs":25,"protein":4,"fat":3},
-{"name":"Smoothie tropical","type":"unit","cal":180,"carbs":35,"protein":3,"fat":2},
-{"name":"Jus de bissap","type":"unit","cal":90,"carbs":23,"protein":0,"fat":0},
-{"name":"Thé glacé maison","type":"unit","cal":40,"carbs":10,"protein":0,"fat":0},
-{"name":"Crêpe nature","type":"unit","cal":110,"carbs":12,"protein":4,"fat":5},
-{"name":"Gaufre","type":"unit","cal":180,"carbs":25,"protein":5,"fat":7},
-{"name":"Pain perdu","type":"unit","cal":190,"carbs":28,"protein":6,"fat":6},
-{"name":"Omelette nature","type":"unit","cal":150,"carbs":1,"protein":10,"fat":12},
-{"name":"Tartine avocat œuf","type":"unit","cal":250,"carbs":20,"protein":9,"fat":14},
-{"name":"Salade César","type":"g","cal":130,"carbs":5,"protein":10,"fat":8},
-{"name":"Soupe de légumes","type":"g","cal":45,"carbs":8,"protein":2,"fat":1},
-{"name":"Bowl saumon avocat","type":"g","cal":180,"carbs":15,"protein":12,"fat":8},
-{"name":"Yassa poisson","type":"g","cal":150,"carbs":6,"protein":16,"fat":6},
-{"name":"Poulet braisé","type":"g","cal":210,"carbs":0,"protein":25,"fat":12},
-{"name":"Poisson frit","type":"g","cal":250,"carbs":5,"protein":22,"fat":15},
-{"name":"Boulette de viande","type":"unit","cal":70,"carbs":1,"protein":6,"fat":5},
-{"name":"Chili sin carne","type":"g","cal":130,"carbs":20,"protein":7,"fat":3},
-{"name":"Riz au lait","type":"g","cal":120,"carbs":20,"protein":4,"fat":3},
-{"name":"Sorbet mangue","type":"unit","cal":90,"carbs":22,"protein":0,"fat":0},
-{"name":"Gateau au chocolat","type":"g","cal":370,"carbs":45,"protein":5,"fat":18},
-{"name":"Muesli aux fruits","type":"g","cal":380,"carbs":65,"protein":10,"fat":7},
-{"name":"Granola maison","type":"g","cal":420,"carbs":60,"protein":8,"fat":15},
-{"name":"Yaourt grec","type":"g","cal":120,"carbs":4,"protein":10,"fat":7},
-{"name":"Fromage de chèvre","type":"g","cal":260,"carbs":0,"protein":18,"fat":21},
-{"name":"Ricotta","type":"g","cal":174,"carbs":3,"protein":11,"fat":13},
-{"name":"Mozzarella","type":"g","cal":280,"carbs":3,"protein":22,"fat":20},
-{"name":"Pomme de terre vapeur","type":"g","cal":77,"carbs":17,"protein":2,"fat":0.1},
-{"name":"Patate douce rôtie","type":"g","cal":86,"carbs":20,"protein":1.6,"fat":0.1},
-{"name":"Courge butternut","type":"g","cal":45,"carbs":10,"protein":1,"fat":0.1},
-{"name":"Champignons de Paris","type":"g","cal":22,"carbs":3.3,"protein":3,"fat":0.3},
-{"name":"Tomates cerises","type":"g","cal":18,"carbs":3.9,"protein":0.9,"fat":0.2},
-{"name":"Betterave cuite","type":"g","cal":43,"carbs":10,"protein":1.6,"fat":0.2},
-{"name":"Poire","type":"unit","cal":80,"carbs":21,"protein":0.4,"fat":0.2},
-{"name":"Kiwi","type":"unit","cal":42,"carbs":10,"protein":0.8,"fat":0.4},
-{"name":"Ananas","type":"g","cal":50,"carbs":13,"protein":0.5,"fat":0.1},
-{"name":"Papaye","type":"g","cal":43,"carbs":11,"protein":0.5,"fat":0.1},
-{"name":"Mangue séchée","type":"g","cal":300,"carbs":75,"protein":2,"fat":0.5},
-{"name":"Noix de cajou","type":"g","cal":553,"carbs":30,"protein":18,"fat":44},
-{"name":"Pistaches","type":"g","cal":560,"carbs":28,"protein":20,"fat":45},
-{"name":"Noix de pécan","type":"g","cal":690,"carbs":14,"protein":9,"fat":72},
-{"name":"Noisettes","type":"g","cal":628,"carbs":17,"protein":15,"fat":61},
-{"name":"Châtaigne cuite","type":"g","cal":131,"carbs":28,"protein":2,"fat":1.5},
-{"name":"Pois mange-tout","type":"g","cal":42,"carbs":7,"protein":2.8,"fat":0.2},
-{"name":"Chou-fleur","type":"g","cal":25,"carbs":5,"protein":2,"fat":0.3},
-{"name":"Brocoli vapeur","type":"g","cal":34,"carbs":7,"protein":2.8,"fat":0.4},
-{"name":"Épinards frais","type":"g","cal":23,"carbs":3.6,"protein":2.9,"fat":0.4},
-{"name":"Salade verte","type":"g","cal":15,"carbs":2.9,"protein":1.4,"fat":0.2},
-{"name":"Céleri branche","type":"g","cal":16,"carbs":3,"protein":0.7,"fat":0.2},
-{"name":"Radis","type":"g","cal":16,"carbs":3.4,"protein":0.7,"fat":0.1},
-{"name":"Oignon","type":"g","cal":40,"carbs":9,"protein":1.1,"fat":0.1},
-{"name":"Ail","type":"g","cal":149,"carbs":33,"protein":6.4,"fat":0.5},
-{"name":"Gingembre frais","type":"g","cal":80,"carbs":18,"protein":1.8,"fat":0.8},
-{"name":"Curcuma frais","type":"g","cal":312,"carbs":67,"protein":9.7,"fat":3.3},
-{"name":"Paprika","type":"g","cal":282,"carbs":54,"protein":14,"fat":13},
-{"name":"Piment rouge","type":"g","cal":40,"carbs":9,"protein":2,"fat":0.4},
-{"name":"Poivre noir","type":"g","cal":255,"carbs":64,"protein":10,"fat":3.3},
-{"name":"Coriandre fraîche","type":"g","cal":23,"carbs":3.7,"protein":2.1,"fat":0.5},
-{"name":"Basilic frais","type":"g","cal":22,"carbs":2.7,"protein":3.2,"fat":0.6},
-{"name":"Menthe fraîche","type":"g","cal":44,"carbs":8,"protein":3.8,"fat":0.7},
-{"name":"Thym frais","type":"g","cal":101,"carbs":24,"protein":5.6,"fat":1.7},
-{"name":"Romarin frais","type":"g","cal":131,"carbs":21,"protein":3.3,"fat":5.9},
-{"name":"Sauce soja","type":"g","cal":53,"carbs":4.9,"protein":8.1,"fat":0.1},
-{"name":"Vinaigre balsamique","type":"g","cal":88,"carbs":17,"protein":0.5,"fat":0},
-{"name":"Huile de sésame","type":"g","cal":884,"carbs":0,"protein":0,"fat":100},
-{"name":"Huile de coco","type":"g","cal":892,"carbs":0,"protein":0,"fat":100},
-{"name":"Lait de coco","type":"g","cal":230,"carbs":6,"protein":2,"fat":24},
-{"name":"Tofu soyeux","type":"g","cal":55,"carbs":2,"protein":5,"fat":3},
-{"name":"Tempeh","type":"g","cal":193,"carbs":9,"protein":20,"fat":11},
-{"name":"Edamame","type":"g","cal":121,"carbs":9.9,"protein":11.9,"fat":5},
-{"name":"Natto","type":"g","cal":212,"carbs":14,"protein":18,"fat":11},
-{"name":"Algues nori","type":"g","cal":35,"carbs":5,"protein":5,"fat":0.3},
-{"name":"Kombu","type":"g","cal":43,"carbs":9,"protein":1.7,"fat":0.5},
-{"name":"Wakame","type":"g","cal":45,"carbs":9,"protein":3,"fat":0.6},
-{"name":"Chou chinois","type":"g","cal":16,"carbs":3,"protein":1,"fat":0.2},
-{"name":"Thon en conserve","type":"g","cal":132,"carbs":0,"protein":28,"fat":1},
-{"name":"Maquereau grillé","type":"g","cal":205,"carbs":0,"protein":20,"fat":13},
-{"name":"Tilapia","type":"g","cal":128,"carbs":0,"protein":26,"fat":3},
-{"name":"Crevettes sautées","type":"g","cal":100,"carbs":0,"protein":24,"fat":0.3},
-{"name":"Calamar","type":"g","cal":92,"carbs":3,"protein":16,"fat":1.4},
-{"name":"Crabe","type":"g","cal":97,"carbs":0,"protein":20,"fat":1.5},
-{"name":"Lambi (conque)","type":"g","cal":90,"carbs":0,"protein":18,"fat":1},
-{"name":"Accras de poulet","type":"g","cal":230,"carbs":15,"protein":12,"fat":13},
-{"name":"Colombo de poisson","type":"g","cal":160,"carbs":7,"protein":20,"fat":6},
-{"name":"Blaff de poisson","type":"g","cal":120,"carbs":0,"protein":22,"fat":5},
-{"name":"Poulet rôti antillais","type":"g","cal":210,"carbs":0,"protein":28,"fat":12},
-{"name":"Ragoût d’igname","type":"g","cal":150,"carbs":32,"protein":3,"fat":1},
-{"name":"Ignames bouillies","type":"g","cal":118,"carbs":28,"protein":1,"fat":0.2},
-{"name":"Patate douce antillaise","type":"g","cal":86,"carbs":20,"protein":1.6,"fat":0.1},
-{"name":"Christophine","type":"g","cal":24,"carbs":6,"protein":1,"fat":0.1},
-{"name":"Banane plantain bouillie","type":"g","cal":122,"carbs":31,"protein":1.3,"fat":0.2},
-{"name":"Cassave cuite","type":"g","cal":160,"carbs":38,"protein":1.4,"fat":0.5},
-{"name":"Foutou banane","type":"g","cal":140,"carbs":33,"protein":1,"fat":0.3},
-{"name":"Poi hawaïen","type":"g","cal":112,"carbs":26,"protein":1,"fat":0.2},
-{"name":"Riz gluant thaï","type":"g","cal":130,"carbs":28,"protein":2.5,"fat":0.3},
-{"name":"Pad thaï poulet","type":"g","cal":192,"carbs":28,"protein":10,"fat":6},
-{"name":"Sushi thon","type":"unit","cal":50,"carbs":7,"protein":3,"fat":1},
-{"name":"Gyoza poulet","type":"unit","cal":55,"carbs":7,"protein":3,"fat":2},
-{"name":"Miso soupe","type":"unit","cal":60,"carbs":4,"protein":4,"fat":2},
-{"name":"Tempura légumes","type":"unit","cal":80,"carbs":8,"protein":2,"fat":4},
-{"name":"Curry de légumes","type":"g","cal":130,"carbs":15,"protein":4,"fat":7},
-{"name":"Curry de poulet","type":"g","cal":180,"carbs":8,"protein":18,"fat":9},
-{"name":"Nasi goreng","type":"g","cal":210,"carbs":32,"protein":9,"fat":7},
-{"name":"Rendang de bœuf","type":"g","cal":250,"carbs":6,"protein":22,"fat":15},
-{"name":"Satay poulet","type":"g","cal":200,"carbs":5,"protein":20,"fat":12},
-{"name":"Laksa soupe","type":"g","cal":150,"carbs":18,"protein":8,"fat":6},
-{"name":"Banh mi vietnamien","type":"unit","cal":350,"carbs":40,"protein":15,"fat":12},
-{"name":"Bibimbap coréen","type":"g","cal":220,"carbs":35,"protein":10,"fat":8},
-{"name":"Kimchi","type":"g","cal":15,"carbs":2,"protein":1,"fat":0.1},
-{"name":"Edamame vapeur","type":"g","cal":121,"carbs":9.9,"protein":11.9,"fat":5},
-{"name":"Tofu mariné","type":"g","cal":145,"carbs":3,"protein":15,"fat":8},
-{"name":"Tempeh sauté","type":"g","cal":193,"carbs":9,"protein":20,"fat":11},
-{"name":"Nouilles soba","type":"g","cal":99,"carbs":21,"protein":5,"fat":0.1},
-{"name":"Riz sauté singapourien","type":"g","cal":180,"carbs":30,"protein":7,"fat":5},
-{"name":"Congee","type":"g","cal":70,"carbs":15,"protein":2,"fat":0.5},
-{"name":"Pancake coréen","type":"unit","cal":120,"carbs":18,"protein":4,"fat":5},
-{"name":"Chapati","type":"unit","cal":120,"carbs":20,"protein":4,"fat":3},
-{"name":"Dahl lentilles","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Curry pois chiches","type":"g","cal":164,"carbs":27,"protein":8.9,"fat":2.6},
-{"name":"Falafel maison","type":"unit","cal":57,"carbs":5,"protein":2.5,"fat":3},
-{"name":"Hummus","type":"g","cal":166,"carbs":14,"protein":8,"fat":10},
-{"name":"Shakshuka","type":"g","cal":150,"carbs":8,"protein":9,"fat":8},
-{"name":"Baba ganoush","type":"g","cal":110,"carbs":6,"protein":2,"fat":9},
-{"name":"Taboulé libanais","type":"g","cal":120,"carbs":20,"protein":3,"fat":3},
-{"name":"Couscous légumes","type":"g","cal":112,"carbs":23.2,"protein":3.8,"fat":0.2},
-{"name":"Labneh","type":"g","cal":97,"carbs":3,"protein":5,"fat":7},
-{"name":"Pita","type":"unit","cal":170,"carbs":33,"protein":6,"fat":1},
-{"name":"Dolma","type":"g","cal":120,"carbs":15,"protein":4,"fat":6},
-{"name":"Kofta","type":"unit","cal":180,"carbs":4,"protein":18,"fat":10},
-{"name":"Bulgur pilaf","type":"g","cal":150,"carbs":30,"protein":5,"fat":1},
-{"name":"Moussaka","type":"g","cal":180,"carbs":15,"protein":10,"fat":10},
-{"name":"Baklava","type":"unit","cal":150,"carbs":25,"protein":3,"fat":7},
-{"name":"Halva","type":"g","cal":400,"carbs":45,"protein":6,"fat":22},
-{"name":"Tahini","type":"g","cal":595,"carbs":21,"protein":17,"fat":53},
-{"name":"Accra banane","type":"unit","cal":120,"carbs":25,"protein":1,"fat":3},
-{"name":"Fufu manioc","type":"g","cal":160,"carbs":38,"protein":1.4,"fat":0.5},
-{"name":"Yassa poulet","type":"g","cal":210,"carbs":10,"protein":25,"fat":8},
-{"name":"Maafe boeuf","type":"g","cal":230,"carbs":12,"protein":20,"fat":14},
-{"name":"Riz jollof","type":"g","cal":180,"carbs":35,"protein":6,"fat":4},
-{"name":"Attiéké poisson","type":"g","cal":200,"carbs":40,"protein":18,"fat":5},
-{"name":"Poulet braisé antillais","type":"g","cal":220,"carbs":0,"protein":28,"fat":12},
-{"name":"Colombo de poulet","type":"g","cal":180,"carbs":6,"protein":22,"fat":8},
-{"name":"Bananes flambées","type":"g","cal":120,"carbs":30,"protein":1,"fat":0.5},
-{"name":"Bouillie de mil sucrée","type":"g","cal":112,"carbs":24,"protein":3,"fat":1},
-{"name":"Chikwangue","type":"g","cal":150,"carbs":35,"protein":2,"fat":0.5},
-{"name":"Gari soaké","type":"g","cal":160,"carbs":38,"protein":1,"fat":0.5},
-{"name":"Porridge caribéen","type":"g","cal":130,"carbs":27,"protein":4,"fat":2},
-{"name":"Pain de singe (fruit du baobab)","type":"g","cal":250,"carbs":58,"protein":2,"fat":3},
-{"name":"Saka saka","type":"g","cal":95,"carbs":10,"protein":3,"fat":5},
-{"name":"Chou coco antillais","type":"g","cal":50,"carbs":5,"protein":2,"fat":3},
-{"name":"Riz cantonais","type":"g","cal":170,"carbs":30,"protein":6,"fat":4},
-{"name":"Poulet teriyaki","type":"g","cal":190,"carbs":8,"protein":22,"fat":7},
-{"name":"Poulet korma","type":"g","cal":200,"carbs":10,"protein":20,"fat":10},
-{"name":"Curry crevettes","type":"g","cal":180,"carbs":7,"protein":18,"fat":8},
-{"name":"Gâteau de manioc","type":"unit","cal":150,"carbs":35,"protein":2,"fat":1},
-{"name":"Pain patate","type":"unit","cal":120,"carbs":28,"protein":1,"fat":0.5},
-{"name":"Bánh xèo vietnamien","type":"unit","cal":220,"carbs":20,"protein":12,"fat":12},
-{"name":"Bun bo Hue","type":"g","cal":250,"carbs":30,"protein":15,"fat":10},
-{"name":"Pho bo vietnamien","type":"g","cal":150,"carbs":25,"protein":10,"fat":4},
-{"name":"Riz cantonnais","type":"g","cal":180,"carbs":30,"protein":6,"fat":5},
-{"name":"Nouilles udon","type":"g","cal":127,"carbs":25,"protein":5,"fat":1},
-{"name":"Riz gluant mangue","type":"g","cal":200,"carbs":45,"protein":4,"fat":5},
-{"name":"Poulet satay indonésien","type":"g","cal":200,"carbs":5,"protein":20,"fat":12},
-{"name":"Nasi campur","type":"g","cal":250,"carbs":35,"protein":15,"fat":10},
-{"name":"Curry dhal","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Riz basmati indien","type":"g","cal":130,"carbs":28,"protein":2.7,"fat":0.3},
-{"name":"Chapati indien","type":"unit","cal":120,"carbs":20,"protein":4,"fat":3},
-{"name":"Dosa","type":"unit","cal":112,"carbs":22,"protein":3,"fat":1},
-{"name":"Idli","type":"unit","cal":39,"carbs":8,"protein":2,"fat":0.2},
-{"name":"Sambal indonésien","type":"g","cal":80,"carbs":10,"protein":1,"fat":3},
-{"name":"Curry de légumes thaï","type":"g","cal":130,"carbs":15,"protein":4,"fat":7},
-{"name":"Poulet pad kra pao","type":"g","cal":190,"carbs":6,"protein":22,"fat":8},
-{"name":"Tom yum soupe","type":"g","cal":80,"carbs":6,"protein":8,"fat":4},
-{"name":"Som tam (salade papaye)","type":"g","cal":50,"carbs":12,"protein":1,"fat":0.5},
-{"name":"Riz sauté thaï","type":"g","cal":180,"carbs":30,"protein":6,"fat":5},
-{"name":"Pho ga vietnamien","type":"g","cal":140,"carbs":25,"protein":10,"fat":3},
-{"name":"Banh cuon","type":"unit","cal":120,"carbs":22,"protein":6,"fat":3},
-{"name":"Satay tofu","type":"g","cal":150,"carbs":5,"protein":12,"fat":8},
-{"name":"Yakitori poulet","type":"unit","cal":80,"carbs":2,"protein":7,"fat":5},
-{"name":"Okra sauce tomate","type":"g","cal":60,"carbs":10,"protein":2,"fat":1},
-{"name":"Fèves à l’huile d’olive","type":"g","cal":140,"carbs":20,"protein":6,"fat":5},
-{"name":"Poisson braisé africain","type":"g","cal":180,"carbs":0,"protein":25,"fat":8},
-{"name":"Soupe de haricots rouges antillaise","type":"g","cal":120,"carbs":20,"protein":6,"fat":2},
-{"name":"Taro cuit","type":"g","cal":142,"carbs":34,"protein":2,"fat":0.1},
-{"name":"Pudding de manioc","type":"g","cal":150,"carbs":36,"protein":1.5,"fat":1.2},
-{"name":"Beignets de crevettes","type":"unit","cal":120,"carbs":15,"protein":6,"fat":5},
-{"name":"Salade grecque","type":"g","cal":120,"carbs":5,"protein":4,"fat":10},
-{"name":"Poulet rôti à la provençale","type":"g","cal":180,"carbs":0,"protein":25,"fat":8},
-{"name":"Saumon fumé","type":"g","cal":117,"carbs":0,"protein":18,"fat":5},
-{"name":"Tartine avocat et œuf","type":"unit","cal":220,"carbs":18,"protein":10,"fat":12},
-{"name":"Smoothie banane-épinards","type":"g","cal":70,"carbs":15,"protein":2,"fat":0.5},
-{"name":"Granola maison","type":"g","cal":450,"carbs":60,"protein":10,"fat":18},
-{"name":"Muesli nature","type":"g","cal":380,"carbs":60,"protein":10,"fat":7},
-{"name":"Yaourt grec 0%","type":"g","cal":59,"carbs":3.6,"protein":10,"fat":0.4},
-{"name":"Omelette aux légumes","type":"g","cal":150,"carbs":2,"protein":12,"fat":10},
-{"name":"Quiche sans pâte","type":"unit","cal":180,"carbs":4,"protein":12,"fat":12},
-{"name":"Ratatouille","type":"g","cal":70,"carbs":10,"protein":2,"fat":3},
-{"name":"Soupe de légumes maison","type":"g","cal":45,"carbs":8,"protein":2,"fat":0.5},
-{"name":"Salade de lentilles","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Pois chiches rôtis","type":"g","cal":164,"carbs":27,"protein":8.9,"fat":2.6},
-{"name":"Tofu grillé","type":"g","cal":145,"carbs":3,"protein":15,"fat":8},
-{"name":"Tempeh au four","type":"g","cal":193,"carbs":9,"protein":20,"fat":11},
-{"name":"Saumon grillé","type":"g","cal":208,"carbs":0,"protein":20,"fat":13},
-{"name":"Cabillaud vapeur","type":"g","cal":105,"carbs":0,"protein":23,"fat":1},
-{"name":"Truite","type":"g","cal":148,"carbs":0,"protein":20,"fat":7},
-{"name":"Pommes de terre vapeur","type":"g","cal":77,"carbs":17,"protein":2,"fat":0.1},
-{"name":"Courgettes sautées","type":"g","cal":17,"carbs":3,"protein":1,"fat":0.3},
-{"name":"Brocoli vapeur","type":"g","cal":34,"carbs":7,"protein":2.8,"fat":0.4},
-{"name":"Carottes vapeur","type":"g","cal":41,"carbs":10,"protein":0.9,"fat":0.2},
-{"name":"Betterave cuite","type":"g","cal":43,"carbs":10,"protein":1.6,"fat":0.2},
-{"name":"Chou kale","type":"g","cal":49,"carbs":9,"protein":4,"fat":0.9},
-{"name":"Épinards frais","type":"g","cal":23,"carbs":3.6,"protein":2.9,"fat":0.4},
-{"name":"Avocat tranché","type":"unit","cal":160,"carbs":9,"protein":2,"fat":15},
-{"name":"Noix de cajou","type":"g","cal":553,"carbs":30,"protein":18,"fat":44},
-{"name":"Amandes","type":"g","cal":576,"carbs":22,"protein":21,"fat":49},
-{"name":"Noisettes","type":"g","cal":628,"carbs":17,"protein":15,"fat":61},
-{"name":"Graines de courge","type":"g","cal":446,"carbs":16,"protein":19,"fat":19},
-{"name":"Graines de tournesol","type":"g","cal":584,"carbs":20,"protein":21,"fat":51},
-{"name":"Pain complet","type":"unit","cal":80,"carbs":15,"protein":3,"fat":1},
-{"name":"Pain de seigle","type":"unit","cal":75,"carbs":14,"protein":3,"fat":1},
-{"name":"Pain aux céréales","type":"unit","cal":90,"carbs":16,"protein":4,"fat":2},
-{"name":"Croissant complet","type":"unit","cal":200,"carbs":23,"protein":5,"fat":10},
-{"name":"Flocons d’avoine","type":"g","cal":367,"carbs":60,"protein":13,"fat":7},
-{"name":"Quinoa cuit","type":"g","cal":120,"carbs":21,"protein":4.1,"fat":1.9},
-{"name":"Riz complet cuit","type":"g","cal":111,"carbs":23,"protein":2.6,"fat":0.9},
-{"name":"Pâtes complètes cuites","type":"g","cal":157,"carbs":30,"protein":5.5,"fat":1},
-{"name":"Chou kale","type":"g","cal":49,"carbs":9,"protein":4,"fat":0.9}
-{"name":"Lentilles vertes cuites","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Pois chiches cuits","type":"g","cal":164,"carbs":27,"protein":8.9,"fat":2.6},
-{"name":"Haricots blancs cuits","type":"g","cal":127,"carbs":22,"protein":8.7,"fat":0.5},
-{"name":"Pois cassés cuits","type":"g","cal":118,"carbs":21,"protein":9,"fat":0.4},
-{"name":"Filet de poulet","type":"g","cal":165,"carbs":0,"protein":31,"fat":4},
-{"name":"Filet de dinde","type":"g","cal":135,"carbs":0,"protein":31,"fat":3},
-{"name":"Houmous maison","type":"g","cal":166,"carbs":14,"protein":8,"fat":10},
-{"name":"Taboulé libanais","type":"g","cal":120,"carbs":20,"protein":3,"fat":3},
-{"name":"Falafel cuit","type":"unit","cal":57,"carbs":5,"protein":2.5,"fat":3},
-{"name":"Baba ganoush","type":"g","cal":110,"carbs":6,"protein":2,"fat":9},
-{"name":"Ricotta light","type":"g","cal":150,"carbs":3,"protein":11,"fat":10},
-{"name":"Cabillaud","type":"g","cal":105,"carbs":0,"protein":23,"fat":1},
-{"name":"Truite","type":"g","cal":148,"carbs":0,"protein":20,"fat":7},
-{"name":"Crevettes","type":"g","cal":100,"carbs":0,"protein":24,"fat":0.3},
-{"name":"Moules","type":"g","cal":86,"carbs":3.7,"protein":12,"fat":2.2},
-{"name":"Huîtres","type":"g","cal":68,"carbs":4,"protein":7,"fat":2},
-{"name":"Mozzarella","type":"g","cal":280,"carbs":3,"protein":28,"fat":17},
-{"name":"Emmental","type":"g","cal":380,"carbs":1,"protein":27,"fat":30},
-{"name":"Feta","type":"g","cal":264,"carbs":4,"protein":14,"fat":21},
-{"name":"Muesli fruits secs","type":"g","cal":400,"carbs":55,"protein":9,"fat":15},
-{"name":"Granola bar maison","type":"unit","cal":150,"carbs":20,"protein":5,"fat":6},
-{"name":"Compote pomme sans sucre","type":"g","cal":68,"carbs":17,"protein":0.2,"fat":0.1},
-{"name":"Fruits rouges frais","type":"g","cal":32,"carbs":8,"protein":0.6,"fat":0.3},
-{"name":"Orange","type":"unit","cal":62,"carbs":15,"protein":1.2,"fat":0.2},
-{"name":"Clémentine","type":"unit","cal":35,"carbs":9,"protein":0.6,"fat":0.1},
-{"name":"Smoothie fraise-banane","type":"g","cal":60,"carbs":13,"protein":1,"fat":0.3},
-{"name":"Soupe potiron","type":"g","cal":40,"carbs":8,"protein":1,"fat":0.5},
-{"name":"Velouté légumes verts","type":"g","cal":45,"carbs":9,"protein":2,"fat":0.5},
-{"name":"Beignet de banane antillais","type":"unit","cal":120,"carbs":25,"protein":1,"fat":3},
-{"name":"Gâteau patate douce antillais","type":"unit","cal":150,"carbs":35,"protein":2,"fat":2},
-{"name":"Boulettes de manioc africaines","type":"unit","cal":130,"carbs":28,"protein":2,"fat":1},
-{"name":"Pudding de tapioca","type":"unit","cal":140,"carbs":30,"protein":2,"fat":2},
-{"name":"Flan coco antillais","type":"unit","cal":180,"carbs":25,"protein":4,"fat":8},
-{"name":"Beignets de crevettes asiatiques","type":"unit","cal":120,"carbs":15,"protein":6,"fat":5},
-{"name":"Spring rolls végétariens","type":"unit","cal":90,"carbs":12,"protein":3,"fat":4},
-{"name":"Mochi japonais","type":"unit","cal":100,"carbs":22,"protein":2,"fat":0.5},
-{"name":"Pudding de riz thaï","type":"g","cal":200,"carbs":45,"protein":4,"fat":5},
-{"name":"Gâteau de riz vietnamien","type":"unit","cal":120,"carbs":25,"protein":3,"fat":2},
-{"name":"Chou coco antillais gratiné","type":"g","cal":60,"carbs":5,"protein":2,"fat":3},
-{"name":"Fufu plantain","type":"g","cal":160,"carbs":38,"protein":1.5,"fat":0.5},
-{"name":"Beignets manioc","type":"unit","cal":130,"carbs":30,"protein":2,"fat":1},
-{"name":"Bánh bao vietnamien","type":"unit","cal":150,"carbs":28,"protein":5,"fat":4},
-{"name":"Bánh mì vietnamien","type":"unit","cal":200,"carbs":35,"protein":8,"fat":5},
-{"name":"Poulet yassa sénégalais","type":"g","cal":210,"carbs":10,"protein":25,"fat":8},
-{"name":"Maafe sénégalais","type":"g","cal":230,"carbs":12,"protein":20,"fat":14},
-{"name":"Riz jollof nigérian","type":"g","cal":180,"carbs":35,"protein":6,"fat":4},
-{"name":"Accra banane","type":"unit","cal":120,"carbs":25,"protein":1,"fat":3},
-{"name":"Gari soaké ivoirien","type":"g","cal":160,"carbs":38,"protein":1,"fat":0.5},
-{"name":"Chikwangue","type":"g","cal":150,"carbs":35,"protein":2,"fat":0.5},
-{"name":"Porridge caribéen","type":"g","cal":130,"carbs":27,"protein":4,"fat":2},
-{"name":"Pain patate antillais","type":"unit","cal":120,"carbs":28,"protein":1,"fat":0.5},
-{"name":"Bánh xèo vietnamien","type":"unit","cal":220,"carbs":20,"protein":12,"fat":12},
-{"name":"Bun bo Hue vietnamien","type":"g","cal":250,"carbs":30,"protein":15,"fat":10},
-{"name":"Pho bo vietnamien","type":"g","cal":150,"carbs":25,"protein":10,"fat":4},
-{"name":"Riz gluant mangue","type":"g","cal":200,"carbs":45,"protein":4,"fat":5},
-{"name":"Poulet satay indonésien","type":"g","cal":200,"carbs":5,"protein":20,"fat":12},
-{"name":"Nasi campur indonésien","type":"g","cal":250,"carbs":35,"protein":15,"fat":10},
-{"name":"Curry dhal indien","type":"g","cal":116,"carbs":20,"protein":9,"fat":0.4},
-{"name":"Dosa indien","type":"unit","cal":112,"carbs":22,"protein":3,"fat":1},
-{"name":"Idli indien","type":"unit","cal":39,"carbs":8,"protein":2,"fat":0.2},
-{"name":"Sambal indonésien","type":"g","cal":80,"carbs":10,"protein":1,"fat":3},
-{"name":"Curry légumes thaï","type":"g","cal":130,"carbs":15,"protein":4,"fat":7},
-{"name":"Pad kra pao poulet","type":"g","cal":190,"carbs":6,"protein":22,"fat":8},
-{"name":"Tom yum soupe","type":"g","cal":80,"carbs":6,"protein":8,"fat":4},
-{"name":"Som tam salade papaye","type":"g","cal":50,"carbs":12,"protein":1,"fat":0.5},
-{"name":"Riz sauté thaï","type":"g","cal":180,"carbs":30,"protein":6,"fat":5},
-{"name":"Pho ga vietnamien","type":"g","cal":140,"carbs":25,"protein":10,"fat":3},
-{"name":"Banh cuon vietnamien","type":"unit","cal":120,"carbs":22,"protein":6,"fat":3}
-{"name":"Satay tofu","type":"g","cal":150,"carbs":5,"protein":12,"fat":8},
-{"name":"Yakitori poulet","type":"unit","cal":80,"carbs":2,"protein":7,"fat":5},
-{"name":"Okra sauce tomate","type":"g","cal":60,"carbs":10,"protein":2,"fat":1},
-{"name":"Fèves à l’huile d’olive","type":"g","cal":140,"carbs":20,"protein":6,"fat":5},
-{"name":"Poisson braisé africain","type":"g","cal":180,"carbs":0,"protein":25,"fat":8},
-{"name":"Soupe haricots rouges antillaise","type":"g","cal":120,"carbs":20,"protein":6,"fat":2},
-{"name":"Taro cuit","type":"g","cal":142,"carbs":34,"protein":2,"fat":0.1},
-{"name":"Pudding manioc","type":"g","cal":150,"carbs":36,"protein":1.5,"fat":1.2},
-{"name":"Beignets crevettes","type":"unit","cal":120,"carbs":15,"protein":6,"fat":5}
+  {
+    "name": "Banane",
+    "type": "unit",
+    "cal": 105,
+    "carbs": 27,
+    "protein": 1.3,
+    "fat": 0.3
+  },
+  {
+    "name": "Fromage pate dure",
+    "type": "g",
+    "cal": 380,
+    "carbs": 1,
+    "protein": 27,
+    "fat": 30
+  },
+  {
+    "name": "Pizza classique",
+    "type": "g",
+    "cal": 266,
+    "carbs": 33,
+    "protein": 11,
+    "fat": 10
+  },
+  {
+    "name": "Thieb poulet",
+    "type": "g",
+    "cal": 180,
+    "carbs": 20,
+    "protein": 12,
+    "fat": 6
+  },
+  {
+    "name": "Sirop d'agave",
+    "type": "g",
+    "cal": 310,
+    "carbs": 76,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Miel",
+    "type": "g",
+    "cal": 304,
+    "carbs": 82,
+    "protein": 0.3,
+    "fat": 0
+  },
+  {
+    "name": "Haut de cuisse de poulet",
+    "type": "g",
+    "cal": 209,
+    "carbs": 0,
+    "protein": 26,
+    "fat": 11
+  },
+  {
+    "name": "Degue",
+    "type": "g",
+    "cal": 150,
+    "carbs": 25,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Fonio (cuit)",
+    "type": "g",
+    "cal": 130,
+    "carbs": 27,
+    "protein": 3,
+    "fat": 0.5
+  },
+  {
+    "name": "Haricot vert",
+    "type": "g",
+    "cal": 31,
+    "carbs": 7,
+    "protein": 1.8,
+    "fat": 0.2
+  },
+  {
+    "name": "Biscotte",
+    "type": "unit",
+    "cal": 35,
+    "carbs": 7,
+    "protein": 0.8,
+    "fat": 0.35
+  },
+  {
+    "name": "Pancakes",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 11,
+    "protein": 2,
+    "fat": 4
+  },
+  {
+    "name": "Petit pois",
+    "type": "g",
+    "cal": 81,
+    "carbs": 14,
+    "protein": 5,
+    "fat": 0.4
+  },
+  {
+    "name": "Capuccino",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 12,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Cereales",
+    "type": "g",
+    "cal": 380,
+    "carbs": 80,
+    "protein": 8,
+    "fat": 4
+  },
+  {
+    "name": "Pain au lait",
+    "type": "unit",
+    "cal": 135,
+    "carbs": 22,
+    "protein": 4,
+    "fat": 3.5
+  },
+  {
+    "name": "Placali",
+    "type": "g",
+    "cal": 190,
+    "carbs": 45,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Tapioca",
+    "type": "g",
+    "cal": 358,
+    "carbs": 88,
+    "protein": 0.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Bouillie de mil",
+    "type": "g",
+    "cal": 112,
+    "carbs": 24,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Kefir",
+    "type": "g",
+    "cal": 41,
+    "carbs": 4.5,
+    "protein": 3.5,
+    "fat": 1
+  },
+  {
+    "name": "Philadelphia",
+    "type": "g",
+    "cal": 250,
+    "carbs": 4,
+    "protein": 5,
+    "fat": 24
+  },
+  {
+    "name": "Citron",
+    "type": "unit",
+    "cal": 20,
+    "carbs": 6,
+    "protein": 0.5,
+    "fat": 0.2
+  },
+  {
+    "name": "Figue",
+    "type": "unit",
+    "cal": 30,
+    "carbs": 8,
+    "protein": 0.3,
+    "fat": 0.1
+  },
+  {
+    "name": "Pain complet",
+    "type": "g",
+    "cal": 250,
+    "carbs": 45,
+    "protein": 9,
+    "fat": 4
+  },
+  {
+    "name": "Nouilles de ble",
+    "type": "g",
+    "cal": 138,
+    "carbs": 25,
+    "protein": 4.5,
+    "fat": 2
+  },
+  {
+    "name": "Brocolis",
+    "type": "g",
+    "cal": 34,
+    "carbs": 7,
+    "protein": 2.8,
+    "fat": 0.4
+  },
+  {
+    "name": "Poivrons",
+    "type": "g",
+    "cal": 31,
+    "carbs": 6,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Compote",
+    "type": "g",
+    "cal": 68,
+    "carbs": 17,
+    "protein": 0.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Myrtilles",
+    "type": "g",
+    "cal": 57,
+    "carbs": 14,
+    "protein": 0.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Framboises",
+    "type": "g",
+    "cal": 52,
+    "carbs": 12,
+    "protein": 1.2,
+    "fat": 0.6
+  },
+  {
+    "name": "Wrap",
+    "type": "unit",
+    "cal": 140,
+    "carbs": 24,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Concombre",
+    "type": "g",
+    "cal": 16,
+    "carbs": 3.6,
+    "protein": 0.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Carotte",
+    "type": "g",
+    "cal": 41,
+    "carbs": 10,
+    "protein": 0.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Beurre de cacahuete",
+    "type": "g",
+    "cal": 588,
+    "carbs": 20,
+    "protein": 25,
+    "fat": 50
+  },
+  {
+    "name": "Flocons d'avoine",
+    "type": "g",
+    "cal": 367,
+    "carbs": 60,
+    "protein": 13,
+    "fat": 7
+  },
+  {
+    "name": "Pates cuites",
+    "type": "g",
+    "cal": 157,
+    "carbs": 30,
+    "protein": 5.5,
+    "fat": 1
+  },
+  {
+    "name": "Lasagnes",
+    "type": "g",
+    "cal": 135,
+    "carbs": 15,
+    "protein": 8,
+    "fat": 6
+  },
+  {
+    "name": "Steak hache 15%",
+    "type": "g",
+    "cal": 250,
+    "carbs": 0,
+    "protein": 26,
+    "fat": 20
+  },
+  {
+    "name": "Poisson pane",
+    "type": "g",
+    "cal": 230,
+    "carbs": 18,
+    "protein": 12,
+    "fat": 12
+  },
+  {
+    "name": "Fromage frais",
+    "type": "g",
+    "cal": 120,
+    "carbs": 3,
+    "protein": 8,
+    "fat": 8
+  },
+  {
+    "name": "Raisin",
+    "type": "g",
+    "cal": 69,
+    "carbs": 18,
+    "protein": 0.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Pomme",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 21,
+    "protein": 0.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Fruit du dragon",
+    "type": "g",
+    "cal": 50,
+    "carbs": 11,
+    "protein": 1,
+    "fat": 0.1
+  },
+  {
+    "name": "Mangue",
+    "type": "g",
+    "cal": 60,
+    "carbs": 15,
+    "protein": 0.8,
+    "fat": 0.4
+  },
+  {
+    "name": "Clementine",
+    "type": "unit",
+    "cal": 35,
+    "carbs": 9,
+    "protein": 0.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Orange",
+    "type": "unit",
+    "cal": 62,
+    "carbs": 15,
+    "protein": 1.2,
+    "fat": 0.2
+  },
+  {
+    "name": "Fraises",
+    "type": "g",
+    "cal": 32,
+    "carbs": 8,
+    "protein": 0.6,
+    "fat": 0.3
+  },
+  {
+    "name": "Avocat",
+    "type": "unit",
+    "cal": 160,
+    "carbs": 9,
+    "protein": 2,
+    "fat": 15
+  },
+  {
+    "name": "Pain blanc",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 15,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Croissant",
+    "type": "unit",
+    "cal": 230,
+    "carbs": 25,
+    "protein": 4.5,
+    "fat": 11
+  },
+  {
+    "name": "Confiture",
+    "type": "g",
+    "cal": 250,
+    "carbs": 65,
+    "protein": 0.4,
+    "fat": 0.1
+  },
+  {
+    "name": "Lait entier",
+    "type": "g",
+    "cal": 61,
+    "carbs": 4.8,
+    "protein": 3.2,
+    "fat": 3.3
+  },
+  {
+    "name": "Fromage blanc 0%",
+    "type": "g",
+    "cal": 55,
+    "carbs": 3.8,
+    "protein": 5,
+    "fat": 0.1
+  },
+  {
+    "name": "Yaourt nature",
+    "type": "g",
+    "cal": 61,
+    "carbs": 4.7,
+    "protein": 3.5,
+    "fat": 3.3
+  },
+  {
+    "name": "Oeuf",
+    "type": "unit",
+    "cal": 70,
+    "carbs": 0.6,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Whey proteine",
+    "type": "g",
+    "cal": 400,
+    "carbs": 10,
+    "protein": 80,
+    "fat": 5
+  },
+  {
+    "name": "Poulet",
+    "type": "g",
+    "cal": 165,
+    "carbs": 0,
+    "protein": 31,
+    "fat": 4
+  },
+  {
+    "name": "Dinde",
+    "type": "g",
+    "cal": 135,
+    "carbs": 0,
+    "protein": 31,
+    "fat": 3
+  },
+  {
+    "name": "Saumon",
+    "type": "g",
+    "cal": 208,
+    "carbs": 0,
+    "protein": 20,
+    "fat": 13
+  },
+  {
+    "name": "Steak",
+    "type": "g",
+    "cal": 250,
+    "carbs": 0,
+    "protein": 26,
+    "fat": 20
+  },
+  {
+    "name": "Crevettes",
+    "type": "g",
+    "cal": 100,
+    "carbs": 0,
+    "protein": 24,
+    "fat": 0.3
+  },
+  {
+    "name": "Epinards",
+    "type": "g",
+    "cal": 23,
+    "carbs": 3.6,
+    "protein": 2.9,
+    "fat": 0.4
+  },
+  {
+    "name": "Courgettes",
+    "type": "g",
+    "cal": 17,
+    "carbs": 3,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Lentilles",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Haricot rouge",
+    "type": "g",
+    "cal": 127,
+    "carbs": 22.8,
+    "protein": 8.7,
+    "fat": 0.5
+  },
+  {
+    "name": "Pois chiches",
+    "type": "g",
+    "cal": 164,
+    "carbs": 27.4,
+    "protein": 8.9,
+    "fat": 2.6
+  },
+  {
+    "name": "Edamame",
+    "type": "g",
+    "cal": 121,
+    "carbs": 9.9,
+    "protein": 11.9,
+    "fat": 5
+  },
+  {
+    "name": "Riz blanc",
+    "type": "g",
+    "cal": 130,
+    "carbs": 28,
+    "protein": 2.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Quinoa",
+    "type": "g",
+    "cal": 120,
+    "carbs": 21.3,
+    "protein": 4.1,
+    "fat": 1.9
+  },
+  {
+    "name": "Gnocchis",
+    "type": "g",
+    "cal": 150,
+    "carbs": 30,
+    "protein": 4,
+    "fat": 0.5
+  },
+  {
+    "name": "Pates carbonara",
+    "type": "g",
+    "cal": 200,
+    "carbs": 25,
+    "protein": 8,
+    "fat": 8
+  },
+  {
+    "name": "Pommes de terre",
+    "type": "g",
+    "cal": 77,
+    "carbs": 17,
+    "protein": 2,
+    "fat": 0.1
+  },
+  {
+    "name": "Patate douce",
+    "type": "g",
+    "cal": 86,
+    "carbs": 20.1,
+    "protein": 1.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Huile d'olive",
+    "type": "g",
+    "cal": 884,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 100
+  },
+  {
+    "name": "Beurre",
+    "type": "g",
+    "cal": 717,
+    "carbs": 0,
+    "protein": 1,
+    "fat": 81
+  },
+  {
+    "name": "Amandes",
+    "type": "g",
+    "cal": 576,
+    "carbs": 22,
+    "protein": 21,
+    "fat": 49
+  },
+  {
+    "name": "Matcha",
+    "type": "g",
+    "cal": 3,
+    "carbs": 0.1,
+    "protein": 0.3,
+    "fat": 0.1
+  },
+  {
+    "name": "Redbull",
+    "type": "unit",
+    "cal": 110,
+    "carbs": 27,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Chocolat 70%",
+    "type": "g",
+    "cal": 546,
+    "carbs": 46,
+    "protein": 7.8,
+    "fat": 31
+  },
+  {
+    "name": "Wasa",
+    "type": "unit",
+    "cal": 35,
+    "carbs": 7,
+    "protein": 1,
+    "fat": 0.2
+  },
+  {
+    "name": "St Moret",
+    "type": "g",
+    "cal": 300,
+    "carbs": 2,
+    "protein": 7,
+    "fat": 30
+  },
+  {
+    "name": "Attieke",
+    "type": "g",
+    "cal": 152,
+    "carbs": 38,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Poulet boucane",
+    "type": "g",
+    "cal": 200,
+    "carbs": 0,
+    "protein": 27,
+    "fat": 10
+  },
+  {
+    "name": "Feta",
+    "type": "g",
+    "cal": 264,
+    "carbs": 4,
+    "protein": 14,
+    "fat": 21
+  },
+  {
+    "name": "Polenta",
+    "type": "g",
+    "cal": 70,
+    "carbs": 15,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Carottes rapees",
+    "type": "g",
+    "cal": 41,
+    "carbs": 10,
+    "protein": 0.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Fajitas de ble",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 25,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Noix",
+    "type": "g",
+    "cal": 655,
+    "carbs": 14,
+    "protein": 15,
+    "fat": 65
+  },
+  {
+    "name": "Cafe",
+    "type": "unit",
+    "cal": 2,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "The",
+    "type": "unit",
+    "cal": 1,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Eau",
+    "type": "unit",
+    "cal": 0,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Riz basmati",
+    "type": "g",
+    "cal": 130,
+    "carbs": 28,
+    "protein": 2.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Poulet curry coco",
+    "type": "g",
+    "cal": 180,
+    "carbs": 8,
+    "protein": 18,
+    "fat": 8
+  },
+  {
+    "name": "Bœuf saute gingembre",
+    "type": "g",
+    "cal": 190,
+    "carbs": 6,
+    "protein": 21,
+    "fat": 9
+  },
+  {
+    "name": "Tofu grille",
+    "type": "g",
+    "cal": 145,
+    "carbs": 3,
+    "protein": 15,
+    "fat": 8
+  },
+  {
+    "name": "Poisson grille",
+    "type": "g",
+    "cal": 120,
+    "carbs": 0,
+    "protein": 24,
+    "fat": 3
+  },
+  {
+    "name": "Ragout de bœuf",
+    "type": "g",
+    "cal": 150,
+    "carbs": 5,
+    "protein": 17,
+    "fat": 7
+  },
+  {
+    "name": "Poulet yassa",
+    "type": "g",
+    "cal": 165,
+    "carbs": 6,
+    "protein": 18,
+    "fat": 7
+  },
+  {
+    "name": "Riz jollof",
+    "type": "g",
+    "cal": 180,
+    "carbs": 30,
+    "protein": 5,
+    "fat": 4
+  },
+  {
+    "name": "Fufu (manioc)",
+    "type": "g",
+    "cal": 155,
+    "carbs": 35,
+    "protein": 1,
+    "fat": 0.4
+  },
+  {
+    "name": "Sauce arachide",
+    "type": "g",
+    "cal": 220,
+    "carbs": 5,
+    "protein": 8,
+    "fat": 20
+  },
+  {
+    "name": "Banane plantain grillee",
+    "type": "g",
+    "cal": 120,
+    "carbs": 31,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Tiep poisson",
+    "type": "g",
+    "cal": 195,
+    "carbs": 23,
+    "protein": 15,
+    "fat": 6
+  },
+  {
+    "name": "Accras de morue",
+    "type": "g",
+    "cal": 220,
+    "carbs": 15,
+    "protein": 12,
+    "fat": 12
+  },
+  {
+    "name": "Bokit poulet",
+    "type": "unit",
+    "cal": 450,
+    "carbs": 35,
+    "protein": 20,
+    "fat": 25
+  },
+  {
+    "name": "Colombo de poulet",
+    "type": "g",
+    "cal": 170,
+    "carbs": 8,
+    "protein": 19,
+    "fat": 6
+  },
+  {
+    "name": "Rougail saucisse",
+    "type": "g",
+    "cal": 200,
+    "carbs": 6,
+    "protein": 17,
+    "fat": 12
+  },
+  {
+    "name": "Nems au poulet",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 9,
+    "protein": 5,
+    "fat": 4
+  },
+  {
+    "name": "Sushi saumon",
+    "type": "unit",
+    "cal": 50,
+    "carbs": 7,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Ramen japonais",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 5,
+    "fat": 3
+  },
+  {
+    "name": "Tempura crevette",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 6,
+    "protein": 5,
+    "fat": 4
+  },
+  {
+    "name": "Riz cantonais",
+    "type": "g",
+    "cal": 160,
+    "carbs": 28,
+    "protein": 6,
+    "fat": 3
+  },
+  {
+    "name": "Tacos au bœuf",
+    "type": "unit",
+    "cal": 220,
+    "carbs": 22,
+    "protein": 10,
+    "fat": 10
+  },
+  {
+    "name": "Guacamole",
+    "type": "g",
+    "cal": 150,
+    "carbs": 9,
+    "protein": 2,
+    "fat": 13
+  },
+  {
+    "name": "Houmous",
+    "type": "g",
+    "cal": 166,
+    "carbs": 14,
+    "protein": 8,
+    "fat": 10
+  },
+  {
+    "name": "Pain pita",
+    "type": "unit",
+    "cal": 170,
+    "carbs": 33,
+    "protein": 6,
+    "fat": 1
+  },
+  {
+    "name": "Falafel",
+    "type": "unit",
+    "cal": 57,
+    "carbs": 5,
+    "protein": 2.5,
+    "fat": 3
+  },
+  {
+    "name": "Tajine de poulet",
+    "type": "g",
+    "cal": 140,
+    "carbs": 6,
+    "protein": 17,
+    "fat": 5
+  },
+  {
+    "name": "Couscous royal",
+    "type": "g",
+    "cal": 180,
+    "carbs": 25,
+    "protein": 10,
+    "fat": 5
+  },
+  {
+    "name": "Taboule",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 3,
+    "fat": 3
+  },
+  {
+    "name": "Soupe miso",
+    "type": "unit",
+    "cal": 60,
+    "carbs": 4,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Salade de quinoa",
+    "type": "g",
+    "cal": 145,
+    "carbs": 22,
+    "protein": 5,
+    "fat": 5
+  },
+  {
+    "name": "Riz saute legumes",
+    "type": "g",
+    "cal": 135,
+    "carbs": 25,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Smoothie tropical",
+    "type": "unit",
+    "cal": 180,
+    "carbs": 35,
+    "protein": 3,
+    "fat": 2
+  },
+  {
+    "name": "Jus de bissap",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 23,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "The glace maison",
+    "type": "unit",
+    "cal": 40,
+    "carbs": 10,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Crepe nature",
+    "type": "unit",
+    "cal": 110,
+    "carbs": 12,
+    "protein": 4,
+    "fat": 5
+  },
+  {
+    "name": "Gaufre",
+    "type": "unit",
+    "cal": 180,
+    "carbs": 25,
+    "protein": 5,
+    "fat": 7
+  },
+  {
+    "name": "Pain perdu",
+    "type": "unit",
+    "cal": 190,
+    "carbs": 28,
+    "protein": 6,
+    "fat": 6
+  },
+  {
+    "name": "Omelette nature",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 1,
+    "protein": 10,
+    "fat": 12
+  },
+  {
+    "name": "Tartine avocat œuf",
+    "type": "unit",
+    "cal": 250,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 14
+  },
+  {
+    "name": "Salade Cesar",
+    "type": "g",
+    "cal": 130,
+    "carbs": 5,
+    "protein": 10,
+    "fat": 8
+  },
+  {
+    "name": "Soupe de legumes",
+    "type": "g",
+    "cal": 45,
+    "carbs": 8,
+    "protein": 2,
+    "fat": 1
+  },
+  {
+    "name": "Bowl saumon avocat",
+    "type": "g",
+    "cal": 180,
+    "carbs": 15,
+    "protein": 12,
+    "fat": 8
+  },
+  {
+    "name": "Yassa poisson",
+    "type": "g",
+    "cal": 150,
+    "carbs": 6,
+    "protein": 16,
+    "fat": 6
+  },
+  {
+    "name": "Poulet braise",
+    "type": "g",
+    "cal": 210,
+    "carbs": 0,
+    "protein": 25,
+    "fat": 12
+  },
+  {
+    "name": "Poisson frit",
+    "type": "g",
+    "cal": 250,
+    "carbs": 5,
+    "protein": 22,
+    "fat": 15
+  },
+  {
+    "name": "Boulette de viande",
+    "type": "unit",
+    "cal": 70,
+    "carbs": 1,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Chili sin carne",
+    "type": "g",
+    "cal": 130,
+    "carbs": 20,
+    "protein": 7,
+    "fat": 3
+  },
+  {
+    "name": "Riz au lait",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Sorbet mangue",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 22,
+    "protein": 0,
+    "fat": 0
+  },
+  {
+    "name": "Gateau au chocolat",
+    "type": "g",
+    "cal": 370,
+    "carbs": 45,
+    "protein": 5,
+    "fat": 18
+  },
+  {
+    "name": "Muesli aux fruits",
+    "type": "g",
+    "cal": 380,
+    "carbs": 65,
+    "protein": 10,
+    "fat": 7
+  },
+  {
+    "name": "Granola maison",
+    "type": "g",
+    "cal": 420,
+    "carbs": 60,
+    "protein": 8,
+    "fat": 15
+  },
+  {
+    "name": "Yaourt grec",
+    "type": "g",
+    "cal": 120,
+    "carbs": 4,
+    "protein": 10,
+    "fat": 7
+  },
+  {
+    "name": "Fromage de chevre",
+    "type": "g",
+    "cal": 260,
+    "carbs": 0,
+    "protein": 18,
+    "fat": 21
+  },
+  {
+    "name": "Ricotta",
+    "type": "g",
+    "cal": 174,
+    "carbs": 3,
+    "protein": 11,
+    "fat": 13
+  },
+  {
+    "name": "Mozzarella",
+    "type": "g",
+    "cal": 280,
+    "carbs": 3,
+    "protein": 22,
+    "fat": 20
+  },
+  {
+    "name": "Pomme de terre vapeur",
+    "type": "g",
+    "cal": 77,
+    "carbs": 17,
+    "protein": 2,
+    "fat": 0.1
+  },
+  {
+    "name": "Patate douce rotie",
+    "type": "g",
+    "cal": 86,
+    "carbs": 20,
+    "protein": 1.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Courge butternut",
+    "type": "g",
+    "cal": 45,
+    "carbs": 10,
+    "protein": 1,
+    "fat": 0.1
+  },
+  {
+    "name": "Champignons de Paris",
+    "type": "g",
+    "cal": 22,
+    "carbs": 3.3,
+    "protein": 3,
+    "fat": 0.3
+  },
+  {
+    "name": "Tomates cerises",
+    "type": "g",
+    "cal": 18,
+    "carbs": 3.9,
+    "protein": 0.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Betterave cuite",
+    "type": "g",
+    "cal": 43,
+    "carbs": 10,
+    "protein": 1.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Poire",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 21,
+    "protein": 0.4,
+    "fat": 0.2
+  },
+  {
+    "name": "Kiwi",
+    "type": "unit",
+    "cal": 42,
+    "carbs": 10,
+    "protein": 0.8,
+    "fat": 0.4
+  },
+  {
+    "name": "Ananas",
+    "type": "g",
+    "cal": 50,
+    "carbs": 13,
+    "protein": 0.5,
+    "fat": 0.1
+  },
+  {
+    "name": "Papaye",
+    "type": "g",
+    "cal": 43,
+    "carbs": 11,
+    "protein": 0.5,
+    "fat": 0.1
+  },
+  {
+    "name": "Mangue sechee",
+    "type": "g",
+    "cal": 300,
+    "carbs": 75,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Noix de cajou",
+    "type": "g",
+    "cal": 553,
+    "carbs": 30,
+    "protein": 18,
+    "fat": 44
+  },
+  {
+    "name": "Pistaches",
+    "type": "g",
+    "cal": 560,
+    "carbs": 28,
+    "protein": 20,
+    "fat": 45
+  },
+  {
+    "name": "Noix de pecan",
+    "type": "g",
+    "cal": 690,
+    "carbs": 14,
+    "protein": 9,
+    "fat": 72
+  },
+  {
+    "name": "Noisettes",
+    "type": "g",
+    "cal": 628,
+    "carbs": 17,
+    "protein": 15,
+    "fat": 61
+  },
+  {
+    "name": "Chataigne cuite",
+    "type": "g",
+    "cal": 131,
+    "carbs": 28,
+    "protein": 2,
+    "fat": 1.5
+  },
+  {
+    "name": "Pois mange-tout",
+    "type": "g",
+    "cal": 42,
+    "carbs": 7,
+    "protein": 2.8,
+    "fat": 0.2
+  },
+  {
+    "name": "Chou-fleur",
+    "type": "g",
+    "cal": 25,
+    "carbs": 5,
+    "protein": 2,
+    "fat": 0.3
+  },
+  {
+    "name": "Brocoli vapeur",
+    "type": "g",
+    "cal": 34,
+    "carbs": 7,
+    "protein": 2.8,
+    "fat": 0.4
+  },
+  {
+    "name": "Epinards frais",
+    "type": "g",
+    "cal": 23,
+    "carbs": 3.6,
+    "protein": 2.9,
+    "fat": 0.4
+  },
+  {
+    "name": "Salade verte",
+    "type": "g",
+    "cal": 15,
+    "carbs": 2.9,
+    "protein": 1.4,
+    "fat": 0.2
+  },
+  {
+    "name": "Celeri branche",
+    "type": "g",
+    "cal": 16,
+    "carbs": 3,
+    "protein": 0.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Radis",
+    "type": "g",
+    "cal": 16,
+    "carbs": 3.4,
+    "protein": 0.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Oignon",
+    "type": "g",
+    "cal": 40,
+    "carbs": 9,
+    "protein": 1.1,
+    "fat": 0.1
+  },
+  {
+    "name": "Ail",
+    "type": "g",
+    "cal": 149,
+    "carbs": 33,
+    "protein": 6.4,
+    "fat": 0.5
+  },
+  {
+    "name": "Gingembre frais",
+    "type": "g",
+    "cal": 80,
+    "carbs": 18,
+    "protein": 1.8,
+    "fat": 0.8
+  },
+  {
+    "name": "Curcuma frais",
+    "type": "g",
+    "cal": 312,
+    "carbs": 67,
+    "protein": 9.7,
+    "fat": 3.3
+  },
+  {
+    "name": "Paprika",
+    "type": "g",
+    "cal": 282,
+    "carbs": 54,
+    "protein": 14,
+    "fat": 13
+  },
+  {
+    "name": "Piment rouge",
+    "type": "g",
+    "cal": 40,
+    "carbs": 9,
+    "protein": 2,
+    "fat": 0.4
+  },
+  {
+    "name": "Poivre noir",
+    "type": "g",
+    "cal": 255,
+    "carbs": 64,
+    "protein": 10,
+    "fat": 3.3
+  },
+  {
+    "name": "Coriandre fraiche",
+    "type": "g",
+    "cal": 23,
+    "carbs": 3.7,
+    "protein": 2.1,
+    "fat": 0.5
+  },
+  {
+    "name": "Basilic frais",
+    "type": "g",
+    "cal": 22,
+    "carbs": 2.7,
+    "protein": 3.2,
+    "fat": 0.6
+  },
+  {
+    "name": "Menthe fraiche",
+    "type": "g",
+    "cal": 44,
+    "carbs": 8,
+    "protein": 3.8,
+    "fat": 0.7
+  },
+  {
+    "name": "Thym frais",
+    "type": "g",
+    "cal": 101,
+    "carbs": 24,
+    "protein": 5.6,
+    "fat": 1.7
+  },
+  {
+    "name": "Romarin frais",
+    "type": "g",
+    "cal": 131,
+    "carbs": 21,
+    "protein": 3.3,
+    "fat": 5.9
+  },
+  {
+    "name": "Sauce soja",
+    "type": "g",
+    "cal": 53,
+    "carbs": 4.9,
+    "protein": 8.1,
+    "fat": 0.1
+  },
+  {
+    "name": "Vinaigre balsamique",
+    "type": "g",
+    "cal": 88,
+    "carbs": 17,
+    "protein": 0.5,
+    "fat": 0
+  },
+  {
+    "name": "Huile de sesame",
+    "type": "g",
+    "cal": 884,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 100
+  },
+  {
+    "name": "Huile de coco",
+    "type": "g",
+    "cal": 884,
+    "carbs": 0,
+    "protein": 0,
+    "fat": 100
+  },
+  {
+    "name": "Lait de coco",
+    "type": "g",
+    "cal": 230,
+    "carbs": 6,
+    "protein": 2,
+    "fat": 24
+  },
+  {
+    "name": "Tofu soyeux",
+    "type": "g",
+    "cal": 55,
+    "carbs": 2,
+    "protein": 5,
+    "fat": 3
+  },
+  {
+    "name": "Tempeh",
+    "type": "g",
+    "cal": 193,
+    "carbs": 9,
+    "protein": 20,
+    "fat": 11
+  },
+  {
+    "name": "Natto",
+    "type": "g",
+    "cal": 212,
+    "carbs": 14,
+    "protein": 18,
+    "fat": 11
+  },
+  {
+    "name": "Algues nori",
+    "type": "g",
+    "cal": 35,
+    "carbs": 5,
+    "protein": 5,
+    "fat": 0.3
+  },
+  {
+    "name": "Kombu",
+    "type": "g",
+    "cal": 43,
+    "carbs": 9,
+    "protein": 1.7,
+    "fat": 0.5
+  },
+  {
+    "name": "Wakame",
+    "type": "g",
+    "cal": 45,
+    "carbs": 9,
+    "protein": 3,
+    "fat": 0.6
+  },
+  {
+    "name": "Chou chinois",
+    "type": "g",
+    "cal": 16,
+    "carbs": 3,
+    "protein": 1,
+    "fat": 0.2
+  },
+  {
+    "name": "Thon en conserve",
+    "type": "g",
+    "cal": 132,
+    "carbs": 0,
+    "protein": 28,
+    "fat": 1
+  },
+  {
+    "name": "Maquereau grille",
+    "type": "g",
+    "cal": 205,
+    "carbs": 0,
+    "protein": 20,
+    "fat": 13
+  },
+  {
+    "name": "Tilapia",
+    "type": "g",
+    "cal": 128,
+    "carbs": 0,
+    "protein": 26,
+    "fat": 3
+  },
+  {
+    "name": "Crevettes sautees",
+    "type": "g",
+    "cal": 100,
+    "carbs": 0,
+    "protein": 24,
+    "fat": 0.3
+  },
+  {
+    "name": "Calamar",
+    "type": "g",
+    "cal": 92,
+    "carbs": 3,
+    "protein": 16,
+    "fat": 1.4
+  },
+  {
+    "name": "Crabe",
+    "type": "g",
+    "cal": 97,
+    "carbs": 0,
+    "protein": 20,
+    "fat": 1.5
+  },
+  {
+    "name": "Lambi (conque)",
+    "type": "g",
+    "cal": 90,
+    "carbs": 0,
+    "protein": 18,
+    "fat": 1
+  },
+  {
+    "name": "Accras de poulet",
+    "type": "g",
+    "cal": 230,
+    "carbs": 15,
+    "protein": 12,
+    "fat": 13
+  },
+  {
+    "name": "Colombo de poisson",
+    "type": "g",
+    "cal": 160,
+    "carbs": 7,
+    "protein": 20,
+    "fat": 6
+  },
+  {
+    "name": "Blaff de poisson",
+    "type": "g",
+    "cal": 120,
+    "carbs": 0,
+    "protein": 22,
+    "fat": 5
+  },
+  {
+    "name": "Poulet roti antillais",
+    "type": "g",
+    "cal": 210,
+    "carbs": 0,
+    "protein": 28,
+    "fat": 12
+  },
+  {
+    "name": "Ragout d’igname",
+    "type": "g",
+    "cal": 150,
+    "carbs": 32,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Ignames bouillies",
+    "type": "g",
+    "cal": 118,
+    "carbs": 28,
+    "protein": 1,
+    "fat": 0.2
+  },
+  {
+    "name": "Patate douce antillaise",
+    "type": "g",
+    "cal": 86,
+    "carbs": 20,
+    "protein": 1.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Christophine",
+    "type": "g",
+    "cal": 24,
+    "carbs": 6,
+    "protein": 1,
+    "fat": 0.1
+  },
+  {
+    "name": "Banane plantain bouillie",
+    "type": "g",
+    "cal": 122,
+    "carbs": 31,
+    "protein": 1.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Cassave cuite",
+    "type": "g",
+    "cal": 160,
+    "carbs": 38,
+    "protein": 1.4,
+    "fat": 0.5
+  },
+  {
+    "name": "Foutou banane",
+    "type": "g",
+    "cal": 140,
+    "carbs": 33,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Poi hawaien",
+    "type": "g",
+    "cal": 112,
+    "carbs": 26,
+    "protein": 1,
+    "fat": 0.2
+  },
+  {
+    "name": "Riz gluant thai",
+    "type": "g",
+    "cal": 130,
+    "carbs": 28,
+    "protein": 2.5,
+    "fat": 0.3
+  },
+  {
+    "name": "Pad thai poulet",
+    "type": "g",
+    "cal": 192,
+    "carbs": 28,
+    "protein": 10,
+    "fat": 6
+  },
+  {
+    "name": "Sushi thon",
+    "type": "unit",
+    "cal": 50,
+    "carbs": 7,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Gyoza poulet",
+    "type": "unit",
+    "cal": 55,
+    "carbs": 7,
+    "protein": 3,
+    "fat": 2
+  },
+  {
+    "name": "Miso soupe",
+    "type": "unit",
+    "cal": 60,
+    "carbs": 4,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Tempura legumes",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 8,
+    "protein": 2,
+    "fat": 4
+  },
+  {
+    "name": "Curry de legumes",
+    "type": "g",
+    "cal": 130,
+    "carbs": 15,
+    "protein": 4,
+    "fat": 7
+  },
+  {
+    "name": "Curry de poulet",
+    "type": "g",
+    "cal": 180,
+    "carbs": 8,
+    "protein": 18,
+    "fat": 9
+  },
+  {
+    "name": "Nasi goreng",
+    "type": "g",
+    "cal": 210,
+    "carbs": 32,
+    "protein": 9,
+    "fat": 7
+  },
+  {
+    "name": "Rendang de bœuf",
+    "type": "g",
+    "cal": 250,
+    "carbs": 6,
+    "protein": 22,
+    "fat": 15
+  },
+  {
+    "name": "Satay poulet",
+    "type": "g",
+    "cal": 200,
+    "carbs": 5,
+    "protein": 20,
+    "fat": 12
+  },
+  {
+    "name": "Laksa soupe",
+    "type": "g",
+    "cal": 150,
+    "carbs": 18,
+    "protein": 8,
+    "fat": 6
+  },
+  {
+    "name": "Banh mi vietnamien",
+    "type": "unit",
+    "cal": 350,
+    "carbs": 40,
+    "protein": 15,
+    "fat": 12
+  },
+  {
+    "name": "Bibimbap coreen",
+    "type": "g",
+    "cal": 220,
+    "carbs": 35,
+    "protein": 10,
+    "fat": 8
+  },
+  {
+    "name": "Kimchi",
+    "type": "g",
+    "cal": 15,
+    "carbs": 2,
+    "protein": 1,
+    "fat": 0.1
+  },
+  {
+    "name": "Edamame vapeur",
+    "type": "g",
+    "cal": 121,
+    "carbs": 9.9,
+    "protein": 11.9,
+    "fat": 5
+  },
+  {
+    "name": "Tofu marine",
+    "type": "g",
+    "cal": 145,
+    "carbs": 3,
+    "protein": 15,
+    "fat": 8
+  },
+  {
+    "name": "Tempeh saute",
+    "type": "g",
+    "cal": 193,
+    "carbs": 9,
+    "protein": 20,
+    "fat": 11
+  },
+  {
+    "name": "Nouilles soba",
+    "type": "g",
+    "cal": 99,
+    "carbs": 21,
+    "protein": 5,
+    "fat": 0.1
+  },
+  {
+    "name": "Riz saute singapourien",
+    "type": "g",
+    "cal": 180,
+    "carbs": 30,
+    "protein": 7,
+    "fat": 5
+  },
+  {
+    "name": "Congee",
+    "type": "g",
+    "cal": 70,
+    "carbs": 15,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Pancake coreen",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 18,
+    "protein": 4,
+    "fat": 5
+  },
+  {
+    "name": "Chapati",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Dahl lentilles",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Curry pois chiches",
+    "type": "g",
+    "cal": 164,
+    "carbs": 27,
+    "protein": 8.9,
+    "fat": 2.6
+  },
+  {
+    "name": "Falafel maison",
+    "type": "unit",
+    "cal": 57,
+    "carbs": 5,
+    "protein": 2.5,
+    "fat": 3
+  },
+  {
+    "name": "Hummus",
+    "type": "g",
+    "cal": 166,
+    "carbs": 14,
+    "protein": 8,
+    "fat": 10
+  },
+  {
+    "name": "Shakshuka",
+    "type": "g",
+    "cal": 150,
+    "carbs": 8,
+    "protein": 9,
+    "fat": 8
+  },
+  {
+    "name": "Baba ganoush",
+    "type": "g",
+    "cal": 110,
+    "carbs": 6,
+    "protein": 2,
+    "fat": 9
+  },
+  {
+    "name": "Taboule libanais",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 3,
+    "fat": 3
+  },
+  {
+    "name": "Couscous legumes",
+    "type": "g",
+    "cal": 112,
+    "carbs": 23.2,
+    "protein": 3.8,
+    "fat": 0.2
+  },
+  {
+    "name": "Labneh",
+    "type": "g",
+    "cal": 97,
+    "carbs": 3,
+    "protein": 5,
+    "fat": 7
+  },
+  {
+    "name": "Pita",
+    "type": "unit",
+    "cal": 170,
+    "carbs": 33,
+    "protein": 6,
+    "fat": 1
+  },
+  {
+    "name": "Dolma",
+    "type": "g",
+    "cal": 120,
+    "carbs": 15,
+    "protein": 4,
+    "fat": 6
+  },
+  {
+    "name": "Kofta",
+    "type": "unit",
+    "cal": 180,
+    "carbs": 4,
+    "protein": 18,
+    "fat": 10
+  },
+  {
+    "name": "Bulgur pilaf",
+    "type": "g",
+    "cal": 150,
+    "carbs": 30,
+    "protein": 5,
+    "fat": 1
+  },
+  {
+    "name": "Moussaka",
+    "type": "g",
+    "cal": 180,
+    "carbs": 15,
+    "protein": 10,
+    "fat": 10
+  },
+  {
+    "name": "Baklava",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 25,
+    "protein": 3,
+    "fat": 7
+  },
+  {
+    "name": "Halva",
+    "type": "g",
+    "cal": 400,
+    "carbs": 45,
+    "protein": 6,
+    "fat": 22
+  },
+  {
+    "name": "Tahini",
+    "type": "g",
+    "cal": 595,
+    "carbs": 21,
+    "protein": 17,
+    "fat": 53
+  },
+  {
+    "name": "Accra banane",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 25,
+    "protein": 1,
+    "fat": 3
+  },
+  {
+    "name": "Fufu manioc",
+    "type": "g",
+    "cal": 160,
+    "carbs": 38,
+    "protein": 1.4,
+    "fat": 0.5
+  },
+  {
+    "name": "Yassa poulet",
+    "type": "g",
+    "cal": 210,
+    "carbs": 10,
+    "protein": 25,
+    "fat": 8
+  },
+  {
+    "name": "Maafe boeuf",
+    "type": "g",
+    "cal": 230,
+    "carbs": 12,
+    "protein": 20,
+    "fat": 14
+  },
+  {
+    "name": "Attieke poisson",
+    "type": "g",
+    "cal": 200,
+    "carbs": 40,
+    "protein": 18,
+    "fat": 5
+  },
+  {
+    "name": "Poulet braise antillais",
+    "type": "g",
+    "cal": 220,
+    "carbs": 0,
+    "protein": 28,
+    "fat": 12
+  },
+  {
+    "name": "Bananes flambees",
+    "type": "g",
+    "cal": 120,
+    "carbs": 30,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Bouillie de mil sucree",
+    "type": "g",
+    "cal": 112,
+    "carbs": 24,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Chikwangue",
+    "type": "g",
+    "cal": 150,
+    "carbs": 35,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Gari soake",
+    "type": "g",
+    "cal": 160,
+    "carbs": 38,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Porridge caribeen",
+    "type": "g",
+    "cal": 130,
+    "carbs": 27,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Pain de singe (fruit du baobab)",
+    "type": "g",
+    "cal": 250,
+    "carbs": 58,
+    "protein": 2,
+    "fat": 3
+  },
+  {
+    "name": "Saka saka",
+    "type": "g",
+    "cal": 95,
+    "carbs": 10,
+    "protein": 3,
+    "fat": 5
+  },
+  {
+    "name": "Chou coco antillais",
+    "type": "g",
+    "cal": 50,
+    "carbs": 5,
+    "protein": 2,
+    "fat": 3
+  },
+  {
+    "name": "Poulet teriyaki",
+    "type": "g",
+    "cal": 190,
+    "carbs": 8,
+    "protein": 22,
+    "fat": 7
+  },
+  {
+    "name": "Poulet korma",
+    "type": "g",
+    "cal": 200,
+    "carbs": 10,
+    "protein": 20,
+    "fat": 10
+  },
+  {
+    "name": "Curry crevettes",
+    "type": "g",
+    "cal": 180,
+    "carbs": 7,
+    "protein": 18,
+    "fat": 8
+  },
+  {
+    "name": "Gateau de manioc",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 35,
+    "protein": 2,
+    "fat": 1
+  },
+  {
+    "name": "Pain patate",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 28,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Banh xeo vietnamien",
+    "type": "unit",
+    "cal": 220,
+    "carbs": 20,
+    "protein": 12,
+    "fat": 12
+  },
+  {
+    "name": "Bun bo Hue",
+    "type": "g",
+    "cal": 250,
+    "carbs": 30,
+    "protein": 15,
+    "fat": 10
+  },
+  {
+    "name": "Pho bo vietnamien",
+    "type": "g",
+    "cal": 150,
+    "carbs": 25,
+    "protein": 10,
+    "fat": 4
+  },
+  {
+    "name": "Riz cantonnais",
+    "type": "g",
+    "cal": 180,
+    "carbs": 30,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Nouilles udon",
+    "type": "g",
+    "cal": 127,
+    "carbs": 25,
+    "protein": 5,
+    "fat": 1
+  },
+  {
+    "name": "Riz gluant mangue",
+    "type": "g",
+    "cal": 200,
+    "carbs": 45,
+    "protein": 4,
+    "fat": 5
+  },
+  {
+    "name": "Poulet satay indonesien",
+    "type": "g",
+    "cal": 200,
+    "carbs": 5,
+    "protein": 20,
+    "fat": 12
+  },
+  {
+    "name": "Nasi campur",
+    "type": "g",
+    "cal": 250,
+    "carbs": 35,
+    "protein": 15,
+    "fat": 10
+  },
+  {
+    "name": "Curry dhal",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Riz basmati indien",
+    "type": "g",
+    "cal": 130,
+    "carbs": 28,
+    "protein": 2.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Chapati indien",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 4,
+    "fat": 3
+  },
+  {
+    "name": "Dosa",
+    "type": "unit",
+    "cal": 112,
+    "carbs": 22,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Idli",
+    "type": "unit",
+    "cal": 39,
+    "carbs": 8,
+    "protein": 2,
+    "fat": 0.2
+  },
+  {
+    "name": "Sambal indonesien",
+    "type": "g",
+    "cal": 80,
+    "carbs": 10,
+    "protein": 1,
+    "fat": 3
+  },
+  {
+    "name": "Curry de legumes thai",
+    "type": "g",
+    "cal": 130,
+    "carbs": 15,
+    "protein": 4,
+    "fat": 7
+  },
+  {
+    "name": "Poulet pad kra pao",
+    "type": "g",
+    "cal": 190,
+    "carbs": 6,
+    "protein": 22,
+    "fat": 8
+  },
+  {
+    "name": "Tom yum soupe",
+    "type": "g",
+    "cal": 80,
+    "carbs": 6,
+    "protein": 8,
+    "fat": 4
+  },
+  {
+    "name": "Som tam (salade papaye)",
+    "type": "g",
+    "cal": 50,
+    "carbs": 12,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Riz saute thai",
+    "type": "g",
+    "cal": 180,
+    "carbs": 30,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Pho ga vietnamien",
+    "type": "g",
+    "cal": 140,
+    "carbs": 25,
+    "protein": 10,
+    "fat": 3
+  },
+  {
+    "name": "Banh cuon",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 22,
+    "protein": 6,
+    "fat": 3
+  },
+  {
+    "name": "Satay tofu",
+    "type": "g",
+    "cal": 150,
+    "carbs": 5,
+    "protein": 12,
+    "fat": 8
+  },
+  {
+    "name": "Yakitori poulet",
+    "type": "unit",
+    "cal": 80,
+    "carbs": 2,
+    "protein": 7,
+    "fat": 5
+  },
+  {
+    "name": "Okra sauce tomate",
+    "type": "g",
+    "cal": 60,
+    "carbs": 10,
+    "protein": 2,
+    "fat": 1
+  },
+  {
+    "name": "Feves a l’huile d’olive",
+    "type": "g",
+    "cal": 140,
+    "carbs": 20,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Poisson braise africain",
+    "type": "g",
+    "cal": 180,
+    "carbs": 0,
+    "protein": 25,
+    "fat": 8
+  },
+  {
+    "name": "Soupe de haricots rouges antillaise",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 6,
+    "fat": 2
+  },
+  {
+    "name": "Taro cuit",
+    "type": "g",
+    "cal": 142,
+    "carbs": 34,
+    "protein": 2,
+    "fat": 0.1
+  },
+  {
+    "name": "Pudding de manioc",
+    "type": "g",
+    "cal": 150,
+    "carbs": 36,
+    "protein": 1.5,
+    "fat": 1.2
+  },
+  {
+    "name": "Beignets de crevettes",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 15,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Salade grecque",
+    "type": "g",
+    "cal": 120,
+    "carbs": 5,
+    "protein": 4,
+    "fat": 10
+  },
+  {
+    "name": "Poulet roti a la provencale",
+    "type": "g",
+    "cal": 180,
+    "carbs": 0,
+    "protein": 25,
+    "fat": 8
+  },
+  {
+    "name": "Saumon fume",
+    "type": "g",
+    "cal": 117,
+    "carbs": 0,
+    "protein": 18,
+    "fat": 5
+  },
+  {
+    "name": "Tartine avocat et œuf",
+    "type": "unit",
+    "cal": 220,
+    "carbs": 18,
+    "protein": 10,
+    "fat": 12
+  },
+  {
+    "name": "Smoothie banane-epinards",
+    "type": "g",
+    "cal": 70,
+    "carbs": 15,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Muesli nature",
+    "type": "g",
+    "cal": 380,
+    "carbs": 60,
+    "protein": 10,
+    "fat": 7
+  },
+  {
+    "name": "Yaourt grec 0%",
+    "type": "g",
+    "cal": 59,
+    "carbs": 3.6,
+    "protein": 10,
+    "fat": 0.4
+  },
+  {
+    "name": "Omelette aux legumes",
+    "type": "g",
+    "cal": 150,
+    "carbs": 2,
+    "protein": 12,
+    "fat": 10
+  },
+  {
+    "name": "Quiche sans pate",
+    "type": "unit",
+    "cal": 180,
+    "carbs": 4,
+    "protein": 12,
+    "fat": 12
+  },
+  {
+    "name": "Ratatouille",
+    "type": "g",
+    "cal": 70,
+    "carbs": 10,
+    "protein": 2,
+    "fat": 3
+  },
+  {
+    "name": "Soupe de legumes maison",
+    "type": "g",
+    "cal": 45,
+    "carbs": 8,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Salade de lentilles",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Pois chiches rotis",
+    "type": "g",
+    "cal": 164,
+    "carbs": 27,
+    "protein": 8.9,
+    "fat": 2.6
+  },
+  {
+    "name": "Tempeh au four",
+    "type": "g",
+    "cal": 193,
+    "carbs": 9,
+    "protein": 20,
+    "fat": 11
+  },
+  {
+    "name": "Saumon grille",
+    "type": "g",
+    "cal": 208,
+    "carbs": 0,
+    "protein": 20,
+    "fat": 13
+  },
+  {
+    "name": "Cabillaud vapeur",
+    "type": "g",
+    "cal": 105,
+    "carbs": 0,
+    "protein": 23,
+    "fat": 1
+  },
+  {
+    "name": "Truite",
+    "type": "g",
+    "cal": 148,
+    "carbs": 0,
+    "protein": 20,
+    "fat": 7
+  },
+  {
+    "name": "Pommes de terre vapeur",
+    "type": "g",
+    "cal": 77,
+    "carbs": 17,
+    "protein": 2,
+    "fat": 0.1
+  },
+  {
+    "name": "Courgettes sautees",
+    "type": "g",
+    "cal": 17,
+    "carbs": 3,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Carottes vapeur",
+    "type": "g",
+    "cal": 41,
+    "carbs": 10,
+    "protein": 0.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Chou kale",
+    "type": "g",
+    "cal": 49,
+    "carbs": 9,
+    "protein": 4,
+    "fat": 0.9
+  },
+  {
+    "name": "Avocat tranche",
+    "type": "unit",
+    "cal": 160,
+    "carbs": 9,
+    "protein": 2,
+    "fat": 15
+  },
+  {
+    "name": "Graines de courge",
+    "type": "g",
+    "cal": 446,
+    "carbs": 16,
+    "protein": 19,
+    "fat": 19
+  },
+  {
+    "name": "Graines de tournesol",
+    "type": "g",
+    "cal": 584,
+    "carbs": 20,
+    "protein": 21,
+    "fat": 51
+  },
+  {
+    "name": "Pain de seigle",
+    "type": "unit",
+    "cal": 75,
+    "carbs": 14,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Pain aux cereales",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 16,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Croissant complet",
+    "type": "unit",
+    "cal": 200,
+    "carbs": 23,
+    "protein": 5,
+    "fat": 10
+  },
+  {
+    "name": "Flocons d’avoine",
+    "type": "g",
+    "cal": 367,
+    "carbs": 60,
+    "protein": 13,
+    "fat": 7
+  },
+  {
+    "name": "Quinoa cuit",
+    "type": "g",
+    "cal": 120,
+    "carbs": 21,
+    "protein": 4.1,
+    "fat": 1.9
+  },
+  {
+    "name": "Riz complet cuit",
+    "type": "g",
+    "cal": 111,
+    "carbs": 23,
+    "protein": 2.6,
+    "fat": 0.9
+  },
+  {
+    "name": "Pates completes cuites",
+    "type": "g",
+    "cal": 157,
+    "carbs": 30,
+    "protein": 5.5,
+    "fat": 1
+  },
+  {
+    "name": "Lentilles vertes cuites",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Pois chiches cuits",
+    "type": "g",
+    "cal": 164,
+    "carbs": 27,
+    "protein": 8.9,
+    "fat": 2.6
+  },
+  {
+    "name": "Haricots blancs cuits",
+    "type": "g",
+    "cal": 127,
+    "carbs": 22,
+    "protein": 8.7,
+    "fat": 0.5
+  },
+  {
+    "name": "Pois casses cuits",
+    "type": "g",
+    "cal": 118,
+    "carbs": 21,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Filet de poulet",
+    "type": "g",
+    "cal": 165,
+    "carbs": 0,
+    "protein": 31,
+    "fat": 4
+  },
+  {
+    "name": "Filet de dinde",
+    "type": "g",
+    "cal": 135,
+    "carbs": 0,
+    "protein": 31,
+    "fat": 3
+  },
+  {
+    "name": "Houmous maison",
+    "type": "g",
+    "cal": 166,
+    "carbs": 14,
+    "protein": 8,
+    "fat": 10
+  },
+  {
+    "name": "Falafel cuit",
+    "type": "unit",
+    "cal": 57,
+    "carbs": 5,
+    "protein": 2.5,
+    "fat": 3
+  },
+  {
+    "name": "Ricotta light",
+    "type": "g",
+    "cal": 150,
+    "carbs": 3,
+    "protein": 11,
+    "fat": 10
+  },
+  {
+    "name": "Cabillaud",
+    "type": "g",
+    "cal": 105,
+    "carbs": 0,
+    "protein": 23,
+    "fat": 1
+  },
+  {
+    "name": "Moules",
+    "type": "g",
+    "cal": 86,
+    "carbs": 3.7,
+    "protein": 12,
+    "fat": 2.2
+  },
+  {
+    "name": "Huitres",
+    "type": "g",
+    "cal": 68,
+    "carbs": 4,
+    "protein": 7,
+    "fat": 2
+  },
+  {
+    "name": "Emmental",
+    "type": "g",
+    "cal": 380,
+    "carbs": 1,
+    "protein": 27,
+    "fat": 30
+  },
+  {
+    "name": "Muesli fruits secs",
+    "type": "g",
+    "cal": 400,
+    "carbs": 55,
+    "protein": 9,
+    "fat": 15
+  },
+  {
+    "name": "Granola bar maison",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 20,
+    "protein": 5,
+    "fat": 6
+  },
+  {
+    "name": "Compote pomme sans sucre",
+    "type": "g",
+    "cal": 68,
+    "carbs": 17,
+    "protein": 0.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Fruits rouges frais",
+    "type": "g",
+    "cal": 32,
+    "carbs": 8,
+    "protein": 0.6,
+    "fat": 0.3
+  },
+  {
+    "name": "Smoothie fraise-banane",
+    "type": "g",
+    "cal": 60,
+    "carbs": 13,
+    "protein": 1,
+    "fat": 0.3
+  },
+  {
+    "name": "Soupe potiron",
+    "type": "g",
+    "cal": 40,
+    "carbs": 8,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Veloute legumes verts",
+    "type": "g",
+    "cal": 45,
+    "carbs": 9,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Beignet de banane antillais",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 25,
+    "protein": 1,
+    "fat": 3
+  },
+  {
+    "name": "Gateau patate douce antillais",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 35,
+    "protein": 2,
+    "fat": 2
+  },
+  {
+    "name": "Boulettes de manioc africaines",
+    "type": "unit",
+    "cal": 130,
+    "carbs": 28,
+    "protein": 2,
+    "fat": 1
+  },
+  {
+    "name": "Pudding de tapioca",
+    "type": "unit",
+    "cal": 140,
+    "carbs": 30,
+    "protein": 2,
+    "fat": 2
+  },
+  {
+    "name": "Flan coco antillais",
+    "type": "unit",
+    "cal": 180,
+    "carbs": 25,
+    "protein": 4,
+    "fat": 8
+  },
+  {
+    "name": "Beignets de crevettes asiatiques",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 15,
+    "protein": 6,
+    "fat": 5
+  },
+  {
+    "name": "Spring rolls vegetariens",
+    "type": "unit",
+    "cal": 90,
+    "carbs": 12,
+    "protein": 3,
+    "fat": 4
+  },
+  {
+    "name": "Mochi japonais",
+    "type": "unit",
+    "cal": 100,
+    "carbs": 22,
+    "protein": 2,
+    "fat": 0.5
+  },
+  {
+    "name": "Pudding de riz thai",
+    "type": "g",
+    "cal": 200,
+    "carbs": 45,
+    "protein": 4,
+    "fat": 5
+  },
+  {
+    "name": "Gateau de riz vietnamien",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 25,
+    "protein": 3,
+    "fat": 2
+  },
+  {
+    "name": "Chou coco antillais gratine",
+    "type": "g",
+    "cal": 60,
+    "carbs": 5,
+    "protein": 2,
+    "fat": 3
+  },
+  {
+    "name": "Fufu plantain",
+    "type": "g",
+    "cal": 160,
+    "carbs": 38,
+    "protein": 1.5,
+    "fat": 0.5
+  },
+  {
+    "name": "Beignets manioc",
+    "type": "unit",
+    "cal": 130,
+    "carbs": 30,
+    "protein": 2,
+    "fat": 1
+  },
+  {
+    "name": "Banh bao vietnamien",
+    "type": "unit",
+    "cal": 150,
+    "carbs": 28,
+    "protein": 5,
+    "fat": 4
+  },
+  {
+    "name": "Poulet yassa senegalais",
+    "type": "g",
+    "cal": 210,
+    "carbs": 10,
+    "protein": 25,
+    "fat": 8
+  },
+  {
+    "name": "Maafe senegalais",
+    "type": "g",
+    "cal": 230,
+    "carbs": 12,
+    "protein": 20,
+    "fat": 14
+  },
+  {
+    "name": "Riz jollof nigerian",
+    "type": "g",
+    "cal": 180,
+    "carbs": 35,
+    "protein": 6,
+    "fat": 4
+  },
+  {
+    "name": "Gari soake ivoirien",
+    "type": "g",
+    "cal": 160,
+    "carbs": 38,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Pain patate antillais",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 28,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Bun bo Hue vietnamien",
+    "type": "g",
+    "cal": 250,
+    "carbs": 30,
+    "protein": 15,
+    "fat": 10
+  },
+  {
+    "name": "Nasi campur indonesien",
+    "type": "g",
+    "cal": 250,
+    "carbs": 35,
+    "protein": 15,
+    "fat": 10
+  },
+  {
+    "name": "Curry dhal indien",
+    "type": "g",
+    "cal": 116,
+    "carbs": 20,
+    "protein": 9,
+    "fat": 0.4
+  },
+  {
+    "name": "Dosa indien",
+    "type": "unit",
+    "cal": 112,
+    "carbs": 22,
+    "protein": 3,
+    "fat": 1
+  },
+  {
+    "name": "Idli indien",
+    "type": "unit",
+    "cal": 39,
+    "carbs": 8,
+    "protein": 2,
+    "fat": 0.2
+  },
+  {
+    "name": "Curry legumes thai",
+    "type": "g",
+    "cal": 130,
+    "carbs": 15,
+    "protein": 4,
+    "fat": 7
+  },
+  {
+    "name": "Pad kra pao poulet",
+    "type": "g",
+    "cal": 190,
+    "carbs": 6,
+    "protein": 22,
+    "fat": 8
+  },
+  {
+    "name": "Som tam salade papaye",
+    "type": "g",
+    "cal": 50,
+    "carbs": 12,
+    "protein": 1,
+    "fat": 0.5
+  },
+  {
+    "name": "Banh cuon vietnamien",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 22,
+    "protein": 6,
+    "fat": 3
+  },
+  {
+    "name": "Soupe haricots rouges antillaise",
+    "type": "g",
+    "cal": 120,
+    "carbs": 20,
+    "protein": 6,
+    "fat": 2
+  },
+  {
+    "name": "Pudding manioc",
+    "type": "g",
+    "cal": 150,
+    "carbs": 36,
+    "protein": 1.5,
+    "fat": 1.2
+  },
+  {
+    "name": "Beignets crevettes",
+    "type": "unit",
+    "cal": 120,
+    "carbs": 15,
+    "protein": 6,
+    "fat": 5
+  }
 ]
