@@ -297,7 +297,7 @@
 {"name":"Som tam (salade papaye)","type":"g","cal":50,"carbs":12,"protein":1,"fat":0.5},
 {"name":"Riz sauté thaï","type":"g","cal":180,"carbs":30,"protein":6,"fat":5},
 {"name":"Pho ga vietnamien","type":"g","cal":140,"carbs":25,"protein":10,"fat":3},
-{"name":"Banh cuon","type":"unit","cal":120,"carbs":22,"protein":6,"fat":3}
+{"name":"Banh cuon","type":"unit","cal":120,"carbs":22,"protein":6,"fat":3},
 {"name":"Satay tofu","type":"g","cal":150,"carbs":5,"protein":12,"fat":8},
 {"name":"Yakitori poulet","type":"unit","cal":80,"carbs":2,"protein":7,"fat":5},
 {"name":"Okra sauce tomate","type":"g","cal":60,"carbs":10,"protein":2,"fat":1},
