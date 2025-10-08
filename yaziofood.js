@@ -1,5 +1,4 @@
 [
-  {
 {"name":"Banane","type":"unit","cal":105,"carbs":27,"protein":1.3,"fat":0.3},
 {"name":"Fromage pâte dure","type":"g","cal":380,"carbs":1,"protein":27,"fat":30},
 {"name":"Pizza classique","type":"g","cal":266,"carbs":33,"protein":11,"fat":10},
@@ -426,5 +425,4 @@
 {"name":"Taro cuit","type":"g","cal":142,"carbs":34,"protein":2,"fat":0.1},
 {"name":"Pudding manioc","type":"g","cal":150,"carbs":36,"protein":1.5,"fat":1.2},
 {"name":"Beignets crevettes","type":"unit","cal":120,"carbs":15,"protein":6,"fat":5}
-  }
 ]
